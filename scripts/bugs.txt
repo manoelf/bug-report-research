@@ -1,0 +1,1000 @@
+   href="/show_bug.cgi?id=1408108">1408108</a>
+        <a href="/show_bug.cgi?id=1408108">Rename &quot;Sync ID&quot; to &quot;record ID&quot; in the bookmarks engine and `Places<wbr>Sync<wbr>Utils`        </a>
+   href="/show_bug.cgi?id=1417698">1417698</a>
+        <a href="/show_bug.cgi?id=1417698">Use mozilla recommended eslint rules and remove rules duplicating those recommendations        </a>
+   href="/show_bug.cgi?id=521116">521116</a>
+        <a href="/show_bug.cgi?id=521116">showing &quot;All bookmarks&quot; from the awesomebar/autocomplete dropdown option can be very slow        </a>
+   href="/show_bug.cgi?id=759911">759911</a>
+        <a href="/show_bug.cgi?id=759911">include human readable build ID, version, and channel in device info        </a>
+   href="/show_bug.cgi?id=768939">768939</a>
+        <a href="/show_bug.cgi?id=768939">[settings][l10n]Setting locale in gaia settings app should set LOCALE or general<wbr>.useragent<wbr>.locale in all e10s process        </a>
+   href="/show_bug.cgi?id=796079">796079</a>
+        <a href="/show_bug.cgi?id=796079">language<wbr>.current should map to general<wbr>.useragent<wbr>.locale instead of intl<wbr>.accept<wbr>_languages        </a>
+   href="/show_bug.cgi?id=808724">808724</a>
+        <a href="/show_bug.cgi?id=808724">Move the keyboard iframe above the application iframe and use the new property to ignore transparent background while resolving clicks        </a>
+   href="/show_bug.cgi?id=811328">811328</a>
+        <a href="/show_bug.cgi?id=811328">Remove all references of 'Firefox' in Gaia code        </a>
+   href="/show_bug.cgi?id=814074">814074</a>
+        <a href="/show_bug.cgi?id=814074">Send a system message to the application when the application is not running anymore but waits for a notification        </a>
+   href="/show_bug.cgi?id=818148">818148</a>
+        <a href="/show_bug.cgi?id=818148">Use a system message when the application is closed        </a>
+   href="/show_bug.cgi?id=822523">822523</a>
+        <a href="/show_bug.cgi?id=822523">Changes to B2G Telemetry text        </a>
+   href="/show_bug.cgi?id=822958">822958</a>
+        <a href="/show_bug.cgi?id=822958">major first<wbr>Paint regression (up to 40%) and raise in variance        </a>
+   href="/show_bug.cgi?id=943845">943845</a>
+        <a href="/show_bug.cgi?id=943845">[Gallery] There is a little delay between before rendering the images while panning<wbr>.        </a>
+   href="/show_bug.cgi?id=967274">967274</a>
+        <a href="/show_bug.cgi?id=967274">[Contacts] Background doesn't scroll with the contacts causing expensive over-invalidation        </a>
+   href="/show_bug.cgi?id=967277">967277</a>
+        <a href="/show_bug.cgi?id=967277">[Contacts] Scrolling the contacts app causes reflow        </a>
+   href="/show_bug.cgi?id=967878">967878</a>
+        <a href="/show_bug.cgi?id=967878">[Messages] Background doesn't scroll with the threads causing expensive over-invalidation        </a>
+   href="/show_bug.cgi?id=967880">967880</a>
+        <a href="/show_bug.cgi?id=967880">[Call Log] Background doesn't scroll with the logs causing expensive over-invalidation        </a>
+   href="/show_bug.cgi?id=969544">969544</a>
+        <a href="/show_bug.cgi?id=969544">Toggling the highlighted class of a keyboard key create reflow        </a>
+   href="/show_bug.cgi?id=978544">978544</a>
+        <a href="/show_bug.cgi?id=978544">Ignore events targetting a ns<wbr>IMoz<wbr>Browser<wbr>Frame in Browser<wbr>Element<wbr>Panning<wbr>.js        </a>
+   href="/show_bug.cgi?id=1022746">1022746</a>
+        <a href="/show_bug.cgi?id=1022746">The call log isn't using APZC anymore :/        </a>
+   href="/show_bug.cgi?id=1399897">1399897</a>
+        <a href="/show_bug.cgi?id=1399897">Restrict the height of console<wbr>.table        </a>
+   href="/show_bug.cgi?id=937074">937074</a>
+        <a href="/show_bug.cgi?id=937074">[B2G][Helix][Blue<wbr>Tooth][wangyuguo]The device can not hear voice after connect BT headset when calling<wbr>.        </a>
+   href="/show_bug.cgi?id=997962">997962</a>
+        <a href="/show_bug.cgi?id=997962">Crash in mozilla::dom::bluetooth::Bluetooth<wbr>Request<wbr>Parent::Reply<wbr>Runnable        </a>
+   href="/show_bug.cgi?id=1354567">1354567</a>
+        <a href="/show_bug.cgi?id=1354567">Convert text shadow display items to WR        </a>
+   href="/show_bug.cgi?id=1392723">1392723</a>
+        <a href="/show_bug.cgi?id=1392723">Turn on text layers by default        </a>
+   href="/show_bug.cgi?id=1395748">1395748</a>
+        <a href="/show_bug.cgi?id=1395748">text-layers: shadows with selections are mishandled        </a>
+   href="/show_bug.cgi?id=1397361">1397361</a>
+        <a href="/show_bug.cgi?id=1397361">text-layers: oblique text gets offset badly        </a>
+   href="/show_bug.cgi?id=1399274">1399274</a>
+        <a href="/show_bug.cgi?id=1399274">text-layers: invisible text doesn't have shadows        </a>
+   href="/show_bug.cgi?id=1399278">1399278</a>
+        <a href="/show_bug.cgi?id=1399278">wr-text: small emoji?        </a>
+   href="/show_bug.cgi?id=1399564">1399564</a>
+        <a href="/show_bug.cgi?id=1399564">text-layers: implement selection-specific decorations        </a>
+   href="/show_bug.cgi?id=1400382">1400382</a>
+        <a href="/show_bug.cgi?id=1400382">text-layers: implement text-overflow: ellipsis        </a>
+   href="/show_bug.cgi?id=1400411">1400411</a>
+        <a href="/show_bug.cgi?id=1400411">Stop using a Draw<wbr>Target<wbr>Skia inside of Text<wbr>Draw<wbr>Target        </a>
+   href="/show_bug.cgi?id=1401653">1401653</a>
+        <a href="/show_bug.cgi?id=1401653">wr-text: implement decoration fusion(?)        </a>
+   href="/show_bug.cgi?id=1403259">1403259</a>
+        <a href="/show_bug.cgi?id=1403259">Crash in mozilla::layout::Text<wbr>Draw<wbr>Target::Stroke<wbr>Glyphs        </a>
+   href="/show_bug.cgi?id=1403261">1403261</a>
+        <a href="/show_bug.cgi?id=1403261">wr-text: implement partial ligatures?        </a>
+   href="/show_bug.cgi?id=1404370">1404370</a>
+        <a href="/show_bug.cgi?id=1404370">text-layers: fallback on remaining unimplemented corner cases        </a>
+   href="/show_bug.cgi?id=1405765">1405765</a>
+        <a href="/show_bug.cgi?id=1405765">zero-width spaces cause text fallback        </a>
+   href="/show_bug.cgi?id=1405927">1405927</a>
+        <a href="/show_bug.cgi?id=1405927">Remove Actual Text-Layers        </a>
+   href="/show_bug.cgi?id=1406179">1406179</a>
+        <a href="/show_bug.cgi?id=1406179">perspective+preserve-3d corrupts text rendering        </a>
+   href="/show_bug.cgi?id=1406231">1406231</a>
+        <a href="/show_bug.cgi?id=1406231">Remove Text<wbr>Layer class (and associated code)        </a>
+   href="/show_bug.cgi?id=1406510">1406510</a>
+        <a href="/show_bug.cgi?id=1406510">Use DLBuilder save-restore to stream Text<wbr>Draw<wbr>Target commands?        </a>
+   href="/show_bug.cgi?id=1407652">1407652</a>
+        <a href="/show_bug.cgi?id=1407652">wr-text: fix quirks shadows        </a>
+   href="/show_bug.cgi?id=1407753">1407753</a>
+        <a href="/show_bug.cgi?id=1407753">ns<wbr>Display<wbr>Field<wbr>Set<wbr>Border falls back on Gmail        </a>
+   href="/show_bug.cgi?id=1407767">1407767</a>
+        <a href="/show_bug.cgi?id=1407767">wr-text: (re)implement text bullets        </a>
+   href="/show_bug.cgi?id=1409564">1409564</a>
+        <a href="/show_bug.cgi?id=1409564">There seems to be a gray overlay that appears when scrolling through the page        </a>
+   href="/show_bug.cgi?id=1412375">1412375</a>
+        <a href="/show_bug.cgi?id=1412375">Masks incorrectly apply to masked contents individually instead of to the &quot;transparency group&quot;        </a>
+   href="/show_bug.cgi?id=1413290">1413290</a>
+        <a href="/show_bug.cgi?id=1413290">Text serialization is still too slow        </a>
+   href="/show_bug.cgi?id=1413459">1413459</a>
+        <a href="/show_bug.cgi?id=1413459">Decorations get drawn multiple times with selections in webrender        </a>
+   href="/show_bug.cgi?id=1416535">1416535</a>
+        <a href="/show_bug.cgi?id=1416535">too long link underline (made with box-shadow) on cnet<wbr>.com        </a>
+   href="/show_bug.cgi?id=1420430">1420430</a>
+        <a href="/show_bug.cgi?id=1420430">Figure out why we rebuild scenes so often (particularly when playing video)        </a>
+   href="/show_bug.cgi?id=1423346">1423346</a>
+        <a href="/show_bug.cgi?id=1423346">Use the correct upload mechanism with ANGLE        </a>
+   href="/show_bug.cgi?id=1429577">1429577</a>
+        <a href="/show_bug.cgi?id=1429577">webrender isn't using subpixel AA on a bunch of text bullets        </a>
+   href="/show_bug.cgi?id=1430869">1430869</a>
+        <a href="/show_bug.cgi?id=1430869">The taller a table caption is the more rows of a table lose their border with border-collapse: collapse        </a>
+   href="/show_bug.cgi?id=1432309">1432309</a>
+        <a href="/show_bug.cgi?id=1432309">Text rendering corruptions with Web<wbr>Render        </a>
+   href="/show_bug.cgi?id=1435094">1435094</a>
+        <a href="/show_bug.cgi?id=1435094">Characters of text in animated boxes on qt<wbr>.io skip pixels rather than animating smoothly        </a>
+   href="/show_bug.cgi?id=1437620">1437620</a>
+        <a href="/show_bug.cgi?id=1437620">webrender incorrectly claims to implement text-combine: upright        </a>
+   href="/show_bug.cgi?id=1451424">1451424</a>
+        <a href="/show_bug.cgi?id=1451424">Audit hit testing with blob images        </a>
+   href="/show_bug.cgi?id=1454097">1454097</a>
+        <a href="/show_bug.cgi?id=1454097">Bad subpixel AA in tabs and urlbar when fade-out effect is applied        </a>
+   href="/show_bug.cgi?id=1458177">1458177</a>
+        <a href="/show_bug.cgi?id=1458177">text shadow misbehaves with webrender async scene building        </a>
+   href="/show_bug.cgi?id=1461204">1461204</a>
+        <a href="/show_bug.cgi?id=1461204">Crash in mozilla::layers::DIGroup::Compute<wbr>Geometry<wbr>Change (needs test)        </a>
+   href="/show_bug.cgi?id=1465948">1465948</a>
+        <a href="/show_bug.cgi?id=1465948">crates<wbr>.io download graphs are broken on Web<wbr>Render        </a>
+   href="/show_bug.cgi?id=1489937">1489937</a>
+        <a href="/show_bug.cgi?id=1489937">Text runs seem to get an incorrect backface-visible flag in the display list        </a>
+   href="/show_bug.cgi?id=1544895">1544895</a>
+        <a href="/show_bug.cgi?id=1544895">Bugzilla summary is visible over the persistent header when  scrolling down (with non modal bz UI)        </a>
+   href="/show_bug.cgi?id=1614697">1614697</a>
+        <a href="/show_bug.cgi?id=1614697">Thread<wbr>Sanitizer: data race [&#64; mozilla::net::ns<wbr>Http<wbr>Channel::On<wbr>Cache<wbr>Entry<wbr>Check] vs<wbr>. [&#64; ~Auto<wbr>Cache<wbr>Wait<wbr>Flags]        </a>
+   href="/show_bug.cgi?id=1619094">1619094</a>
+        <a href="/show_bug.cgi?id=1619094">dom/webauthn/libudev-sys is third party code        </a>
+   href="/show_bug.cgi?id=1471695">1471695</a>
+        <a href="/show_bug.cgi?id=1471695">Add installed add-ons targeting to AS Router        </a>
+   href="/show_bug.cgi?id=1476688">1476688</a>
+        <a href="/show_bug.cgi?id=1476688">Support block/cap by provider        </a>
+   href="/show_bug.cgi?id=1478218">1478218</a>
+        <a href="/show_bug.cgi?id=1478218">Intermittent browser/extensions/activity-stream/test/functional/mochitest/browser<wbr>_asrouter<wbr>_targeting<wbr>.js | should select correct item when filtering by last<wbr>Visit<wbr>Date - Got undefined, expected [object Object]        </a>
+   href="/show_bug.cgi?id=1482464">1482464</a>
+        <a href="/show_bug.cgi?id=1482464">Unpin stops working in Top Sites / Type<wbr>Error: e<wbr>.identifier is null        </a>
+   href="/show_bug.cgi?id=1484030">1484030</a>
+        <a href="/show_bug.cgi?id=1484030">Chiclet animation for CFR        </a>
+   href="/show_bug.cgi?id=693555">693555</a>
+        <a href="/show_bug.cgi?id=693555">Update inline spell checker underlining  for multiprocess        </a>
+   href="/show_bug.cgi?id=901487">901487</a>
+        <a href="/show_bug.cgi?id=901487">Inconsistent spelling of &quot;add-ons&quot; in about:addons override for Metro, improve l10n structure of sentence        </a>
+   href="/show_bug.cgi?id=948937">948937</a>
+        <a href="/show_bug.cgi?id=948937">crash in java<wbr>.lang<wbr>.Class<wbr>Cast<wbr>Exception: org<wbr>.mozilla<wbr>.gecko<wbr>.home<wbr>.Two<wbr>Line<wbr>Page<wbr>Row cannot be cast to org<wbr>.mozilla<wbr>.gecko<wbr>.home<wbr>.Search<wbr>Engine<wbr>Row at org<wbr>.mozilla<wbr>.gecko<wbr>.home<wbr>.Browser<wbr>Search$Search<wbr>Adapter<wbr>.bind<wbr>View(Browser<wbr>Search<wbr>.java)        </a>
+   href="/show_bug.cgi?id=1025703">1025703</a>
+        <a href="/show_bug.cgi?id=1025703">Ignore autocomplete=&quot;off&quot; for filling login forms        </a>
+   href="/show_bug.cgi?id=1030451">1030451</a>
+        <a href="/show_bug.cgi?id=1030451">Update spellchecker context menu suggestions for multiprocess        </a>
+   href="/show_bug.cgi?id=1065004">1065004</a>
+        <a href="/show_bug.cgi?id=1065004">Provide an option to always external links in Private Browsing        </a>
+   href="/show_bug.cgi?id=1118863">1118863</a>
+        <a href="/show_bug.cgi?id=1118863">Add telemetry to know whether password saving is disabled globally        </a>
+   href="/show_bug.cgi?id=1124895">1124895</a>
+        <a href="/show_bug.cgi?id=1124895">Add password manager usage data to FHR        </a>
+   href="/show_bug.cgi?id=1136477">1136477</a>
+        <a href="/show_bug.cgi?id=1136477">Unify terminology of Passwords/Logins for about:logins (nee about:passwords)        </a>
+   href="/show_bug.cgi?id=870209">870209</a>
+        <a href="/show_bug.cgi?id=870209">polygamia<wbr>.pl doesn't send mobile content to Firefox OS        </a>
+   href="/show_bug.cgi?id=1328548">1328548</a>
+        <a href="/show_bug.cgi?id=1328548">http://fijivillage<wbr>.com - image slider allocates memory until crash        </a>
+   href="/show_bug.cgi?id=1483553">1483553</a>
+        <a href="/show_bug.cgi?id=1483553">Medium<wbr>.com's undo/redo is not working on FF Nightly for 2 months        </a>
+   href="/show_bug.cgi?id=1515005">1515005</a>
+        <a href="/show_bug.cgi?id=1515005">Roll out a site intervention to Release users to get a more frequent rollout process validated        </a>
+   href="/show_bug.cgi?id=1490727">1490727</a>
+        <a href="/show_bug.cgi?id=1490727">Implement one time, recurring payment workflow on MDN        </a>
+   href="/show_bug.cgi?id=1523273">1523273</a>
+        <a href="/show_bug.cgi?id=1523273">Prefer language-specific codes (en)  to locale-specific codes (en-US) in metadata, to address UK (en-UK) users seeing Bambara (bm) articles        </a>
+   href="/show_bug.cgi?id=1523662">1523662</a>
+        <a href="/show_bug.cgi?id=1523662">Google results contain &quot;&lt;wbr /&gt;&quot; in the displayed URL for some MDN pages        </a>
+   href="/show_bug.cgi?id=1443771">1443771</a>
+        <a href="/show_bug.cgi?id=1443771">Change Firefox about dialogue visual on ESR        </a>
+   href="/show_bug.cgi?id=909069">909069</a>
+        <a href="/show_bug.cgi?id=909069">oob1<wbr>.r101-04<wbr>.console<wbr>.scl3 issues        </a>
+   href="/show_bug.cgi?id=514723">514723</a>
+        <a href="/show_bug.cgi?id=514723">Exception when clicking on the stats tab        </a>
+   href="/show_bug.cgi?id=75785">75785</a>
+        <a href="/show_bug.cgi?id=75785">Make Gecko accessible        </a>
+   href="/show_bug.cgi?id=76570">76570</a>
+        <a href="/show_bug.cgi?id=76570">Active Accessibility: finish the widgets        </a>
+   href="/show_bug.cgi?id=81454">81454</a>
+        <a href="/show_bug.cgi?id=81454">Active Accessibility: expose tag name and attribs        </a>
+   href="/show_bug.cgi?id=82207">82207</a>
+        <a href="/show_bug.cgi?id=82207">Complete MSAA XUL support        </a>
+   href="/show_bug.cgi?id=88070">88070</a>
+        <a href="/show_bug.cgi?id=88070">Active Accessibility: Crashes occur with Immersion Desktop 2<wbr>.1<wbr>.6        </a>
+   href="/show_bug.cgi?id=92827">92827</a>
+        <a href="/show_bug.cgi?id=92827">Active Accessibility: refine behavior of client/pane objects        </a>
+   href="/show_bug.cgi?id=94238">94238</a>
+        <a href="/show_bug.cgi?id=94238">Active Accessibility: incorrect error code return values        </a>
+   href="/show_bug.cgi?id=94245">94245</a>
+        <a href="/show_bug.cgi?id=94245">Active Accessibility: in link ancestors, get<wbr>_acc<wbr>Value should return link URL        </a>
+   href="/show_bug.cgi?id=94249">94249</a>
+        <a href="/show_bug.cgi?id=94249">Active Accessibility: return title attribute for get<wbr>_acc<wbr>Name        </a>
+   href="/show_bug.cgi?id=94263">94263</a>
+        <a href="/show_bug.cgi?id=94263">Active Accessibility: text field contents not returned        </a>
+   href="/show_bug.cgi?id=94778">94778</a>
+        <a href="/show_bug.cgi?id=94778">Active Accessibility: Role for listbox windows incorrect        </a>
+   href="/show_bug.cgi?id=96065">96065</a>
+        <a href="/show_bug.cgi?id=96065">Active Accessibility: text nodes are not focusable        </a>
+   href="/show_bug.cgi?id=98781">98781</a>
+        <a href="/show_bug.cgi?id=98781">Active Accessibility: Implement support for XUL images        </a>
+   href="/show_bug.cgi?id=100498">100498</a>
+        <a href="/show_bug.cgi?id=100498">Active Accessibility: need clear, consistent events for page load busy states        </a>
+   href="/show_bug.cgi?id=101615">101615</a>
+        <a href="/show_bug.cgi?id=101615">Active Accessibility: when an event occurs, hand back unique identifiers for child ID's        </a>
+   href="/show_bug.cgi?id=102021">102021</a>
+        <a href="/show_bug.cgi?id=102021">Active Accessibility: support XUL selects (menulist)        </a>
+   href="/show_bug.cgi?id=102416">102416</a>
+        <a href="/show_bug.cgi?id=102416">Active Accessibility: ns<wbr>ISimple<wbr>DOMDocument::Get<wbr>URL not always current        </a>
+   href="/show_bug.cgi?id=102475">102475</a>
+        <a href="/show_bug.cgi?id=102475">Active Accessibility: fix pane state change event problems        </a>
+   href="/show_bug.cgi?id=104173">104173</a>
+        <a href="/show_bug.cgi?id=104173">Get rid of ns<wbr>IApp<wbr>Shell<wbr>Component use in Access<wbr>Proxy        </a>
+   href="/show_bug.cgi?id=106710">106710</a>
+        <a href="/show_bug.cgi?id=106710">Active Accessibility: expose accessible anonymous content        </a>
+   href="/show_bug.cgi?id=107858">107858</a>
+        <a href="/show_bug.cgi?id=107858">Active Accessibility: checkbox/radio state change events not getting fired        </a>
+   href="/show_bug.cgi?id=109231">109231</a>
+        <a href="/show_bug.cgi?id=109231">Active Accessiblity: a couple of leaks        </a>
+   href="/show_bug.cgi?id=109977">109977</a>
+        <a href="/show_bug.cgi?id=109977">Active Accessibility: regression, HTML not in full browser's accessible tree        </a>
+   href="/show_bug.cgi?id=110718">110718</a>
+        <a href="/show_bug.cgi?id=110718">CTRL-T, CTRL-N, and some menus / apps don't work / respond when current tab / page is loading<wbr>.        </a>
+   href="/show_bug.cgi?id=114687">114687</a>
+        <a href="/show_bug.cgi?id=114687">Active Accessibility: Bounds calculation off by how far we're scrolled into the document        </a>
+   href="/show_bug.cgi?id=118633">118633</a>
+        <a href="/show_bug.cgi?id=118633">Active Accessibility: need better failure checks for Get<wbr>Primary<wbr>Frame<wbr>For, to avoid some crashes        </a>
+   href="/show_bug.cgi?id=120019">120019</a>
+        <a href="/show_bug.cgi?id=120019">Browse with caret mode: crash when tabbing out of URL bar        </a>
+   href="/show_bug.cgi?id=127118">127118</a>
+        <a href="/show_bug.cgi?id=127118">Pressing access key for radio button doesn't focus radio group or show focus on radio button        </a>
+   href="/show_bug.cgi?id=134787">134787</a>
+        <a href="/show_bug.cgi?id=134787">[XBLFC] Active Accessibility: support XBL-based HTML form controls        </a>
+   href="/show_bug.cgi?id=138069">138069</a>
+        <a href="/show_bug.cgi?id=138069">-moz-user-focus elements have no tab interface or means of setting focus        </a>
+   href="/show_bug.cgi?id=146065">146065</a>
+        <a href="/show_bug.cgi?id=146065">Accessibility module assumes HTML, does not work with XHTML        </a>
+   href="/show_bug.cgi?id=154340">154340</a>
+        <a href="/show_bug.cgi?id=154340">Active Accessibility: don't use name attribute for accessible name        </a>
+   href="/show_bug.cgi?id=154704">154704</a>
+        <a href="/show_bug.cgi?id=154704">no accessible event fired as user exits menus        </a>
+   href="/show_bug.cgi?id=156301">156301</a>
+        <a href="/show_bug.cgi?id=156301">Link focus outline ghosting during &quot;find next&quot;        </a>
+   href="/show_bug.cgi?id=162090">162090</a>
+        <a href="/show_bug.cgi?id=162090">Mozilla not respecting SPI<wbr>_GETWORKAREA when positioning new window        </a>
+   href="/show_bug.cgi?id=163812">163812</a>
+        <a href="/show_bug.cgi?id=163812">Incorrect caching of sibling list and sibiling index leads to null pointer deref        </a>
+   href="/show_bug.cgi?id=165998">165998</a>
+        <a href="/show_bug.cgi?id=165998">List item bounds incorrectly  exposed via accessibility APIs        </a>
+   href="/show_bug.cgi?id=166004">166004</a>
+        <a href="/show_bug.cgi?id=166004">Leave submenu, no accessible focus event fired for selected item in parent menu        </a>
+   href="/show_bug.cgi?id=168624">168624</a>
+        <a href="/show_bug.cgi?id=168624">Microsoft Narrator hangs Mozilla        </a>
+   href="/show_bug.cgi?id=171366">171366</a>
+        <a href="/show_bug.cgi?id=171366">Implement navindex/tabindex for all elements        </a>
+   href="/show_bug.cgi?id=175321">175321</a>
+        <a href="/show_bug.cgi?id=175321">Crashes with Type Ahead Find;  topcrash on M120B [&#64; ns<wbr>Type<wbr>Ahead<wbr>Find::Find<wbr>It<wbr>Now]        </a>
+   href="/show_bug.cgi?id=177242">177242</a>
+        <a href="/show_bug.cgi?id=177242">Mozilla and Phoenix crash in Print Preview if typeaheadfind is enabled and I start typing a search string        </a>
+   href="/show_bug.cgi?id=180415">180415</a>
+        <a href="/show_bug.cgi?id=180415">Accessibility events for sub docs/windows not firing        </a>
+   href="/show_bug.cgi?id=185852">185852</a>
+        <a href="/show_bug.cgi?id=185852">Active Accessibility: add ISimple<wbr>DOMText::get<wbr>_font<wbr>Family() to return single font name        </a>
+   href="/show_bug.cgi?id=191871">191871</a>
+        <a href="/show_bug.cgi?id=191871">Find as you type stops working after a while        </a>
+   href="/show_bug.cgi?id=198118">198118</a>
+        <a href="/show_bug.cgi?id=198118">Support ns<wbr>IAccessible::get<wbr>Keyboard<wbr>Shortcut for xul:textbox        </a>
+   href="/show_bug.cgi?id=243313">243313</a>
+        <a href="/show_bug.cgi?id=243313">Anonymous frames for :before and :after are not exposed in accessibility        </a>
+   href="/show_bug.cgi?id=245349">245349</a>
+        <a href="/show_bug.cgi?id=245349">The null plugin's &quot;Click here to get the plugin&quot; not accessible        </a>
+   href="/show_bug.cgi?id=245367">245367</a>
+        <a href="/show_bug.cgi?id=245367">Expose tree view position in tree item accessibles        </a>
+   href="/show_bug.cgi?id=245931">245931</a>
+        <a href="/show_bug.cgi?id=245931">Problems with accessibility API focus events        </a>
+   href="/show_bug.cgi?id=246062">246062</a>
+        <a href="/show_bug.cgi?id=246062">No accessible name for tree views and listboxes        </a>
+   href="/show_bug.cgi?id=246063">246063</a>
+        <a href="/show_bug.cgi?id=246063">Fire accessible state change events when tree item expands/collapses        </a>
+   href="/show_bug.cgi?id=246213">246213</a>
+        <a href="/show_bug.cgi?id=246213">background colors and images are not displayed/rendered/shown        </a>
+   href="/show_bug.cgi?id=247323">247323</a>
+        <a href="/show_bug.cgi?id=247323">&lt;iframe src=&quot;javascript:1&quot;/&gt; partially hoses Mozilla        </a>
+   href="/show_bug.cgi?id=248378">248378</a>
+        <a href="/show_bug.cgi?id=248378">Mozilla not exposing MSAA info on release builds        </a>
+   href="/show_bug.cgi?id=249998">249998</a>
+        <a href="/show_bug.cgi?id=249998">Make DHTML accessible        </a>
+   href="/show_bug.cgi?id=251513">251513</a>
+        <a href="/show_bug.cgi?id=251513">content of tabs not focused to keyboard scrolling when switching tabs        </a>
+   href="/show_bug.cgi?id=256003">256003</a>
+        <a href="/show_bug.cgi?id=256003">Remove -moz-user-focus from html<wbr>.css, forms<wbr>.css,  ua<wbr>.css<wbr>. It's been deprecated from use in HTML<wbr>.        </a>
+   href="/show_bug.cgi?id=258937">258937</a>
+        <a href="/show_bug.cgi?id=258937">Form elements in Composer/Midas are focusable        </a>
+   href="/show_bug.cgi?id=259385">259385</a>
+        <a href="/show_bug.cgi?id=259385">MSAA: Expose nodes for h1-h6, q, blockquote        </a>
+   href="/show_bug.cgi?id=260527">260527</a>
+        <a href="/show_bug.cgi?id=260527">Prefs -&gt; Navigator radio buttons not underlining accesskeys in labels        </a>
+   href="/show_bug.cgi?id=260846">260846</a>
+        <a href="/show_bug.cgi?id=260846">Incorrect tree item focus events fired while typing in autocomplete text field        </a>
+   href="/show_bug.cgi?id=280055">280055</a>
+        <a href="/show_bug.cgi?id=280055">Cannot walk into accessible tree for 2nd tab        </a>
+   href="/show_bug.cgi?id=280154">280154</a>
+        <a href="/show_bug.cgi?id=280154">Cannot arrow past first item in Glossary, Index, Search or Contents        </a>
+   href="/show_bug.cgi?id=280498">280498</a>
+        <a href="/show_bug.cgi?id=280498">Invalidate accessibility subtree for frame visibility/display style changes        </a>
+   href="/show_bug.cgi?id=394501">394501</a>
+        <a href="/show_bug.cgi?id=394501">Rendering of prompts with access keys broken in JAWS virtual buffer as of August 29        </a>
+   href="/show_bug.cgi?id=415944">415944</a>
+        <a href="/show_bug.cgi?id=415944">Don't expose password text through A11y text interfaces        </a>
+   href="/show_bug.cgi?id=420055">420055</a>
+        <a href="/show_bug.cgi?id=420055">New shutdown crash        </a>
+   href="/show_bug.cgi?id=423726">423726</a>
+        <a href="/show_bug.cgi?id=423726">Crash [&#64; Get<wbr>Attributes<wbr>Internal() ]        </a>
+   href="/show_bug.cgi?id=425125">425125</a>
+        <a href="/show_bug.cgi?id=425125">Incorrect variable usage leads to wrong READONLY state for ARIA widgets        </a>
+   href="/show_bug.cgi?id=310109">310109</a>
+        <a href="/show_bug.cgi?id=310109">XForms model-destruct event doesn't work with fastback        </a>
+   href="/show_bug.cgi?id=332211">332211</a>
+        <a href="/show_bug.cgi?id=332211">Problem updating UI with external instances        </a>
+   href="/show_bug.cgi?id=337139">337139</a>
+        <a href="/show_bug.cgi?id=337139">select1, hooking up a send to ev:xforms-select only works the first time        </a>
+   href="/show_bug.cgi?id=1141286">1141286</a>
+        <a href="/show_bug.cgi?id=1141286">List video meta data as a neat table        </a>
+   href="/show_bug.cgi?id=1631439">1631439</a>
+        <a href="/show_bug.cgi?id=1631439">Rewrite callers of document<wbr>.create<wbr>Element<wbr>NS(XUL<wbr>_NS, ...) to use document<wbr>.create<wbr>XULElement(...)        </a>
+   href="/show_bug.cgi?id=1565243">1565243</a>
+        <a href="/show_bug.cgi?id=1565243">Support TC<wbr>_OWNER without email address in nss taskgraph        </a>
+   href="/show_bug.cgi?id=1621342">1621342</a>
+        <a href="/show_bug.cgi?id=1621342">Code coverage generation is broken on most folders        </a>
+   href="/show_bug.cgi?id=416622">416622</a>
+        <a href="/show_bug.cgi?id=416622">docshell navigation tests intermittently failing with NS<wbr>_ERROR<wbr>_XPC<wbr>_BAD<wbr>_OP<wbr>_ON<wbr>_WN<wbr>_PROTO        </a>
+   href="/show_bug.cgi?id=844300">844300</a>
+        <a href="/show_bug.cgi?id=844300">[UX Spec] E-Mail drafts        </a>
+   href="/show_bug.cgi?id=844302">844302</a>
+        <a href="/show_bug.cgi?id=844302">[UX Spec] Calendar event reminders        </a>
+   href="/show_bug.cgi?id=844312">844312</a>
+        <a href="/show_bug.cgi?id=844312">[UX Spec] Add email address to contacts        </a>
+   href="/show_bug.cgi?id=1354140">1354140</a>
+        <a href="/show_bug.cgi?id=1354140">[UX] Provide design spec for customize mode        </a>
+   href="/show_bug.cgi?id=1358167">1358167</a>
+        <a href="/show_bug.cgi?id=1358167">[UX] Provide detailed spec for sync widget at top of new (photon) hamburger panel        </a>
+   href="/show_bug.cgi?id=1360054">1360054</a>
+        <a href="/show_bug.cgi?id=1360054">[UX] Need spec for the page-action menu's &quot;Share&quot; submenu/subview/subpanel        </a>
+   href="/show_bug.cgi?id=1584025">1584025</a>
+        <a href="/show_bug.cgi?id=1584025">Update copy on AMO warning banner (A/B test) that appears on non-Recommended listing pages        </a>
+   href="/show_bug.cgi?id=1408970">1408970</a>
+        <a href="/show_bug.cgi?id=1408970">Introduce test for view source in debugger        </a>
+   href="/show_bug.cgi?id=1445732">1445732</a>
+        <a href="/show_bug.cgi?id=1445732">Muting tab causes lazy browser premature insertion        </a>
+   href="/show_bug.cgi?id=1524852">1524852</a>
+        <a href="/show_bug.cgi?id=1524852">tab titles of multiselected tabs are invisible        </a>
+   href="/show_bug.cgi?id=1567581">1567581</a>
+        <a href="/show_bug.cgi?id=1567581">Add fission pref in the telemetry environment        </a>
+   href="/show_bug.cgi?id=1588883">1588883</a>
+        <a href="/show_bug.cgi?id=1588883">Fullscreen transition message doesn't appear anymore        </a>
+   href="/show_bug.cgi?id=1403974">1403974</a>
+        <a href="/show_bug.cgi?id=1403974">improving styling on &quot;ASAP&quot; button to make it clear that it is not the default        </a>
+   href="/show_bug.cgi?id=1403975">1403975</a>
+        <a href="/show_bug.cgi?id=1403975">scheduled change modal hangs when no &quot;when&quot; is set and asap is not clicked        </a>
+   href="/show_bug.cgi?id=1407274">1407274</a>
+        <a href="/show_bug.cgi?id=1407274">Cannot add rule alias using scheduled changes form        </a>
+   href="/show_bug.cgi?id=1419590">1419590</a>
+        <a href="/show_bug.cgi?id=1419590">Slow API endpoint /api/releases        </a>
+   href="/show_bug.cgi?id=1434011">1434011</a>
+        <a href="/show_bug.cgi?id=1434011">automatic signoff is broken when a user holds multiple roles and only one of them is required        </a>
+   href="/show_bug.cgi?id=1437982">1437982</a>
+        <a href="/show_bug.cgi?id=1437982">Slow endpoint when looking up Rules<wbr>.get<wbr>Potential<wbr>Required<wbr>Signoffs        </a>
+   href="/show_bug.cgi?id=1461406">1461406</a>
+        <a href="/show_bug.cgi?id=1461406">Scheduled changes to rule aliases are not shown<wbr>.        </a>
+   href="/show_bug.cgi?id=1462403">1462403</a>
+        <a href="/show_bug.cgi?id=1462403">Priority is blank when scheduling duplication        </a>
+   href="/show_bug.cgi?id=1573276">1573276</a>
+        <a href="/show_bug.cgi?id=1573276">Certificate and network errors in sandboxed iframes completely broken (show XML Parsing Error)        </a>
+   href="/show_bug.cgi?id=307629">307629</a>
+        <a href="/show_bug.cgi?id=307629">When importing an OPML file that only contains feeds that are already subscribed then error message wrongly says the file is not valid<wbr>.        </a>
+   href="/show_bug.cgi?id=485839">485839</a>
+        <a href="/show_bug.cgi?id=485839">Refactoring need into ns<wbr>Msg<wbr>Account<wbr>Manager::get<wbr>Unique<wbr>Account<wbr>Key to avoid that newly created account takes id of a deleted one (and mails of old account show the new account name)        </a>
+   href="/show_bug.cgi?id=793865">793865</a>
+        <a href="/show_bug.cgi?id=793865">ns<wbr>IMsg<wbr>Parse<wbr>Mail<wbr>Msg<wbr>State<wbr>.envelope<wbr>Pos must be 64bits to support large mbox folders (eg<wbr>. 4GB)        </a>
+   href="/show_bug.cgi?id=840418">840418</a>
+        <a href="/show_bug.cgi?id=840418">replied/forwarded icons disappear after folder repair, detach/delete (&quot;Internally set message flag&quot; icluding &quot;READ flag by Mark Folder Read&quot; is not written to X-Mozilla-Status: until &quot;manually changeable message flag&quot; is changed manually)        </a>
+   href="/show_bug.cgi?id=872869">872869</a>
+        <a href="/show_bug.cgi?id=872869">ns<wbr>Msg<wbr>Database::List<wbr>All<wbr>Keys() very slow with high CPU downloading messages into large folder<wbr>. Backout of patch for Bug 764306 is mandatory<wbr>.        </a>
+   href="/show_bug.cgi?id=933101">933101</a>
+        <a href="/show_bug.cgi?id=933101">Send button disabled when write a message with to, subject and content, if mail address is Dropped at outside of address text input box        </a>
+   href="/show_bug.cgi?id=978592">978592</a>
+        <a href="/show_bug.cgi?id=978592">&quot;Favorite Folders&quot; view shouldn't sort in a hierarchy?        </a>
+   href="/show_bug.cgi?id=978639">978639</a>
+        <a href="/show_bug.cgi?id=978639">[Sora][Call][MPTY][GCF] GCF case 31<wbr>.4<wbr>.2<wbr>.1<wbr>.3 : Terminate the entire Multi<wbr>Party call failed        </a>
+   href="/show_bug.cgi?id=990467">990467</a>
+        <a href="/show_bug.cgi?id=990467">[tarako] Cannot place ECC call when leaving shiedling box, and before getting service back<wbr>.        </a>
+   href="/show_bug.cgi?id=1133649">1133649</a>
+        <a href="/show_bug.cgi?id=1133649">[B2G] 'xpcshell-test' is not a testing option in mach command<wbr>.        </a>
+   href="/show_bug.cgi?id=1213414">1213414</a>
+        <a href="/show_bug.cgi?id=1213414">Implement channel<wbr>Count audio constraint        </a>
+   href="/show_bug.cgi?id=1221574">1221574</a>
+        <a href="/show_bug.cgi?id=1221574">Write a full-duplex Android Open<wbr>SL ES cubeb backend        </a>
+   href="/show_bug.cgi?id=1221575">1221575</a>
+        <a href="/show_bug.cgi?id=1221575">Write a full-duplex OSX cubeb backend        </a>
+   href="/show_bug.cgi?id=1221576">1221576</a>
+        <a href="/show_bug.cgi?id=1221576">Write a full-duplex Pulse<wbr>Audio cubeb backend        </a>
+   href="/show_bug.cgi?id=1239689">1239689</a>
+        <a href="/show_bug.cgi?id=1239689">Audio device change notification        </a>
+   href="/show_bug.cgi?id=1269472">1269472</a>
+        <a href="/show_bug.cgi?id=1269472">Hard crash in Web<wbr>RTC when disconnecting headset        </a>
+   href="/show_bug.cgi?id=1272386">1272386</a>
+        <a href="/show_bug.cgi?id=1272386">Assertion failed: (out<wbr>_len == output<wbr>_frame<wbr>_count) in cubeb<wbr>_resampler<wbr>_internal<wbr>.h w/Logitech C930e mic in get<wbr>User<wbr>Media        </a>
+   href="/show_bug.cgi?id=1274653">1274653</a>
+        <a href="/show_bug.cgi?id=1274653">Mismatched input/output audio HW sample rates on mac cause delay in full<wbr>_duplex        </a>
+   href="/show_bug.cgi?id=1286041">1286041</a>
+        <a href="/show_bug.cgi?id=1286041">1,700 instances of &quot;data callback fires before cubeb<wbr>_stream<wbr>_start() is called&quot; emitted from dom/media/Audio<wbr>Stream<wbr>.cpp during linux64 debug testing        </a>
+   href="/show_bug.cgi?id=1290425">1290425</a>
+        <a href="/show_bug.cgi?id=1290425">Update cubeb from upstream to fec2a83786        </a>
+   href="/show_bug.cgi?id=1311911">1311911</a>
+        <a href="/show_bug.cgi?id=1311911">1<wbr>.5 second delay on Logitech c920 microphone in OSX (regression)        </a>
+   href="/show_bug.cgi?id=1314316">1314316</a>
+        <a href="/show_bug.cgi?id=1314316">Update cubeb from upstream to 352c0bed012        </a>
+   href="/show_bug.cgi?id=1315928">1315928</a>
+        <a href="/show_bug.cgi?id=1315928">Update cubeb from upstream to f8467510a8b        </a>
+   href="/show_bug.cgi?id=1317234">1317234</a>
+        <a href="/show_bug.cgi?id=1317234">audiounit<wbr>_stream<wbr>_init() sometimes gets stuck forever on OSX 10<wbr>.10        </a>
+   href="/show_bug.cgi?id=1325577">1325577</a>
+        <a href="/show_bug.cgi?id=1325577">Use aggregate devices API in audiounit backend        </a>
+   href="/show_bug.cgi?id=1326176">1326176</a>
+        <a href="/show_bug.cgi?id=1326176">Crash in jemalloc<wbr>_crash | arena<wbr>_dalloc<wbr>_small | je<wbr>_free | `anonymous namespace''::wasapi<wbr>_stream<wbr>_render<wbr>_loop        </a>
+   href="/show_bug.cgi?id=1328284">1328284</a>
+        <a href="/show_bug.cgi?id=1328284">Crash after removing HDMI cable [&#64; libsystem<wbr>_kernel<wbr>.dylib&#64;0x16f06 | audiounit<wbr>_property<wbr>_listener<wbr>_callback]        </a>
+   href="/show_bug.cgi?id=1335512">1335512</a>
+        <a href="/show_bug.cgi?id=1335512">all video playback stops working after a while when plug or unplug external headphone<wbr>.        </a>
+   href="/show_bug.cgi?id=1337805">1337805</a>
+        <a href="/show_bug.cgi?id=1337805">Update cubeb from upstream to 21e96ac        </a>
+   href="/show_bug.cgi?id=1342363">1342363</a>
+        <a href="/show_bug.cgi?id=1342363">Update cubeb from upstream to 25b593f        </a>
+   href="/show_bug.cgi?id=1342389">1342389</a>
+        <a href="/show_bug.cgi?id=1342389">Crash in Cleanup<wbr>Per<wbr>App<wbr>Key | `anonymous namespace''::wasapi<wbr>_stream<wbr>_render<wbr>_loop        </a>
+   href="/show_bug.cgi?id=1343780">1343780</a>
+        <a href="/show_bug.cgi?id=1343780">Update cubeb from upstream to 0753297        </a>
+   href="/show_bug.cgi?id=1344653">1344653</a>
+        <a href="/show_bug.cgi?id=1344653">Update cubeb from upstream to a3c012f        </a>
+   href="/show_bug.cgi?id=1347067">1347067</a>
+        <a href="/show_bug.cgi?id=1347067">Shutdown hang in audiounit<wbr>_close<wbr>_stream        </a>
+   href="/show_bug.cgi?id=1355306">1355306</a>
+        <a href="/show_bug.cgi?id=1355306">get<wbr>User<wbr>Media doesn't work in more than one tab at a time now        </a>
+   href="/show_bug.cgi?id=1357683">1357683</a>
+        <a href="/show_bug.cgi?id=1357683">Update cubeb from upstream to 6e52314        </a>
+   href="/show_bug.cgi?id=1359451">1359451</a>
+        <a href="/show_bug.cgi?id=1359451">Update cubeb from upstream to 17503c4        </a>
+   href="/show_bug.cgi?id=1359477">1359477</a>
+        <a href="/show_bug.cgi?id=1359477">Crash in libsystem<wbr>_kernel<wbr>.dylib&#64;0x19d42 called from audiounit        </a>
+   href="/show_bug.cgi?id=1361657">1361657</a>
+        <a href="/show_bug.cgi?id=1361657">Crash: Unplug headphone after clicking refresh button and plug the headphone immediately<wbr>.        </a>
+   href="/show_bug.cgi?id=1362334">1362334</a>
+        <a href="/show_bug.cgi?id=1362334">Update cubeb from upstream to 26a50b0        </a>
+   href="/show_bug.cgi?id=1366707">1366707</a>
+        <a href="/show_bug.cgi?id=1366707">Update cubeb from upstream to 96cdb17        </a>
+   href="/show_bug.cgi?id=1367702">1367702</a>
+        <a href="/show_bug.cgi?id=1367702">Crashes in __pthread<wbr>_kill | abort | __assert<wbr>_rtn (when plugging/unplugging headphones on OSX)        </a>
+   href="/show_bug.cgi?id=1368910">1368910</a>
+        <a href="/show_bug.cgi?id=1368910">Update cubeb from upstream to 3428c2b        </a>
+   href="/show_bug.cgi?id=1374275">1374275</a>
+        <a href="/show_bug.cgi?id=1374275">Update cubeb from upstream to 18153b9        </a>
+   href="/show_bug.cgi?id=1375729">1375729</a>
+        <a href="/show_bug.cgi?id=1375729">Can not use soundflower when using web<wbr>RTC        </a>
+   href="/show_bug.cgi?id=1380233">1380233</a>
+        <a href="/show_bug.cgi?id=1380233">Update cubeb from upstream to bb18984        </a>
+   href="/show_bug.cgi?id=1381015">1381015</a>
+        <a href="/show_bug.cgi?id=1381015">Update cubeb from upstream to a329c6a        </a>
+   href="/show_bug.cgi?id=1384053">1384053</a>
+        <a href="/show_bug.cgi?id=1384053">Update cubeb from upstream to 09aeb59        </a>
+   href="/show_bug.cgi?id=1385481">1385481</a>
+        <a href="/show_bug.cgi?id=1385481">Update cubeb from upstream to 42da8d2        </a>
+   href="/show_bug.cgi?id=1392837">1392837</a>
+        <a href="/show_bug.cgi?id=1392837">Setting OSX audio to &quot;4 ch 24-bit integer 44<wbr>.1 k<wbr>Hz&quot; causes permanent &quot;Not<wbr>Readable<wbr>Error: Failed to allocate audiosource&quot; in Firefox        </a>
+   href="/show_bug.cgi?id=1395195">1395195</a>
+        <a href="/show_bug.cgi?id=1395195">Assertion failure: a<wbr>Channels        </a>
+   href="/show_bug.cgi?id=1399905">1399905</a>
+        <a href="/show_bug.cgi?id=1399905">Update cubeb from upstream to 09a90a7        </a>
+   href="/show_bug.cgi?id=1400465">1400465</a>
+        <a href="/show_bug.cgi?id=1400465">Plugging in or unplugging headphones crashes You<wbr>Tube tab        </a>
+   href="/show_bug.cgi?id=1400671">1400671</a>
+        <a href="/show_bug.cgi?id=1400671">Update cubeb from upstream to ac532ad        </a>
+   href="/show_bug.cgi?id=1422631">1422631</a>
+        <a href="/show_bug.cgi?id=1422631">suspect cubeb<wbr>_data<wbr>_callback called from refill<wbr>_callback<wbr>_duplex() while stream is draining        </a>
+   href="/show_bug.cgi?id=1423770">1423770</a>
+        <a href="/show_bug.cgi?id=1423770">Write out of bounds in Convert<wbr>Audio<wbr>Samples        </a>
+   href="/show_bug.cgi?id=1426174">1426174</a>
+        <a href="/show_bug.cgi?id=1426174">Crash in `anonymous namespace''::wasapi<wbr>_stream<wbr>_init        </a>
+   href="/show_bug.cgi?id=1535631">1535631</a>
+        <a href="/show_bug.cgi?id=1535631">Crash in [&#64; dav1d<wbr>_ipred<wbr>_z3<wbr>_avx2<wbr>.h32]        </a>
+   href="/show_bug.cgi?id=1540231">1540231</a>
+        <a href="/show_bug.cgi?id=1540231">Crash in [&#64; mozilla::DAV1DDecoder::Release<wbr>Data<wbr>Buffer]        </a>
+   href="/show_bug.cgi?id=1543350">1543350</a>
+        <a href="/show_bug.cgi?id=1543350">RDD does not wait for the decoder to shutdown        </a>
+   href="/show_bug.cgi?id=1594181">1594181</a>
+        <a href="/show_bug.cgi?id=1594181">Address<wbr>Sanitizer: heap-use-after-free [&#64; Id] with READ of size 4 through [&#64; mozilla::PBenchmark<wbr>Storage<wbr>Child::Send<wbr>Put]        </a>
+   href="/show_bug.cgi?id=1596064">1596064</a>
+        <a href="/show_bug.cgi?id=1596064">Disable Media<wbr>Capabilities performance benchmarks in Release (71)        </a>
+   href="/show_bug.cgi?id=1596065">1596065</a>
+        <a href="/show_bug.cgi?id=1596065">Disable the access to RKV for about:support        </a>
+   href="/show_bug.cgi?id=1604117">1604117</a>
+        <a href="/show_bug.cgi?id=1604117">Crash in [&#64; memcpy<wbr>_repmovs | mozilla::Audio<wbr>Packetizer&lt;T&gt;::Input]        </a>
+   href="/show_bug.cgi?id=1611439">1611439</a>
+        <a href="/show_bug.cgi?id=1611439">Shutdown crash with Audio<wbr>Callback<wbr>Tracing activate        </a>
+   href="/show_bug.cgi?id=1617915">1617915</a>
+        <a href="/show_bug.cgi?id=1617915">Allow setting output device id in Media<wbr>Track<wbr>Graph<wbr>.        </a>
+   href="/show_bug.cgi?id=1632093">1632093</a>
+        <a href="/show_bug.cgi?id=1632093">Firefox Nightly 77<wbr>.0a1 (2020-04-21) Audio doesn't work        </a>
+   href="/show_bug.cgi?id=1632864">1632864</a>
+        <a href="/show_bug.cgi?id=1632864">MTG crashes on cubeb state change to error if the driver is started        </a>
+   href="/show_bug.cgi?id=1727317">1727317</a>
+        <a href="/show_bug.cgi?id=1727317">Define the relationships between new tab CSS variables        </a>
+   href="/show_bug.cgi?id=1728186">1728186</a>
+        <a href="/show_bug.cgi?id=1728186">Ensure telemetry is being collected about the new themes        </a>
+   href="/show_bug.cgi?id=1729535">1729535</a>
+        <a href="/show_bug.cgi?id=1729535">Update about:addons#themes to better handle more themes        </a>
+   href="/show_bug.cgi?id=1735724">1735724</a>
+        <a href="/show_bug.cgi?id=1735724">Add unit test for 200 OK with empty tiles array response from Contile        </a>
+   href="/show_bug.cgi?id=1475934">1475934</a>
+        <a href="/show_bug.cgi?id=1475934">Investigate the current state of art for anomaly detection and explanation        </a>
+   href="/show_bug.cgi?id=1475938">1475938</a>
+        <a href="/show_bug.cgi?id=1475938">Implement a proof of concept anomaly detection &amp; explanation notebook        </a>
+   href="/show_bug.cgi?id=1477634">1477634</a>
+        <a href="/show_bug.cgi?id=1477634">Generate a synthetic data set for anomaly detection        </a>
+   href="/show_bug.cgi?id=1550075">1550075</a>
+        <a href="/show_bug.cgi?id=1550075">Enable smart sizing of http disk cache on android within raptor (browser<wbr>.cache<wbr>.disk<wbr>.smart<wbr>_size)        </a>
+   href="/show_bug.cgi?id=1572412">1572412</a>
+        <a href="/show_bug.cgi?id=1572412">Without root privileges Raptor throws an exception while setting up the android app config file        </a>
+   href="/show_bug.cgi?id=1595537">1595537</a>
+        <a href="/show_bug.cgi?id=1595537">The JS debugging option Async Stacks is enabled in the raptor performance profile, lowering test scores, introducing noise        </a>
+   href="/show_bug.cgi?id=1632225">1632225</a>
+        <a href="/show_bug.cgi?id=1632225">add the applink test        </a>
+   href="/show_bug.cgi?id=1690373">1690373</a>
+        <a href="/show_bug.cgi?id=1690373">Extend Browsertime to collect select Perf<wbr>Stats        </a>
+   href="/show_bug.cgi?id=1695252">1695252</a>
+        <a href="/show_bug.cgi?id=1695252">Add a pageload test that reports Perf<wbr>Stats        </a>
+   href="/show_bug.cgi?id=1696945">1696945</a>
+        <a href="/show_bug.cgi?id=1696945">Extend Perf<wbr>Stats to record arbitrary durations        </a>
+   href="/show_bug.cgi?id=642279">642279</a>
+        <a href="/show_bug.cgi?id=642279">Webify<wbr>Me has English strings in images        </a>
+   href="/show_bug.cgi?id=642328">642328</a>
+        <a href="/show_bug.cgi?id=642328">JS and CSS should be a single minified file in prod        </a>
+   href="/show_bug.cgi?id=648354">648354</a>
+        <a href="/show_bug.cgi?id=648354">get<wbr>_translated<wbr>_marks with no marks in the DB throws error 500        </a>
+   href="/show_bug.cgi?id=651579">651579</a>
+        <a href="/show_bug.cgi?id=651579">Hardcoded strings in JS        </a>
+   href="/show_bug.cgi?id=651654">651654</a>
+        <a href="/show_bug.cgi?id=651654">[Webify<wbr>Me] [WT] Add Web<wbr>Trends tracking for quizzes started and completed        </a>
+   href="/show_bug.cgi?id=656678">656678</a>
+        <a href="/show_bug.cgi?id=656678">Use Tweet Button with related parameter in query string        </a>
+   href="/show_bug.cgi?id=656680">656680</a>
+        <a href="/show_bug.cgi?id=656680">Update collage sharing tweet copy        </a>
+   href="/show_bug.cgi?id=662873">662873</a>
+        <a href="/show_bug.cgi?id=662873">[prod] Unable to delete marks in /moderate/        </a>
+   href="/show_bug.cgi?id=810220">810220</a>
+        <a href="/show_bug.cgi?id=810220">Web<wbr>RTC set<wbr>Local<wbr>Description fails when offer has only G<wbr>.711 codec        </a>
+   href="/show_bug.cgi?id=817431">817431</a>
+        <a href="/show_bug.cgi?id=817431">Accept extensions for ICE        </a>
+   href="/show_bug.cgi?id=818293">818293</a>
+        <a href="/show_bug.cgi?id=818293">Unchecked memcpy in nr<wbr>_stun<wbr>_msg<wbr>_create2        </a>
+   href="/show_bug.cgi?id=821071">821071</a>
+        <a href="/show_bug.cgi?id=821071">Web<wbr>RTC crash [&#64;lsm<wbr>_open<wbr>_rx]        </a>
+   href="/show_bug.cgi?id=823056">823056</a>
+        <a href="/show_bug.cgi?id=823056">Intermittent hang in test<wbr>_peer<wbr>Connection<wbr>_basic<wbr>Audio<wbr>.html | Failure: 'application timed out after 330 seconds with no output'        </a>
+   href="/show_bug.cgi?id=824220">824220</a>
+        <a href="/show_bug.cgi?id=824220">Constraints should be passed from calling thread to SIPCC thread using a pointer        </a>
+   href="/show_bug.cgi?id=825086">825086</a>
+        <a href="/show_bug.cgi?id=825086">Bad free in fsmdef<wbr>_ev<wbr>_create<wbr>_answer()        </a>
+   href="/show_bug.cgi?id=825106">825106</a>
+        <a href="/show_bug.cgi?id=825106">Media negotiation fails when ISAC is present and ahead of Opus        </a>
+   href="/show_bug.cgi?id=829461">829461</a>
+        <a href="/show_bug.cgi?id=829461">Web<wbr>RTC crash [&#64;ns<wbr>DOMMedia<wbr>Stream::Get<wbr>Hint<wbr>Contents]        </a>
+   href="/show_bug.cgi?id=829761">829761</a>
+        <a href="/show_bug.cgi?id=829761">Web<wbr>RTC should accept stated direction for ip=0<wbr>.0<wbr>.0<wbr>.0, port != 0        </a>
+   href="/show_bug.cgi?id=836349">836349</a>
+        <a href="/show_bug.cgi?id=836349">Web<wbr>RTC Assertion failure: !assert<wbr>_ice<wbr>_ready || (m<wbr>Ice<wbr>State != k<wbr>Ice<wbr>Gathering), at media/webrtc/signaling/src/peerconnection/Peer<wbr>Connection<wbr>Impl<wbr>.cpp:1075 and crash [&#64; sipcc::Peer<wbr>Connection<wbr>Impl::Check<wbr>Api<wbr>State()]        </a>
+   href="/show_bug.cgi?id=839677">839677</a>
+        <a href="/show_bug.cgi?id=839677">(bad message queue pointer) Intermittent /tests/dom/media/tests/mochitest/test<wbr>_peer<wbr>Connection<wbr>_basic<wbr>Audio<wbr>.html | Test timed out        </a>
+   href="/show_bug.cgi?id=843595">843595</a>
+        <a href="/show_bug.cgi?id=843595">Web<wbr>RTC crash [&#64;nr<wbr>_ice<wbr>_candidate<wbr>_pair<wbr>_destroy]        </a>
+   href="/show_bug.cgi?id=845283">845283</a>
+        <a href="/show_bug.cgi?id=845283">Intermittent dom/media/tests/crashtests/799419<wbr>.html | Exited with code -1073741819 during test run | application crashed [&#64; msvcr100<wbr>.dll + 0x7d101]        </a>
+   href="/show_bug.cgi?id=853858">853858</a>
+        <a href="/show_bug.cgi?id=853858">Intermittent test<wbr>_peer<wbr>Connection<wbr>_basic<wbr>Audio<wbr>.html, test<wbr>_peer<wbr>Connection<wbr>_basic<wbr>Audio<wbr>Video<wbr>.html, test<wbr>_peer<wbr>Connection<wbr>_basic<wbr>Audio<wbr>Video<wbr>Combined<wbr>.html, test<wbr>_peer<wbr>Connection<wbr>_basic<wbr>Video<wbr>.html, test<wbr>_peer<wbr>Connection<wbr>_bug827843<wbr>.html, test<wbr>_peer<wbr>Connection<wbr>_bug | Test timed out        </a>
+   href="/show_bug.cgi?id=853998">853998</a>
+        <a href="/show_bug.cgi?id=853998">Use Sync<wbr>Runnable in Web<wbr>RTC        </a>
+   href="/show_bug.cgi?id=860143">860143</a>
+        <a href="/show_bug.cgi?id=860143">Web<wbr>RTC assertion failure: sizeof(server-&gt;u<wbr>.dnsname<wbr>.host) &gt; host<wbr>_.size() and crash [&#64;mozilla::Nr<wbr>Ice<wbr>Stun<wbr>Server::To<wbr>Nicer<wbr>Stun<wbr>Struct]        </a>
+   href="/show_bug.cgi?id=866120">866120</a>
+        <a href="/show_bug.cgi?id=866120">Web<wbr>RTC Error phrases are incorrect mid-session        </a>
+   href="/show_bug.cgi?id=885640">885640</a>
+        <a href="/show_bug.cgi?id=885640">sdp<wbr>_unittests has a shutdown race resulting in PROCESS-CRASH | sdp<wbr>_unittests | application crashed [&#64; mozalloc<wbr>_abort(char const*)]        </a>
+   href="/show_bug.cgi?id=975548">975548</a>
+        <a href="/show_bug.cgi?id=975548">make MV* infrastructure choice        </a>
+   href="/show_bug.cgi?id=976358">976358</a>
+        <a href="/show_bug.cgi?id=976358">Hook start of Loop client into Desktop Firefox system        </a>
+   href="/show_bug.cgi?id=1005145">1005145</a>
+        <a href="/show_bug.cgi?id=1005145">[meta] Interim Mo<wbr>Fo contributor dashboard        </a>
+   href="/show_bug.cgi?id=1009433">1009433</a>
+        <a href="/show_bug.cgi?id=1009433">Enable Mo<wbr>Co use of Ad-hoc contribution logger        </a>
+   href="/show_bug.cgi?id=1010295">1010295</a>
+        <a href="/show_bug.cgi?id=1010295">Gauntlet Dashboard - V2        </a>
+   href="/show_bug.cgi?id=1010299">1010299</a>
+        <a href="/show_bug.cgi?id=1010299">Count Bugzilla Contributors in Mofo Dashboard        </a>
+   href="/show_bug.cgi?id=1010745">1010745</a>
+        <a href="/show_bug.cgi?id=1010745">Add Source contributor counts to Mo<wbr>Fo Contributor Dashboard        </a>
+   href="/show_bug.cgi?id=1010763">1010763</a>
+        <a href="/show_bug.cgi?id=1010763">Add Science Lab contributor numbers to dashboard        </a>
+   href="/show_bug.cgi?id=1010772">1010772</a>
+        <a href="/show_bug.cgi?id=1010772">[meta] Mozilla Contributor Dashboard Front End (Mo<wbr>Fo/Mo<wbr>Co/Combined)        </a>
+   href="/show_bug.cgi?id=1013824">1013824</a>
+        <a href="/show_bug.cgi?id=1013824">Setup 'Registering an Event' as a goal in webmaker GA        </a>
+   href="/show_bug.cgi?id=1016317">1016317</a>
+        <a href="/show_bug.cgi?id=1016317">Mo<wbr>Fo Integration DB        </a>
+   href="/show_bug.cgi?id=1023531">1023531</a>
+        <a href="/show_bug.cgi?id=1023531">Build a summaries table to power areweamillionyet<wbr>.org        </a>
+   href="/show_bug.cgi?id=1025047">1025047</a>
+        <a href="/show_bug.cgi?id=1025047">[Meta] Mozbadges Heartbeat [July11]        </a>
+   href="/show_bug.cgi?id=1025814">1025814</a>
+        <a href="/show_bug.cgi?id=1025814">Gitribution V2 to track PRs as well as merged commits        </a>
+   href="/show_bug.cgi?id=1025834">1025834</a>
+        <a href="/show_bug.cgi?id=1025834">Graph the initial data extracts from Baloo        </a>
+   href="/show_bug.cgi?id=1034211">1034211</a>
+        <a href="/show_bug.cgi?id=1034211">Implement final design of Gauntlet Dash        </a>
+   href="/show_bug.cgi?id=1053442">1053442</a>
+        <a href="/show_bug.cgi?id=1053442">Test a version of the funnel with the survey but no email ask        </a>
+   href="/show_bug.cgi?id=1058609">1058609</a>
+        <a href="/show_bug.cgi?id=1058609">Generate and Implement Mo<wbr>Fo Data Practices        </a>
+   href="/show_bug.cgi?id=1087271">1087271</a>
+        <a href="/show_bug.cgi?id=1087271">Joint Mo<wbr>Co/Mo<wbr>Fo Contributor Analysis Project        </a>
+   href="/show_bug.cgi?id=1628188">1628188</a>
+        <a href="/show_bug.cgi?id=1628188">browser/extensions/formautofill/test/unit/ tests fail in unpackaged builds with NS<wbr>_ERROR<wbr>_NOT<wbr>_AVAILABLE when importing from resource://formautofill/        </a>
+   href="/show_bug.cgi?id=1652567">1652567</a>
+        <a href="/show_bug.cgi?id=1652567">%Iterator<wbr>Helper% and %Wrap<wbr>For<wbr>Valid<wbr>Iterator% guards don't work cross-realm        </a>
+   href="/show_bug.cgi?id=1653280">1653280</a>
+        <a href="/show_bug.cgi?id=1653280">`yield* allow<wbr>Content<wbr>Iter(...)` not supported in self-hosted code        </a>
+   href="/show_bug.cgi?id=39158">39158</a>
+        <a href="/show_bug.cgi?id=39158">Control is crashing Visual Basic when compiled        </a>
+   href="/show_bug.cgi?id=41984">41984</a>
+        <a href="/show_bug.cgi?id=41984">Internet shortcut titles are empty        </a>
+   href="/show_bug.cgi?id=205668">205668</a>
+        <a href="/show_bug.cgi?id=205668">saving web page referencing file: as complete freezes Mozilla        </a>
+   href="/show_bug.cgi?id=1467280">1467280</a>
+        <a href="/show_bug.cgi?id=1467280">[traceback] Raw<wbr>Crash API endpoint handles malformed crash ids poorly        </a>
+   href="/show_bug.cgi?id=1476034">1476034</a>
+        <a href="/show_bug.cgi?id=1476034">about:crashes localization migration from DTD to Fluent        </a>
+   href="/show_bug.cgi?id=1476062">1476062</a>
+        <a href="/show_bug.cgi?id=1476062">[meta] about:crashes user interface update        </a>
+   href="/show_bug.cgi?id=1414688">1414688</a>
+        <a href="/show_bug.cgi?id=1414688">JSON viewer should not be opened automatically when opening about:telemetry in RTL locales        </a>
+   href="/show_bug.cgi?id=891552">891552</a>
+        <a href="/show_bug.cgi?id=891552">Remove one of the operator shelves        </a>
+   href="/show_bug.cgi?id=1049207">1049207</a>
+        <a href="/show_bug.cgi?id=1049207">Enhancement Request: Battery+ app        </a>
+   href="/show_bug.cgi?id=1132303">1132303</a>
+        <a href="/show_bug.cgi?id=1132303">[FFOS7715 v2<wbr>.1][Third App]Hubii App show news page on half screen        </a>
+   href="/show_bug.cgi?id=480503">480503</a>
+        <a href="/show_bug.cgi?id=480503">Can't search for stack frames beyond the top frame in socorro        </a>
+   href="/show_bug.cgi?id=651279">651279</a>
+        <a href="/show_bug.cgi?id=651279">[tracker] add Elastic Search support to Socorro        </a>
+   href="/show_bug.cgi?id=667028">667028</a>
+        <a href="/show_bug.cgi?id=667028">[socorro-crashstats] Ability to search for release channel        </a>
+   href="/show_bug.cgi?id=678101">678101</a>
+        <a href="/show_bug.cgi?id=678101">[tracker] Rebuild the search page        </a>
+   href="/show_bug.cgi?id=703018">703018</a>
+        <a href="/show_bug.cgi?id=703018">Get topcrashes and reports for nightly-* development branches        </a>
+   href="/show_bug.cgi?id=755301">755301</a>
+        <a href="/show_bug.cgi?id=755301">Middleware changes to support rapid betas        </a>
+   href="/show_bug.cgi?id=797509">797509</a>
+        <a href="/show_bug.cgi?id=797509">Change elasticsearch crashstorage for processors        </a>
+   href="/show_bug.cgi?id=832362">832362</a>
+        <a href="/show_bug.cgi?id=832362">Provide some way to get topcrash lists per single B2G<wbr>_OS<wbr>_Version        </a>
+   href="/show_bug.cgi?id=838746">838746</a>
+        <a href="/show_bug.cgi?id=838746">Create a backfill app for elasticsearch        </a>
+   href="/show_bug.cgi?id=838747">838747</a>
+        <a href="/show_bug.cgi?id=838747">Make list of indexes for elasticsearch configurable in middleware        </a>
+   href="/show_bug.cgi?id=838897">838897</a>
+        <a href="/show_bug.cgi?id=838897">Search with elasticsearch is broken        </a>
+   href="/show_bug.cgi?id=843867">843867</a>
+        <a href="/show_bug.cgi?id=843867">[socorro-crashstats] missing /status/json endpoint        </a>
+   href="/show_bug.cgi?id=846347">846347</a>
+        <a href="/show_bug.cgi?id=846347">Configmanized middleware doesn't allow implementation overriding        </a>
+   href="/show_bug.cgi?id=846376">846376</a>
+        <a href="/show_bug.cgi?id=846376">[socorro-crashstats] Search defaulting to &quot;is exactly&quot; instead of &quot;contains&quot;        </a>
+   href="/show_bug.cgi?id=847294">847294</a>
+        <a href="/show_bug.cgi?id=847294">[socorro-crashstats] Query is empty for https://crash-stats-django<wbr>.mozilla<wbr>.org/query/?product=Fennec<wbr>Android&amp;version=Fennec<wbr>Android%3A22<wbr>.0a1&amp;build<wbr>_id=20130303030835&amp;do<wbr>_query=1        </a>
+   href="/show_bug.cgi?id=848458">848458</a>
+        <a href="/show_bug.cgi?id=848458">Automatic emails are failing on production        </a>
+   href="/show_bug.cgi?id=848806">848806</a>
+        <a href="/show_bug.cgi?id=848806">Date parameters are not used in search with configmanized middleware        </a>
+   href="/show_bug.cgi?id=849897">849897</a>
+        <a href="/show_bug.cgi?id=849897">[socorro-crashstats] old URL doesn't work in new app        </a>
+   href="/show_bug.cgi?id=852466">852466</a>
+        <a href="/show_bug.cgi?id=852466">Allow filtering by release channel in search        </a>
+   href="/show_bug.cgi?id=853031">853031</a>
+        <a href="/show_bug.cgi?id=853031">Update old processor's configuration to accept new elasticsearch keys        </a>
+   href="/show_bug.cgi?id=867120">867120</a>
+        <a href="/show_bug.cgi?id=867120">Implement plugin filters in search with elasticsearch        </a>
+   href="/show_bug.cgi?id=870092">870092</a>
+        <a href="/show_bug.cgi?id=870092">socorro/external/postgresql/base<wbr>.py query method eats psycopg2 exception        </a>
+   href="/show_bug.cgi?id=872223">872223</a>
+        <a href="/show_bug.cgi?id=872223">Create middleware service for data<wbr>_dictionary table        </a>
+   href="/show_bug.cgi?id=877175">877175</a>
+        <a href="/show_bug.cgi?id=877175">Investigate lack of plugin related data in elasticsearch        </a>
+   href="/show_bug.cgi?id=882126">882126</a>
+        <a href="/show_bug.cgi?id=882126">Move the sig trend history service to a new-style service        </a>
+   href="/show_bug.cgi?id=888792">888792</a>
+        <a href="/show_bug.cgi?id=888792">[socorro-crashstats] 'all' is not accepted for report<wbr>_type and hang<wbr>_type in search        </a>
+   href="/show_bug.cgi?id=889334">889334</a>
+        <a href="/show_bug.cgi?id=889334">Create a new search service to empower supersearch        </a>
+   href="/show_bug.cgi?id=890946">890946</a>
+        <a href="/show_bug.cgi?id=890946">Add a page to execute custom queries in supersearch        </a>
+   href="/show_bug.cgi?id=891917">891917</a>
+        <a href="/show_bug.cgi?id=891917">Use the new style signature<wbr>_history middleware service        </a>
+   href="/show_bug.cgi?id=891989">891989</a>
+        <a href="/show_bug.cgi?id=891989">hang<wbr>_type: Select a valid choice<wbr>. hang is not one of the available choices        </a>
+   href="/show_bug.cgi?id=919559">919559</a>
+        <a href="/show_bug.cgi?id=919559">Make supersearch understand &quot;normal&quot; values for hang type and process type        </a>
+   href="/show_bug.cgi?id=922739">922739</a>
+        <a href="/show_bug.cgi?id=922739">narrowing down results in supersearch does not work        </a>
+   href="/show_bug.cgi?id=931907">931907</a>
+        <a href="/show_bug.cgi?id=931907">Email users with crashes in bitguard        </a>
+   href="/show_bug.cgi?id=937263">937263</a>
+        <a href="/show_bug.cgi?id=937263">Supersearch for multi-word term is confusing        </a>
+   href="/show_bug.cgi?id=943640">943640</a>
+        <a href="/show_bug.cgi?id=943640">Searching the dump field is broken        </a>
+   href="/show_bug.cgi?id=945894">945894</a>
+        <a href="/show_bug.cgi?id=945894">Please expose supersearch via the API        </a>
+   href="/show_bug.cgi?id=959098">959098</a>
+        <a href="/show_bug.cgi?id=959098">/crash/ service is not used anymore        </a>
+   href="/show_bug.cgi?id=965610">965610</a>
+        <a href="/show_bug.cgi?id=965610">Do not send &quot;We're so sorry&quot; mails        </a>
+   href="/show_bug.cgi?id=979357">979357</a>
+        <a href="/show_bug.cgi?id=979357">Report/monitor on incoming crash metadata which is not indexed in supersearch        </a>
+   href="/show_bug.cgi?id=1000160">1000160</a>
+        <a href="/show_bug.cgi?id=1000160">Super search gives no results for release-as-beta (b99)        </a>
+   href="/show_bug.cgi?id=1010032">1010032</a>
+        <a href="/show_bug.cgi?id=1010032">Update the ES documentation        </a>
+   href="/show_bug.cgi?id=1013306">1013306</a>
+        <a href="/show_bug.cgi?id=1013306">[Tracker] Master list of fields for Super Search        </a>
+   href="/show_bug.cgi?id=1013322">1013322</a>
+        <a href="/show_bug.cgi?id=1013322">Generate elasticsearch's mappings from the supersearch fields list        </a>
+   href="/show_bug.cgi?id=1020348">1020348</a>
+        <a href="/show_bug.cgi?id=1020348">Prototype a signature-based report on top of supersearch        </a>
+   href="/show_bug.cgi?id=1028709">1028709</a>
+        <a href="/show_bug.cgi?id=1028709">[bugsy] Migrate bzapi use to rest api or bzapi wrapper        </a>
+   href="/show_bug.cgi?id=1069077">1069077</a>
+        <a href="/show_bug.cgi?id=1069077">Signature report doesn't work with signatures containing &amp;, &lt; or &gt;        </a>
+   href="/show_bug.cgi?id=1073591">1073591</a>
+        <a href="/show_bug.cgi?id=1073591">Get a fast UI for some basic filters into Super Search (like Advanced Search has)        </a>
+   href="/show_bug.cgi?id=1085188">1085188</a>
+        <a href="/show_bug.cgi?id=1085188">[Super Search] Exposing too many fields in the form        </a>
+   href="/show_bug.cgi?id=1096436">1096436</a>
+        <a href="/show_bug.cgi?id=1096436">Possibility to directly switch to facet after search and from links        </a>
+   href="/show_bug.cgi?id=1114552">1114552</a>
+        <a href="/show_bug.cgi?id=1114552">Port query service to new es module        </a>
+   href="/show_bug.cgi?id=1114576">1114576</a>
+        <a href="/show_bug.cgi?id=1114576">[tracker] Remove all dependencies to the `reports` table        </a>
+   href="/show_bug.cgi?id=1118193">1118193</a>
+        <a href="/show_bug.cgi?id=1118193">[Super Search Fields] Cannot remove keys from the storage mapping        </a>
+   href="/show_bug.cgi?id=1122029">1122029</a>
+        <a href="/show_bug.cgi?id=1122029">Upgrade peep to version &gt; 2<wbr>.1        </a>
+   href="/show_bug.cgi?id=1126233">1126233</a>
+        <a href="/show_bug.cgi?id=1126233">Remove all code related to Advanced Search        </a>
+   href="/show_bug.cgi?id=1126288">1126288</a>
+        <a href="/show_bug.cgi?id=1126288">Change links to Search and Reports in /report/index        </a>
+   href="/show_bug.cgi?id=1126296">1126296</a>
+        <a href="/show_bug.cgi?id=1126296">Remove remnants of the Nightly Builds page        </a>
+   href="/show_bug.cgi?id=1132068">1132068</a>
+        <a href="/show_bug.cgi?id=1132068">Remove all code using the `extensions` table        </a>
+   href="/show_bug.cgi?id=1133365">1133365</a>
+        <a href="/show_bug.cgi?id=1133365">determine whether DXVA is running in a crash report        </a>
+   href="/show_bug.cgi?id=1143722">1143722</a>
+        <a href="/show_bug.cgi?id=1143722">Add sorting to Super Search        </a>
+   href="/show_bug.cgi?id=1164531">1164531</a>
+        <a href="/show_bug.cgi?id=1164531">[processor] Invalid build<wbr>_ids when querying version data for Beta Rule        </a>
+   href="/show_bug.cgi?id=1165869">1165869</a>
+        <a href="/show_bug.cgi?id=1165869">Run elasticsearch cleanup cron weekly instead of monthly        </a>
+   href="/show_bug.cgi?id=1171310">1171310</a>
+        <a href="/show_bug.cgi?id=1171310">processor should stop putting json<wbr>_dump into ES        </a>
+   href="/show_bug.cgi?id=1171955">1171955</a>
+        <a href="/show_bug.cgi?id=1171955">Can't search on beta releases as a whole anymore        </a>
+   href="/show_bug.cgi?id=1175946">1175946</a>
+        <a href="/show_bug.cgi?id=1175946">Enable Groovy in our Elasticsearch clusters        </a>
+   href="/show_bug.cgi?id=1184173">1184173</a>
+        <a href="/show_bug.cgi?id=1184173">Implement near real-time top crashers page        </a>
+   href="/show_bug.cgi?id=1193418">1193418</a>
+        <a href="/show_bug.cgi?id=1193418">[Super Search Fields] Too much memory used when testing mapping        </a>
+   href="/show_bug.cgi?id=1194769">1194769</a>
+        <a href="/show_bug.cgi?id=1194769">[Super Search] Add build<wbr>_id histogram        </a>
+   href="/show_bug.cgi?id=1197251">1197251</a>
+        <a href="/show_bug.cgi?id=1197251">[Super Search] Inconsistent results when using several versions including one ending in -b        </a>
+   href="/show_bug.cgi?id=1206078">1206078</a>
+        <a href="/show_bug.cgi?id=1206078">[Topcrashers] Rank changes are incorrect        </a>
+   href="/show_bug.cgi?id=1212768">1212768</a>
+        <a href="/show_bug.cgi?id=1212768">[tracker] Implement Signature Summary in Signature report using Super Search        </a>
+   href="/show_bug.cgi?id=1214558">1214558</a>
+        <a href="/show_bug.cgi?id=1214558">[Signature report] Add a Summary tab prototype        </a>
+   href="/show_bug.cgi?id=1218751">1218751</a>
+        <a href="/show_bug.cgi?id=1218751">Add os<wbr>_pretty<wbr>_name to processed crash        </a>
+   href="/show_bug.cgi?id=1219206">1219206</a>
+        <a href="/show_bug.cgi?id=1219206">[Super Search] Add cardinality feature to count distinct values        </a>
+   href="/show_bug.cgi?id=1221948">1221948</a>
+        <a href="/show_bug.cgi?id=1221948">[Signature report] Use os pretty version in Operating System summary        </a>
+   href="/show_bug.cgi?id=1221950">1221950</a>
+        <a href="/show_bug.cgi?id=1221950">[Signature report] Add a Crashes per Install summary        </a>
+   href="/show_bug.cgi?id=1221952">1221952</a>
+        <a href="/show_bug.cgi?id=1221952">[Super Search] Extend _aggs feature to all fields        </a>
+   href="/show_bug.cgi?id=1221957">1221957</a>
+        <a href="/show_bug.cgi?id=1221957">[Signature report] Add a Product summary        </a>
+   href="/show_bug.cgi?id=1224151">1224151</a>
+        <a href="/show_bug.cgi?id=1224151">Allow multiple arguments in graphics<wbr>_devices service        </a>
+   href="/show_bug.cgi?id=1227904">1227904</a>
+        <a href="/show_bug.cgi?id=1227904">Write documentation for Super Search        </a>
+   href="/show_bug.cgi?id=1231513">1231513</a>
+        <a href="/show_bug.cgi?id=1231513">[Signature report] Have summary boxes collapsed by default        </a>
+   href="/show_bug.cgi?id=1247834">1247834</a>
+        <a href="/show_bug.cgi?id=1247834">Super Search returns cpu<wbr>_arch instead of cpu<wbr>_name        </a>
+   href="/show_bug.cgi?id=1257986">1257986</a>
+        <a href="/show_bug.cgi?id=1257986">Please add E10SCohort to Super<wbr>Search        </a>
+   href="/show_bug.cgi?id=1258420">1258420</a>
+        <a href="/show_bug.cgi?id=1258420">[Topcrashers] Add &quot;by build date&quot; option        </a>
+   href="/show_bug.cgi?id=1288179">1288179</a>
+        <a href="/show_bug.cgi?id=1288179">&quot;Data too large&quot; in Elasticsearch while querying, results are missing data        </a>
+   href="/show_bug.cgi?id=1289704">1289704</a>
+        <a href="/show_bug.cgi?id=1289704">Travis builds failing, cannot gem install puppet        </a>
+   href="/show_bug.cgi?id=1396607">1396607</a>
+        <a href="/show_bug.cgi?id=1396607">Home page broken for logged-in users with no contributions        </a>
+   href="/show_bug.cgi?id=1435010">1435010</a>
+        <a href="/show_bug.cgi?id=1435010">Use SSL to connect to Postgres database        </a>
+   href="/show_bug.cgi?id=1473330">1473330</a>
+        <a href="/show_bug.cgi?id=1473330">[Translate<wbr>.Next] Create architecture for code and deployment        </a>
+   href="/show_bug.cgi?id=1486496">1486496</a>
+        <a href="/show_bug.cgi?id=1486496">[Translate<wbr>.Next] Add a Machinery tab        </a>
+   href="/show_bug.cgi?id=1486500">1486500</a>
+        <a href="/show_bug.cgi?id=1486500">[Translate<wbr>.Next] Make the UI localizable        </a>
+   href="/show_bug.cgi?id=1486504">1486504</a>
+        <a href="/show_bug.cgi?id=1486504">[Translate<wbr>.Next] Implement basic navigation        </a>
+   href="/show_bug.cgi?id=1486509">1486509</a>
+        <a href="/show_bug.cgi?id=1486509">[Translate<wbr>.Next] Implement search and status filters        </a>
+   href="/show_bug.cgi?id=1492166">1492166</a>
+        <a href="/show_bug.cgi?id=1492166">[Translate<wbr>.Next] Add support for placeables and special characters        </a>
+   href="/show_bug.cgi?id=1519898">1519898</a>
+        <a href="/show_bug.cgi?id=1519898">[Translate<wbr>.Next] Add settings in Editor        </a>
+   href="/show_bug.cgi?id=1525984">1525984</a>
+        <a href="/show_bug.cgi?id=1525984">[Translate<wbr>.Next] Implement keyboard shortcuts        </a>
+   href="/show_bug.cgi?id=1527911">1527911</a>
+        <a href="/show_bug.cgi?id=1527911">[Translate<wbr>.Next] Add a way to switch between the old and new Translate pages        </a>
+   href="/show_bug.cgi?id=1528177">1528177</a>
+        <a href="/show_bug.cgi?id=1528177">[Translate<wbr>.Next] Add ability to sign in and out        </a>
+   href="/show_bug.cgi?id=1531778">1531778</a>
+        <a href="/show_bug.cgi?id=1531778">Update package<wbr>.json to reflect Heroku Node<wbr>.js build script change        </a>
+   href="/show_bug.cgi?id=1570746">1570746</a>
+        <a href="/show_bug.cgi?id=1570746">Mozilla logo broken - moz-logo<wbr>.svgz isn't transferred correctly        </a>
+   href="/show_bug.cgi?id=1583774">1583774</a>
+        <a href="/show_bug.cgi?id=1583774">[Translate<wbr>.Next] Communicate about Translate<wbr>.Next release        </a>
+   href="/show_bug.cgi?id=1589137">1589137</a>
+        <a href="/show_bug.cgi?id=1589137">Changes to static files outside the frontend folder requiring make build        </a>
+   href="/show_bug.cgi?id=1616918">1616918</a>
+        <a href="/show_bug.cgi?id=1616918">Unable to approve .ftl translation with Submit button or Enter        </a>
+   href="/show_bug.cgi?id=1681688">1681688</a>
+        <a href="/show_bug.cgi?id=1681688">Input area becomes empty for strings already translated        </a>
+   href="/show_bug.cgi?id=1102504">1102504</a>
+        <a href="/show_bug.cgi?id=1102504">tabs-fennec<wbr>.js Reference<wbr>Error: t is not defined        </a>
+   href="/show_bug.cgi?id=896557">896557</a>
+        <a href="/show_bug.cgi?id=896557">[fig] Fix and re-enable test<wbr>Web<wbr>Content<wbr>Context<wbr>Menu        </a>
+   href="/show_bug.cgi?id=896566">896566</a>
+        <a href="/show_bug.cgi?id=896566">[fig] Fix and re-enable test<wbr>Clear<wbr>Private<wbr>Data        </a>
+   href="/show_bug.cgi?id=896574">896574</a>
+        <a href="/show_bug.cgi?id=896574">[fig] Fix and re-enable test<wbr>Add<wbr>Search<wbr>Engine        </a>
+   href="/show_bug.cgi?id=899182">899182</a>
+        <a href="/show_bug.cgi?id=899182">[fig] Re-implement robocop test<wbr>Bookmark<wbr>.java<wbr>.in        </a>
+   href="/show_bug.cgi?id=906662">906662</a>
+        <a href="/show_bug.cgi?id=906662">Fix open<wbr>About<wbr>Home<wbr>Tab to work with the changes to the tablet about:home UI        </a>
+   href="/show_bug.cgi?id=470314">470314</a>
+        <a href="/show_bug.cgi?id=470314">Send a bookmarks-restore notification        </a>
+   href="/show_bug.cgi?id=494651">494651</a>
+        <a href="/show_bug.cgi?id=494651">Add support for menus in Jetpack        </a>
+   href="/show_bug.cgi?id=499871">499871</a>
+        <a href="/show_bug.cgi?id=499871">Simple storage improvements        </a>
+   href="/show_bug.cgi?id=517229">517229</a>
+        <a href="/show_bug.cgi?id=517229">Secure<wbr>Membrane<wbr>.Base<wbr>Wrapper<wbr>.iterator<wbr>Object is broken        </a>
+   href="/show_bug.cgi?id=523878">523878</a>
+        <a href="/show_bug.cgi?id=523878">XHR not taken from visible window when runtime's window is hidden        </a>
+   href="/show_bug.cgi?id=524411">524411</a>
+        <a href="/show_bug.cgi?id=524411">Jetpack<wbr>Runtime<wbr>.Context needs remove<wbr>Unloader method        </a>
+   href="/show_bug.cgi?id=527281">527281</a>
+        <a href="/show_bug.cgi?id=527281">Typo in Settings<wbr>Store() makes settings basically unusable        </a>
+   href="/show_bug.cgi?id=530169">530169</a>
+        <a href="/show_bug.cgi?id=530169">Jetpack 0<wbr>.6<wbr>.2 seems to have strange interactions with add-ons that add toolbars and toolbar buttons        </a>
+   href="/show_bug.cgi?id=547417">547417</a>
+        <a href="/show_bug.cgi?id=547417">Implement text streams        </a>
+   href="/show_bug.cgi?id=548540">548540</a>
+        <a href="/show_bug.cgi?id=548540">Add support for repeating timers to timer module        </a>
+   href="/show_bug.cgi?id=548589">548589</a>
+        <a href="/show_bug.cgi?id=548589">Implement a simple storage module        </a>
+   href="/show_bug.cgi?id=548590">548590</a>
+        <a href="/show_bug.cgi?id=548590">Implement a page context menu module        </a>
+   href="/show_bug.cgi?id=549324">549324</a>
+        <a href="/show_bug.cgi?id=549324">Add support for life-cycle notfications        </a>
+   href="/show_bug.cgi?id=565694">565694</a>
+        <a href="/show_bug.cgi?id=565694">Add mkpath and rmdir to jetpack-core/file        </a>
+   href="/show_bug.cgi?id=566780">566780</a>
+        <a href="/show_bug.cgi?id=566780">test-cuddlefish<wbr>.test<wbr>Loader broken by simple storage checkin        </a>
+   href="/show_bug.cgi?id=566784">566784</a>
+        <a href="/show_bug.cgi?id=566784">Simple storage test fails when run by cfx testall        </a>
+   href="/show_bug.cgi?id=578849">578849</a>
+        <a href="/show_bug.cgi?id=578849">Make the context-menu API e10s-compatible        </a>
+   href="/show_bug.cgi?id=596053">596053</a>
+        <a href="/show_bug.cgi?id=596053">switch to construct/destroy model for Panel, Page<wbr>Worker, Widget and other APIs that create persistent DOM elements        </a>
+   href="/show_bug.cgi?id=637192">637192</a>
+        <a href="/show_bug.cgi?id=637192">context-menu item labels and menus can't be changed after creating them        </a>
+   href="/show_bug.cgi?id=647180">647180</a>
+        <a href="/show_bug.cgi?id=647180">Exceptions in context-menu context listeners interfere with the context menu        </a>
+   href="/show_bug.cgi?id=663268">663268</a>
+        <a href="/show_bug.cgi?id=663268">Simple storage overwritten with empty storage (or &quot;deleted&quot;) if module is loaded but storage property is not accessed        </a>
+   href="/show_bug.cgi?id=664518">664518</a>
+        <a href="/show_bug.cgi?id=664518">Errors should be logged to the Error Console as errors, not ordinary messages        </a>
+   href="/show_bug.cgi?id=676719">676719</a>
+        <a href="/show_bug.cgi?id=676719">Record URLs for plugin processes        </a>
+   href="/show_bug.cgi?id=687777">687777</a>
+        <a href="/show_bug.cgi?id=687777">Context menu items added by extension use 900KB each; not returned on destroy()        </a>
+   href="/show_bug.cgi?id=733631">733631</a>
+        <a href="/show_bug.cgi?id=733631">Unit test infrastructure for the webapp runtime        </a>
+   href="/show_bug.cgi?id=775825">775825</a>
+        <a href="/show_bug.cgi?id=775825">Add telemetry to measure index and type of the selected awesomebar result        </a>
+   href="/show_bug.cgi?id=798223">798223</a>
+        <a href="/show_bug.cgi?id=798223">Investigate increasing OPTIMIZED<wbr>_FAVICON<wbr>_DIMENSION for high-dpi devices        </a>
+   href="/show_bug.cgi?id=841495">841495</a>
+        <a href="/show_bug.cgi?id=841495">implement background service for page thumbnailing        </a>
+   href="/show_bug.cgi?id=959567">959567</a>
+        <a href="/show_bug.cgi?id=959567">[User Story] Implement search suggestions opt-in/out UI        </a>
+   href="/show_bug.cgi?id=959594">959594</a>
+        <a href="/show_bug.cgi?id=959594">Retrieving the results from the default search provider        </a>
+   href="/show_bug.cgi?id=1131362">1131362</a>
+        <a href="/show_bug.cgi?id=1131362">Create a reading list SQLite database and JSM to provide access to it        </a>
+   href="/show_bug.cgi?id=1131416">1131416</a>
+        <a href="/show_bug.cgi?id=1131416">Desktop syncing module for reading list service        </a>
+   href="/show_bug.cgi?id=1151077">1151077</a>
+        <a href="/show_bug.cgi?id=1151077">Desktop reading list sync module should batch its POST /batch requests        </a>
+   href="/show_bug.cgi?id=1162142">1162142</a>
+        <a href="/show_bug.cgi?id=1162142">[User Story] Search Suggestions in the Awesome<wbr>Bar should be clearly identified as such        </a>
+   href="/show_bug.cgi?id=1162283">1162283</a>
+        <a href="/show_bug.cgi?id=1162283">Add support for limited hard-coded localizations to Pocket        </a>
+   href="/show_bug.cgi?id=1173751">1173751</a>
+        <a href="/show_bug.cgi?id=1173751">Add unit tests for search suggestions in awesomebar        </a>
+   href="/show_bug.cgi?id=1176107">1176107</a>
+        <a href="/show_bug.cgi?id=1176107">Search suggestions in awesomebar: highlighting a suggestion doesn't place it into the input, and selecting a suggestion doesn't actually search with it        </a>
+   href="/show_bug.cgi?id=1187901">1187901</a>
+        <a href="/show_bug.cgi?id=1187901">Some Open<wbr>Search plugins does not work properly if the input contains UPPERCASE        </a>
+   href="/show_bug.cgi?id=1195054">1195054</a>
+        <a href="/show_bug.cgi?id=1195054">The location bar should displays 10 autocomplete suggestions without scrollbar instead of 6        </a>
+   href="/show_bug.cgi?id=1198683">1198683</a>
+        <a href="/show_bug.cgi?id=1198683">Search suggestions prompt breaks accessibility of location bar suggestions        </a>
+   href="/show_bug.cgi?id=1198687">1198687</a>
+        <a href="/show_bug.cgi?id=1198687">Search suggestions prompt unusable by screen reader users        </a>
+   href="/show_bug.cgi?id=1200322">1200322</a>
+        <a href="/show_bug.cgi?id=1200322">Bad a11y when pressing Left and Right while the urlbar autocomplete popup is focused        </a>
+   href="/show_bug.cgi?id=1201017">1201017</a>
+        <a href="/show_bug.cgi?id=1201017">Type<wbr>Error: styles<wbr>.includes is not a function in resource:///components/ns<wbr>Browser<wbr>Glue<wbr>.js line 501, 61        </a>
+   href="/show_bug.cgi?id=1207375">1207375</a>
+        <a href="/show_bug.cgi?id=1207375">urlbar a11y still broken by search suggestions opt-in prompt/notification        </a>
+   href="/show_bug.cgi?id=1226629">1226629</a>
+        <a href="/show_bug.cgi?id=1226629">Searches initiated by clicking the action row in the locationbar don't increment the &quot;search&quot; / &quot;urlbar&quot; telemetry countable        </a>
+   href="/show_bug.cgi?id=1232548">1232548</a>
+        <a href="/show_bug.cgi?id=1232548">browser<wbr>_urlbar<wbr>Search<wbr>Telemetry<wbr>.js,browser<wbr>_urlbar<wbr>Search<wbr>Suggestions<wbr>.js,browser<wbr>_urlbar<wbr>Search<wbr>Suggestions<wbr>Notification<wbr>.js,browser<wbr>_urlbar<wbr>Search<wbr>Single<wbr>Word<wbr>Notification<wbr>.js leak until shutdown on mozilla-aurora 45        </a>
+   href="/show_bug.cgi?id=1239708">1239708</a>
+        <a href="/show_bug.cgi?id=1239708">Improve the autofill decisions algorithms        </a>
+   href="/show_bug.cgi?id=1262783">1262783</a>
+        <a href="/show_bug.cgi?id=1262783">Excessively cropped results in new Awesome Bar style        </a>
+   href="/show_bug.cgi?id=1295458">1295458</a>
+        <a href="/show_bug.cgi?id=1295458">Rework key and mouse handling for the one-off search buttons        </a>
+   href="/show_bug.cgi?id=1303781">1303781</a>
+        <a href="/show_bug.cgi?id=1303781">Sometimes selecting a history entry opens a Google search instead of navigating to the entry        </a>
+   href="/show_bug.cgi?id=1374477">1374477</a>
+        <a href="/show_bug.cgi?id=1374477">Photon API for adding, removing, and moving page actions        </a>
+   href="/show_bug.cgi?id=1380021">1380021</a>
+        <a href="/show_bug.cgi?id=1380021">Tests for showing the Page Action device sub-menu have a 5 second waits in them        </a>
+   href="/show_bug.cgi?id=1384256">1384256</a>
+        <a href="/show_bug.cgi?id=1384256">uninterruptible reflow at _open<wbr>Autocomplete<wbr>Popup&#64;chrome://browser/content/urlbar<wbr>Bindings<wbr>.xml:1854        </a>
+   href="/show_bug.cgi?id=1386474">1386474</a>
+        <a href="/show_bug.cgi?id=1386474">Pocket shouldn't assume that Photon page actions are enabled        </a>
+   href="/show_bug.cgi?id=1391082">1391082</a>
+        <a href="/show_bug.cgi?id=1391082">Page action panel ordering can get messed up        </a>
+   href="/show_bug.cgi?id=1392733">1392733</a>
+        <a href="/show_bug.cgi?id=1392733">Disabled state is not synced from page action menu items to the corresponding urlbar icon        </a>
+   href="/show_bug.cgi?id=1393237">1393237</a>
+        <a href="/show_bug.cgi?id=1393237">Bookmark star has wrong tooltip after bookmarking a page        </a>
+   href="/show_bug.cgi?id=1395387">1395387</a>
+        <a href="/show_bug.cgi?id=1395387">Reconcile Web<wbr>Extension page actions and Photon page actions        </a>
+   href="/show_bug.cgi?id=1402272">1402272</a>
+        <a href="/show_bug.cgi?id=1402272">Evaluate a different approach for adjust<wbr>Site<wbr>Icon<wbr>Start        </a>
+   href="/show_bug.cgi?id=1403781">1403781</a>
+        <a href="/show_bug.cgi?id=1403781">Search suggestions in address bar are not aligned correctly if there is no toolbar icon / spacer to the left of the addressbar        </a>
+   href="/show_bug.cgi?id=1410240">1410240</a>
+        <a href="/show_bug.cgi?id=1410240">Search suggestions keep displacing awesomebar results as I'm about to click on them        </a>
+   href="/show_bug.cgi?id=1413574">1413574</a>
+        <a href="/show_bug.cgi?id=1413574">Disabled page actions should be hidden        </a>

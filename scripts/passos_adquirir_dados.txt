@@ -1,0 +1,26 @@
+
+Passos:
+    wget 'list bugs' >> result_file
+    grep "/show_bug.cgi?id=" result_file >> NEM_FILE
+
+    cut -d "/show_bug.cgi?id=" -f3 NEW_FILE | cut -d "\"" -f1 | sed 'n; d'
+
+
+
+
+remover linhas em branco
+ awk 'NF' final_ids.txt 
+
+
+
+outras investigações:
+    /tmp/bugs.txt
+
+
+    awk '{gsub("</a>","\n")}1' file | awk 'sub(/.*>/,"")'
+
+
+
+sed: 
+    keep odd lines - sed 'n; d' infile > outfile
+    keep even lines - sed '1d; n; d' infile > outfile

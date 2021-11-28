@@ -1,0 +1,121 @@
+{
+  "comments": {},
+  "bugs": {
+    "1417698": {
+      "comments": [
+        {
+          "text": "https://dxr.mozilla.org/mozilla-central/source/toolkit/components/payments/.eslintrc.js should use the recommended rules while keeping some stricter ones that aren't yet part of the recommended ones.",
+          "count": 0,
+          "time": "2017-11-15T22:56:24Z",
+          "is_private": false,
+          "creation_time": "2017-11-15T22:56:24Z",
+          "tags": [],
+          "raw_text": "https://dxr.mozilla.org/mozilla-central/source/toolkit/components/payments/.eslintrc.js should use the recommended rules while keeping some stricter ones that aren't yet part of the recommended ones.",
+          "bug_id": 1417698,
+          "creator": "mozilla+bmo@noorenberghe.ca",
+          "attachment_id": null,
+          "id": 12846964,
+          "author": "mozilla+bmo@noorenberghe.ca"
+        },
+        {
+          "id": 12854564,
+          "attachment_id": null,
+          "author": "akriti.v10@gmail.com",
+          "text": "Hi MattN, can you please explain in detail the changes this bug requires.\nThanks.",
+          "count": 1,
+          "time": "2017-11-18T10:59:31Z",
+          "is_private": false,
+          "creation_time": "2017-11-18T10:59:31Z",
+          "tags": [],
+          "raw_text": "Hi MattN, can you please explain in detail the changes this bug requires.\nThanks.",
+          "bug_id": 1417698,
+          "creator": "akriti.v10@gmail.com"
+        },
+        {
+          "author": "jaws@mozilla.com",
+          "tags": [],
+          "bug_id": 1417698,
+          "creator": "jaws@mozilla.com",
+          "raw_text": "We have two files:\nhttps://searchfox.org/mozilla-central/source/toolkit/components/payments/.eslintrc.js\nand\nhttps://searchfox.org/mozilla-central/source/tools/lint/eslint/eslint-plugin-mozilla/lib/configs/recommended.js\n\nThe .eslintrc.js file extends what is already defined by the recommended.js file. Anything that is duplicated between the two should be removed. I looked at the two files and found the only rule that was duplicated with the same values was the `semi` rule which is at https://searchfox.org/mozilla-central/rev/33c90c196bc405e628bc868a4f4ba29b992478c0/toolkit/components/payments/.eslintrc.js#51\n\nLine 51 should be removed to fix this bug.",
+          "is_private": false,
+          "time": "2017-11-23T00:24:05Z",
+          "count": 2,
+          "text": "We have two files:\nhttps://searchfox.org/mozilla-central/source/toolkit/components/payments/.eslintrc.js\nand\nhttps://searchfox.org/mozilla-central/source/tools/lint/eslint/eslint-plugin-mozilla/lib/configs/recommended.js\n\nThe .eslintrc.js file extends what is already defined by the recommended.js file. Anything that is duplicated between the two should be removed. I looked at the two files and found the only rule that was duplicated with the same values was the `semi` rule which is at https://searchfox.org/mozilla-central/rev/33c90c196bc405e628bc868a4f4ba29b992478c0/toolkit/components/payments/.eslintrc.js#51\n\nLine 51 should be removed to fix this bug.",
+          "creation_time": "2017-11-23T00:24:05Z",
+          "id": 12867439,
+          "attachment_id": null
+        },
+        {
+          "author": "akriti.v10@gmail.com",
+          "id": 12876104,
+          "attachment_id": null,
+          "tags": [],
+          "creator": "akriti.v10@gmail.com",
+          "bug_id": 1417698,
+          "raw_text": "(In reply to Jared Wein [:jaws] (please needinfo? me) from comment #2)\n> We have two files:\n> https://searchfox.org/mozilla-central/source/toolkit/components/payments/.\n> eslintrc.js\n> and\n> https://searchfox.org/mozilla-central/source/tools/lint/eslint/eslint-plugin-\n> mozilla/lib/configs/recommended.js\n> \n> The .eslintrc.js file extends what is already defined by the recommended.js\n> file. Anything that is duplicated between the two should be removed. I\n> looked at the two files and found the only rule that was duplicated with the\n> same values was the `semi` rule which is at\n> https://searchfox.org/mozilla-central/rev/\n> 33c90c196bc405e628bc868a4f4ba29b992478c0/toolkit/components/payments/.\n> eslintrc.js#51\n> \n> Line 51 should be removed to fix this bug.\n\n Can i fix this bug?",
+          "is_private": false,
+          "text": "(In reply to Jared Wein [:jaws] (please needinfo? me) from comment #2)\n> We have two files:\n> https://searchfox.org/mozilla-central/source/toolkit/components/payments/.\n> eslintrc.js\n> and\n> https://searchfox.org/mozilla-central/source/tools/lint/eslint/eslint-plugin-\n> mozilla/lib/configs/recommended.js\n> \n> The .eslintrc.js file extends what is already defined by the recommended.js\n> file. Anything that is duplicated between the two should be removed. I\n> looked at the two files and found the only rule that was duplicated with the\n> same values was the `semi` rule which is at\n> https://searchfox.org/mozilla-central/rev/\n> 33c90c196bc405e628bc868a4f4ba29b992478c0/toolkit/components/payments/.\n> eslintrc.js#51\n> \n> Line 51 should be removed to fix this bug.\n\n Can i fix this bug?",
+          "count": 3,
+          "time": "2017-11-27T10:34:16Z",
+          "creation_time": "2017-11-27T10:34:16Z"
+        },
+        {
+          "creation_time": "2017-12-05T19:31:01Z",
+          "attachment_id": null,
+          "id": 12899539,
+          "is_private": false,
+          "text": "Yes, please go ahead and fix this bug. I will mark it as assigned to you when you have a patch uploaded.",
+          "time": "2017-12-05T19:31:01Z",
+          "count": 4,
+          "bug_id": 1417698,
+          "creator": "jaws@mozilla.com",
+          "raw_text": "Yes, please go ahead and fix this bug. I will mark it as assigned to you when you have a patch uploaded.",
+          "author": "jaws@mozilla.com",
+          "tags": []
+        },
+        {
+          "tags": [],
+          "author": "2042@cgs.act.edu.au",
+          "raw_text": "",
+          "bug_id": 1417698,
+          "creator": "2042@cgs.act.edu.au",
+          "count": 5,
+          "text": "Created attachment 8944580\npatch for activity code cadets",
+          "time": "2018-01-23T00:00:28Z",
+          "is_private": false,
+          "id": 12987650,
+          "attachment_id": 8944580,
+          "creation_time": "2018-01-23T00:00:28Z"
+        },
+        {
+          "time": "2018-01-24T07:04:23Z",
+          "text": "Pushed by mozilla@noorenberghe.ca:\nhttps://hg.mozilla.org/integration/mozilla-inbound/rev/810037ffe4a8\nRemove redundant `semi` eslint rule from toolkit/components/payments/. r=MattN",
+          "count": 6,
+          "is_private": false,
+          "id": 12990868,
+          "attachment_id": null,
+          "creation_time": "2018-01-24T07:04:23Z",
+          "tags": [],
+          "author": "pulsebot@bots.tld",
+          "raw_text": "Pushed by mozilla@noorenberghe.ca:\nhttps://hg.mozilla.org/integration/mozilla-inbound/rev/810037ffe4a8\nRemove redundant `semi` eslint rule from toolkit/components/payments/. r=MattN",
+          "creator": "pulsebot@bots.tld",
+          "bug_id": 1417698
+        },
+        {
+          "id": 12992976,
+          "attachment_id": null,
+          "author": "nbeleuzu@mozilla.com",
+          "count": 7,
+          "time": "2018-01-24T22:42:58Z",
+          "text": "https://hg.mozilla.org/mozilla-central/rev/810037ffe4a8",
+          "is_private": false,
+          "creation_time": "2018-01-24T22:42:58Z",
+          "tags": ["bugherder"],
+          "raw_text": "https://hg.mozilla.org/mozilla-central/rev/810037ffe4a8",
+          "creator": "nbeleuzu@mozilla.com",
+          "bug_id": 1417698
+        }
+      ]
+    }
+  }
+}

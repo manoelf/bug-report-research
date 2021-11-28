@@ -1,0 +1,160 @@
+{
+  "bugs": [
+    {
+      "comment_count": 25,
+      "is_open": false,
+      "cf_tracking_firefox96": "---",
+      "votes": 0,
+      "creator": "arni2033@yandex.ru",
+      "dupe_of": null,
+      "is_cc_accessible": true,
+      "depends_on": [],
+      "cf_user_story": "The location bar should display 10 results without a scrollbar.",
+      "target_milestone": "Firefox 48",
+      "cf_tracking_firefox95": "---",
+      "cf_fission_milestone": "---",
+      "status": "RESOLVED",
+      "cf_root_cause": "---",
+      "cf_status_firefox41": "affected",
+      "cf_has_regression_range": "---",
+      "cf_tracking_firefox93": "---",
+      "cf_tracking_firefox_relnote": "---",
+      "summary": "The location bar should displays 10 autocomplete suggestions without scrollbar instead of 6",
+      "cf_status_firefox40": "affected",
+      "qa_contact": "",
+      "classification": "Client Software",
+      "whiteboard": "[fxsearch]",
+      "creator_detail": {
+        "email": "arni2033@yandex.ru",
+        "id": 540189,
+        "name": "arni2033@yandex.ru",
+        "real_name": "arni2033",
+        "nick": "arni2033"
+      },
+      "blocks": [583683, 1060340, 1222432, 1251015, 1262507],
+      "cf_status_firefox48": "fixed",
+      "product": "Firefox",
+      "last_change_time": "2016-04-11T07:47:51Z",
+      "cf_tracking_firefox_sumo": "---",
+      "cf_tracking_firefox94": "---",
+      "platform": "Unspecified",
+      "cf_status_firefox93": "---",
+      "cf_webcompat_priority": "---",
+      "resolution": "FIXED",
+      "cf_status_firefox_esr38": "affected",
+      "cf_status_firefox95": "---",
+      "duplicates": [1259575],
+      "assigned_to_detail": {
+        "email": "adw@mozilla.com",
+        "real_name": "Drew Willcoxon :adw",
+        "nick": "adw",
+        "name": "adw@mozilla.com",
+        "id": 334927
+      },
+      "cf_status_firefox_esr91": "---",
+      "type": "defect",
+      "assigned_to": "adw@mozilla.com",
+      "cf_a11y_review_project_flag": "---",
+      "cf_status_firefox96": "---",
+      "cf_status_firefox43": "affected",
+      "cf_status_firefox42": "affected",
+      "cf_rank": null,
+      "flags": [],
+      "cf_tracking_firefox_esr91": "---",
+      "cf_fx_points": "---",
+      "regressions": [],
+      "cf_last_resolved": "2016-04-08T22:27:46Z",
+      "cc": [
+        "adw@mozilla.com",
+        "mak@mozilla.com",
+        "pastith@gmail.com",
+        "philringnalda@gmail.com",
+        "quicksaver@gmail.com",
+        "splewako@aviary.pl",
+        "stephen@noved.org",
+        "u428464@disabled.tld"
+      ],
+      "groups": [],
+      "cf_crash_signature": "",
+      "priority": "P1",
+      "severity": "normal",
+      "is_confirmed": true,
+      "cf_qa_whiteboard": "",
+      "see_also": ["https://bugzilla.mozilla.org/show_bug.cgi?id=1060340"],
+      "keywords": [],
+      "id": 1195054,
+      "op_sys": "Unspecified",
+      "cf_has_str": "---",
+      "regressed_by": [],
+      "mentors": [],
+      "url": "",
+      "alias": null,
+      "is_creator_accessible": true,
+      "cf_fx_iteration": "---",
+      "component": "Address Bar",
+      "cc_detail": [
+        {
+          "email": "adw@mozilla.com",
+          "id": 334927,
+          "nick": "adw",
+          "real_name": "Drew Willcoxon :adw",
+          "name": "adw@mozilla.com"
+        },
+        {
+          "email": "mak@mozilla.com",
+          "id": 240353,
+          "name": "mak@mozilla.com",
+          "nick": "mak",
+          "real_name": "Marco Bonardo [:mak]"
+        },
+        {
+          "email": "pastith@gmail.com",
+          "real_name": "Panos Astithas (he/him) [:past] (please ni?)",
+          "nick": "past",
+          "name": "pastith@gmail.com",
+          "id": 363318
+        },
+        {
+          "email": "philringnalda@gmail.com",
+          "name": "philringnalda@gmail.com",
+          "real_name": "Phil Ringnalda (:philor)",
+          "nick": "philor",
+          "id": 135518
+        },
+        {
+          "name": "quicksaver@gmail.com",
+          "nick": "quicksaver",
+          "real_name": "Lu\u00eds Miguel [:quicksaver] (not reading bugmail)",
+          "id": 420205,
+          "email": "quicksaver@gmail.com"
+        },
+        {
+          "id": 225658,
+          "name": "splewako@aviary.pl",
+          "real_name": "Stefan Plewako [:stef]",
+          "nick": "stef",
+          "email": "splewako@aviary.pl"
+        },
+        {
+          "email": "stephen@noved.org",
+          "real_name": "Stephen Horlander [:shorlander] (If you're waiting on a response please ping me on Slack or Riot)",
+          "nick": "shorlander",
+          "name": "stephen@noved.org",
+          "id": 136536
+        },
+        {
+          "real_name": "",
+          "nick": "u428464",
+          "name": "u428464@disabled.tld",
+          "id": 428464,
+          "email": "u428464@disabled.tld"
+        }
+      ],
+      "cf_status_firefox94": "---",
+      "mentors_detail": [],
+      "creation_time": "2015-08-15T21:31:22Z",
+      "version": "Trunk"
+    }
+  ],
+  "faults": []
+}

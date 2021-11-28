@@ -1,0 +1,204 @@
+/* This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this file,
+ * You can obtain one at http://mozilla.org/MPL/2.0/.
+ *
+ * This Source Code Form is "Incompatible With Secondary Licenses", as
+ * defined by the Mozilla Public License, v. 2.0. */
+
+.bz_query_head {
+  text-align: center;
+}
+
+.bz_query_head h1 {
+  font-size: var(--font-size-h2);
+}
+
+.bz_query_timestamp {
+  font-weight: bold;
+  color: var(--secondary-label-color);
+}
+
+.bz_query_buttons form {
+  float: left;
+  margin-right: 2px;
+}
+
+.bz_query_edit {
+  padding-left: 2em;
+}
+
+.search_description {
+  margin: .5em 0;
+  padding: 0;
+  color: var(--secondary-label-color);
+}
+
+.search_description li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 2em;
+}
+
+.search_description strong {
+  color: var(--primary-label-color);
+}
+
+.zero_result_links {
+  font-size: var(--font-size-x-large);
+  font-weight: bold;
+}
+
+.bz_buglist {
+  margin: 16px 0;
+  border-top: 1px solid var(--grid-border-color);
+  background-color: var(--grid-background-color);
+  box-shadow: var(--primary-region-box-shadow);
+}
+
+.bz_buglist thead {
+  position: sticky;
+  top: 0;
+  background: var(--grid-header-background-color);
+}
+
+.bz_buglist_header th {
+  border-bottom: 1px solid var(--grid-border-color);
+  padding-top: 4px;
+  padding-bottom: 4px;
+  color: var(--secondary-label-color);
+  font-size: var(--font-size-small);
+  text-align: left;
+}
+
+.bz_buglist_header th:not(:last-of-type) {
+  border-right: 1px solid var(--grid-border-color);
+}
+
+.bz_buglist.sortable .bz_buglist_header th {
+  cursor: pointer;
+}
+
+.bz_buglist_header th a {
+  color: inherit;
+}
+
+.bz_sort_order_primary {
+  display: inline-block;
+  padding-left: .2em;
+  color: var(--tertiary-label-color);
+  text-decoration: none;
+}
+
+.bz_buglist tr {
+  border-bottom: 1px solid var(--grid-border-color);
+}
+
+.bz_buglist thead th {
+  padding: 4px 8px;
+}
+
+.bz_buglist tbody td {
+  padding: 8px;
+}
+
+/* Style bug rows according to severity. */
+.bz_blocker,
+.bz_blocker .bz_short_desc_column {
+  color: rgb(var(--accent-color-red-2)) !important;
+  font-weight: bold;
+}
+
+.bz_critical,
+.bz_critical .bz_short_desc_column {
+  color: rgb(var(--accent-color-red-2)) !important;
+}
+
+/* Align columns in the "change multiple bugs" form to the right. */
+table#form tr th {
+  text-align: right;
+}
+
+/* we use a first-child class and not the pseudo-class because IE
+ * doesn't support it :-( */
+tr.bz_secure td.first-child,
+a.bz_secure {
+  background-image: url("../../images/padlock.png");
+  background-position: center left;
+  background-repeat: no-repeat;
+  background-color: inherit;
+}
+
+th.first-child,
+td.first-child,
+a.bz_secure {
+  padding-left: 20px !important;
+}
+
+td.bz_bug_type_column {
+  padding: 4px;
+  width: 1em;
+  text-align: center;
+}
+
+td.bz_estimated_time_column,
+td.bz_remaining_time_column,
+td.bz_actual_time_column,
+td.bz_percentage_complete_column {
+  text-align: right;
+}
+
+td.bz_total_label {
+  font-weight: bold;
+}
+
+td.bz_total {
+  border-top-style: solid;
+  border-top-color: var(--secondary-region-border-color);
+  border-top-width: 3px;
+  text-align: right;
+}
+
+#commit,
+#action {
+  margin-top: .25em;
+}
+
+.bz_query_debug {
+  text-align: left;
+}
+
+/* The "filtering" table is specific to request.cgi.
+ * Same for the "requests" class used for tables. */
+
+#filtering #requester,
+#filtering #requestee {
+  min-width: 8em;
+}
+
+#filtering th {
+  text-align: right;
+}
+
+/* For the JS-sorting buglist. */
+
+.bz_id_column,
+.bz_short_desc_column,
+.bz_short_short_desc_column {
+  font-size: var(--font-size-large);
+}
+
+.bz_short_desc_column a,
+.bz_short_short_desc_column a {
+  color: inherit;
+}
+
+.bz_short_desc_column a:hover,
+.bz_short_desc_column a:focus,
+.bz_short_short_desc_column a:hover,
+.bz_short_short_desc_column a:focus {
+  color: var(--hovered-link-text-color);
+}
+
+#request_form #filtering th {
+  padding-left: 0.5em;
+}

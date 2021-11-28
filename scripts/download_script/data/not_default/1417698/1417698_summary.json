@@ -1,0 +1,132 @@
+{
+  "bugs": [
+    {
+      "cf_fission_milestone": "---",
+      "cf_tracking_firefox_esr91": "---",
+      "priority": "P1",
+      "dupe_of": null,
+      "cf_tracking_firefox_sumo": "---",
+      "cf_tracking_firefox94": "---",
+      "resolution": "FIXED",
+      "creation_time": "2017-11-15T22:56:24Z",
+      "cf_user_story": "",
+      "cf_tracking_firefox93": "---",
+      "cc_detail": [
+        {
+          "real_name": "akriti verma",
+          "nick": "akriti.v10",
+          "email": "akriti.v10@gmail.com",
+          "id": 598773,
+          "name": "akriti.v10@gmail.com"
+        },
+        {
+          "real_name": "Jared Wein [:jaws] (please needinfo? me)",
+          "nick": "jaws",
+          "email": "jaws@mozilla.com",
+          "id": 409754,
+          "name": "jaws@mozilla.com"
+        },
+        {
+          "nick": "jcristau",
+          "real_name": "Julien Cristau [:jcristau]",
+          "name": "jcristau@mozilla.com",
+          "id": 580382,
+          "email": "jcristau@mozilla.com"
+        },
+        {
+          "email": "mmucci@mozilla.com",
+          "name": "mmucci@mozilla.com",
+          "id": 458208,
+          "real_name": "Marco Mucci [:MarcoM]",
+          "nick": "MarcoM"
+        }
+      ],
+      "cf_tracking_firefox_esr78": "---",
+      "classification": "Client Software",
+      "groups": [],
+      "cf_has_str": "---",
+      "last_change_time": "2018-05-01T01:25:26Z",
+      "cf_last_resolved": "2018-01-24T22:42:58Z",
+      "cf_fx_iteration": "---",
+      "summary": "Use mozilla recommended eslint rules and remove rules duplicating those recommendations",
+      "alias": null,
+      "cf_webcompat_priority": "---",
+      "creator_detail": {
+        "real_name": "Matthew N. [:MattN]",
+        "nick": "MattN",
+        "email": "mozilla+bmo@noorenberghe.ca",
+        "id": 305228,
+        "name": "mozilla+bmo@noorenberghe.ca"
+      },
+      "cf_root_cause": "---",
+      "see_also": [],
+      "mentors": ["jaws@mozilla.com"],
+      "version": "Trunk",
+      "status": "RESOLVED",
+      "whiteboard": "[webpayments]",
+      "cf_crash_signature": "",
+      "platform": "Unspecified",
+      "is_open": false,
+      "cc": [
+        "akriti.v10@gmail.com",
+        "jaws@mozilla.com",
+        "jcristau@mozilla.com",
+        "mmucci@mozilla.com"
+      ],
+      "type": "enhancement",
+      "blocks": [],
+      "component": "WebPayments UI",
+      "depends_on": [],
+      "votes": 0,
+      "cf_status_firefox_esr78": "---",
+      "cf_qa_whiteboard": "",
+      "regressed_by": [],
+      "target_milestone": "Firefox 60",
+      "cf_a11y_review_project_flag": "---",
+      "flags": [],
+      "is_creator_accessible": true,
+      "cf_has_regression_range": "---",
+      "assigned_to_detail": {
+        "real_name": "Nathan",
+        "nick": "2042",
+        "email": "2042@cgs.act.edu.au",
+        "id": 609947,
+        "name": "2042@cgs.act.edu.au"
+      },
+      "assigned_to": "2042@cgs.act.edu.au",
+      "product": "Firefox",
+      "comment_count": 8,
+      "cf_status_firefox94": "---",
+      "cf_status_firefox59": "wontfix",
+      "op_sys": "Unspecified",
+      "cf_status_firefox95": "---",
+      "cf_rank": null,
+      "regressions": [],
+      "is_confirmed": true,
+      "id": 1417698,
+      "is_cc_accessible": true,
+      "cf_tracking_firefox95": "---",
+      "cf_tracking_firefox_relnote": "---",
+      "duplicates": [],
+      "cf_status_firefox93": "---",
+      "cf_fx_points": "---",
+      "creator": "mozilla+bmo@noorenberghe.ca",
+      "cf_status_firefox_esr91": "---",
+      "cf_status_firefox60": "fixed",
+      "url": "https://dxr.mozilla.org/mozilla-central/source/toolkit/components/payments/.eslintrc.js",
+      "keywords": ["good-first-bug"],
+      "severity": "normal",
+      "qa_contact": "",
+      "mentors_detail": [
+        {
+          "email": "jaws@mozilla.com",
+          "name": "jaws@mozilla.com",
+          "id": 409754,
+          "real_name": "Jared Wein [:jaws] (please needinfo? me)",
+          "nick": "jaws"
+        }
+      ]
+    }
+  ],
+  "faults": []
+}
