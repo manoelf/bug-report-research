@@ -5,6 +5,28 @@ from difflib import SequenceMatcher
 import distance
 import os
 
+
+class DataField:
+    '''
+        name: String
+        text: String
+        numberLines: Number
+    '''
+
+    def __init__(self, name):
+        self.name = name
+        self.text = ''
+        self.numberLines = 0
+
+    
+    def addText(self,text):
+        self.numberLines += 1
+        self.text += text + '\n'
+
+    def __str__(self):
+        return ("HEAD: {} \nNumber Lines: {}\n size: {}\n content: {}"
+                .format(self.name, self.numberLines, len(self.text), self.text)) # bug aqui
+
 def similar(a, b):
     return distance.sorensen(a,b)
 
@@ -39,6 +61,7 @@ def extract_info(raw_text_array):
     words = [ 'Platform', 'Preconditions', 'Steps to reproduce', 'Expected result', 'Actual result']
     findHead = False
     stepsNumber = 0
+    data = {'': DataField('')}
     for palavra in raw_text_array:
         for word in words: 
             #print('Test:', palavra, word) # Debug
@@ -53,13 +76,22 @@ def extract_info(raw_text_array):
                 #print('Macth: ', word, palavra) # Debug
                 head = word
                 values[head] = ''
+                data[head] = DataField(head)
+                #data[head] = new
                 break
         
         if not findHead:
             stepsNumber += 1
             values[head] = values[head] + palavra
+            data[head].addText(palavra)
         
         findHead = False
+
+    for key in data.keys():
+        #print('Chave', key)
+        print(data[key])
+        print()
+
     return values
 
 
@@ -91,7 +123,7 @@ for name in links.keys():
 
         cleanArray(raw_text_array)
         extracted = extract_info(raw_text_array)
-        print_info(extracted)
+        #print_info(extracted)
     exit()
 
 
