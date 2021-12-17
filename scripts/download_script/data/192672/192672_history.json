@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"removed": "", "field_name": "cf_last_resolved", "added": "2003-02-11T11:21:29Z"}], "when": "2003-02-11T11:21:29Z", "who": "djst@mozilla.com"}], "alias": null, "id": 192672}]}

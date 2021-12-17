@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"who": "abdulbijur@gmail.com", "when": "2005-02-21T15:53:21Z", "changes": [{"field_name": "status", "removed": "UNCONFIRMED", "added": "RESOLVED"}, {"field_name": "resolution", "removed": "", "added": "FIXED"}, {"field_name": "cf_last_resolved", "removed": "", "added": "2005-02-21T15:53:21Z"}]}], "id": 282795}]}

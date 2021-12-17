@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"removed": "", "field_name": "resolution", "added": "INVALID"}, {"field_name": "cf_last_resolved", "added": "2005-01-24T21:35:08Z", "removed": ""}], "when": "2005-01-24T21:35:08Z", "who": "tlowe@shaw.ca"}], "alias": null, "id": 279553}]}

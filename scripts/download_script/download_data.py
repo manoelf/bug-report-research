@@ -43,4 +43,4 @@ with open(FILENAME, "r") as a_file:
     print(history)
     print(comment)
     print()
-    time.sleep(40)
+    time.sleep(20)

@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"removed": "", "added": "FIXED", "field_name": "resolution"}, {"field_name": "cf_last_resolved", "added": "2005-09-06T13:25:50Z", "removed": ""}], "when": "2005-09-06T13:25:50Z", "who": "papa200480@mail.ru"}], "id": 306679}]}

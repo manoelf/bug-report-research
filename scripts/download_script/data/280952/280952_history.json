@@ -1,0 +1,1 @@
+{"bugs": [{"id": 280952, "history": [{"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"added": "INVALID", "removed": "", "field_name": "resolution"}, {"field_name": "cf_last_resolved", "added": "2005-02-04T13:21:08Z", "removed": ""}], "who": "jerfa@email.it", "when": "2005-02-04T13:21:08Z"}], "alias": null}]}

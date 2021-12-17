@@ -1,0 +1,1 @@
+{"bugs": [{"id": 268864, "history": [{"when": "2004-11-12T02:09:00Z", "who": "bugzilla@mversen.de", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "removed": "", "added": "INVALID"}, {"added": "2004-11-12T02:09:00Z", "removed": "", "field_name": "cf_last_resolved"}]}], "alias": null}]}
