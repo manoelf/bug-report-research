@@ -1,98 +1,13 @@
 import requests
 import json
-from pprint import pprint
-from difflib import SequenceMatcher
-import distance
 import os
+from aux import *
 
-class DataField:
-    '''
-        name: String
-        text: String
-        numberLines: Number
-    '''
-
-    def __init__(self, name):
-        self.name = name
-        self.text = ''
-        self.numberLines = 0
-
-    
-    def addText(self,text):
-        self.numberLines += 1
-        self.text += text + '\n'
-
-    def __str__(self):
-        return ("HEAD: {} \nNumber Lines: {}\n size: {}\n content: {}"
-                .format(self.name, self.numberLines, len(self.text), self.text)) # bug aqui
-
-    def getData(self):
-        return { 'head': self.name, 'text': self.text, 'lines': str(self.numberLines), 'size': str(len(self.text))}
-
-
-def cleanArray(nArray):
-    for index in range(len(nArray) -1, -1, -1):
-        i = nArray[index]
-        if i == '':
-            nArray.pop(index)
-
-
-def extract_info(raw_text_array):
-    head = ''
-    text = ''
-    values = {'': ''}
-    words = [ 'Platform', 'Preconditions', 'Steps to reproduce', 'Expected result', 'Actual result', 'Reproducible', 'User Agent']
-    findHead = False
-    stepsNumber = 0
-    data = {'': DataField('')}
-    for phrase in raw_text_array:
-        for word in words: 
-            if word.lower() in phrase.lower():
-                values['numberLines_' + head] = str(stepsNumber)
-                
-                stepsNumber = 0
-                findHead = True
-                
-                head = word
-                values[head] = ''
-                data[head] = DataField(head)
-                if (head == 'User Agent' or head == 'Reproducible'): # Case: User Agent: info info
-                    final = 1
-                    r = phrase.split(head)
-                    if len(r) == 1:
-                        final = 0
-                    data[head].addText(phrase.split(head)[final])                    
-                break
-        
-        if not findHead:
-            stepsNumber += 1
-            values[head] = values[head] + phrase
-            data[head].addText(phrase)
-        
-        findHead = False
-
-    # for key in data.keys(): # Print info in console to Debug
-    #     #print('Chave', key)
-    #     print(data[key])
-    #     print()
-
-    return data
-
-
-
+# Basic information
+FILENAME = 'bug-report.csv'
 FOLDER = '../download_script/data/'
 
 bugs_list = os.listdir(FOLDER)
-
-def filterText(text): 
-    text = text.replace('STR', 'Steps to reproduce')
-    text = text.replace('Plataform', 'Platform')
-    text = text.replace('Result', 'Actual result')
-    text = text.replace('Expectations', 'Expected result')
-    text = text.replace('Prerequisites', 'Preconditions')
-    text = text.replace('User-Agent', 'User Agent')
-
-    return text
 
 
 def writeCSV(data, summaryData, allInfo, startTime, endTime):
@@ -108,25 +23,46 @@ def writeCSV(data, summaryData, allInfo, startTime, endTime):
             line += 'None§ None§ None§'
 
     line += allInfo + '§' + startTime + '§' + endTime
-    with open('bug-report.csv', 'a') as f: 
+    with open(FILENAME, 'a') as f: 
         f.write('\n' + line.replace('\n',''))
 
 
 # Function Main of program
-def collectComment(bugId, commentPath, summaryPath, historyPath):  
+
+
+'''
+    Returns a String containing all information collected from the bug history
+'''
+def collectHistory(historyPath):
     endTime = ''
 
     with open(historyPath,) as f:
         data = json.load(f)
         hist = data['bugs'][0]['history']
         endTime = hist[-1]['when']
-    
+
+    return endTime
+
+'''
+    Returns a String containing all information collected from the bug history
+'''
+def collectSummary(summaryPath):
     summary = ''
+    
     with open(summaryPath,) as f:
         data = json.load(f)
         summaryData = data['bugs'][0]
-        summary = '{} § {} § {} § {} § {} § {} § {}'.format(str(bug_id), summaryData['resolution'], summaryData['severity'], summaryData['type'], summaryData['status'], summaryData['classification'], str(summaryData['comment_count']))
+        summary = '{} § {} § {} § {} § {} § {} § {}'.format(str(bug_id), 
+            summaryData['resolution'], summaryData['severity'], 
+            summaryData['type'], summaryData['status'], summaryData['classification'], 
+            str(summaryData['comment_count']))
     
+    return summary
+
+def collectComment(bugId, commentPath, summaryPath, historyPath):  
+    endTime = collectHistory(historyPath)  
+    summary = collectSummary(summaryPath)
+   
     with open(commentPath,) as f:
         data = json.load(f)
         bug = data['bugs'][bug_id]['comments'][0]
@@ -151,3 +87,4 @@ for bug_id in bugs_list:
     print(bug_id)
     collectComment(bug_id, comment, summary, history)
     print('-----------------------------')
+    exit()
