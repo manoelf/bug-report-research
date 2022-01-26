@@ -22,7 +22,7 @@ Research about bug reports at Federal University of Campina Grande
 
 ### Extract Information
 
-- Crie um arquivo texto com cabeçario das informações que deseja coletar
+- Create a text file with the header of the information you want to collect
 - Update "extracting_info.py" variables to contain the new name
 - Run the command below
   > python3 extracting_info.py
