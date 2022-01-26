@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 1637423, "history": [{"when": "2020-05-16T00:16:04Z", "who": "sclements@mozilla.com", "changes": [{"removed": "ASSIGNED", "added": "RESOLVED", "field_name": "status"}, {"added": "FIXED", "field_name": "resolution", "removed": ""}, {"removed": "", "added": "2020-05-16T00:16:04Z", "field_name": "cf_last_resolved"}]}]}]}

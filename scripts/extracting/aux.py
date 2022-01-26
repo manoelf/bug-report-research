@@ -33,8 +33,7 @@ def cleanArray(nArray):
         if i == '':
             nArray.pop(index)
 
-
-def extract_info(raw_text_array):
+def parsingPost(raw_text_array):
     head = ''
     text = ''
     values = {'': ''}

@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"who": "jrediger@mozilla.com", "when": "2020-06-22T10:00:58Z", "changes": [{"field_name": "status", "removed": "NEW", "added": "RESOLVED"}, {"field_name": "resolution", "removed": "", "added": "FIXED"}, {"added": "2020-06-22T10:00:58Z", "field_name": "cf_last_resolved", "removed": ""}]}], "alias": null, "id": 1644994}]}
