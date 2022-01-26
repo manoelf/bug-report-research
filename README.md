@@ -11,7 +11,7 @@ Research about bug reports at Federal University of Campina Grande
 - get_ids
   - Folder for manual extraction of report id's
 
-## Steps do Run
+## Steps to Run
 
 ### Download
 
