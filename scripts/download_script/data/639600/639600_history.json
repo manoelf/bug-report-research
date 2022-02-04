@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"who": "bernd_mozilla@gmx.de", "when": "2012-01-01T16:39:36Z", "changes": [{"added": "[BC] \"ASSERTION: row group can own border only at table edge\"", "field_name": "summary", "removed": "\"ASSERTION: row group can own border only at table edge\""}]}], "id": 639600, "alias": null}]}

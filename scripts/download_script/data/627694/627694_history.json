@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"removed": "Don't put the Home button on the tab bar by default", "field_name": "summary", "added": "Don't put the Home button on the nav bar by default"}], "when": "2011-01-22T02:48:58Z", "who": "kns-x86-32@yandex.ru"}], "id": 627694, "alias": null}]}

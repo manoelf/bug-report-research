@@ -1,0 +1,1 @@
+{"bugs": [{"id": 638319, "history": [{"who": "gal@uci.edu", "when": "2011-03-03T02:10:55Z", "changes": [{"field_name": "cc", "added": "pbiggar@mozilla.com", "removed": ""}]}, {"when": "2014-07-24T18:07:35Z", "changes": [{"added": "nobody@mozilla.org", "field_name": "assigned_to", "removed": "general@js.bugs"}], "who": "nobody@mozilla.org"}], "alias": null}]}

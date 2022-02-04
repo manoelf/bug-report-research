@@ -1,0 +1,1 @@
+{"bugs": [{"id": 698292, "history": [{"who": "dbaron@dbaron.org", "changes": [{"field_name": "cc", "removed": "", "added": "smontagu@smontagu.org"}], "when": "2011-10-30T17:32:39Z"}, {"when": "2012-05-10T19:44:00Z", "changes": [{"field_name": "cc", "removed": "", "added": "ehsan@mozilla.com"}], "who": "ehsan.akhgari@gmail.com"}], "alias": null}]}

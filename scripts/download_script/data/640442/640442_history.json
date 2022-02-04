@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"removed": "trivial", "added": "normal", "field_name": "severity"}], "when": "2011-03-10T02:46:05Z", "who": "lem2001@lycos.com"}, {"changes": [{"field_name": "version", "added": "Trunk", "removed": "unspecified"}], "when": "2011-03-10T06:15:32Z", "who": "fmdevelopertim@gmail.com"}], "id": 640442}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-08-22T07:46:27Z", "changes": [{"added": "x86", "removed": "x86_64", "field_name": "platform"}, {"removed": "Linux", "field_name": "op_sys", "added": "Windows 7"}], "who": "axel.azerty@laposte.net"}], "id": 680843}]}

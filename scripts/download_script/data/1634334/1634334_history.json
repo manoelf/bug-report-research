@@ -1,1 +1,0 @@
-{"bugs": [{"id": 1634334, "history": [{"who": "bebe@mozilla.ro", "when": "2020-05-05T13:32:28Z", "changes": [{"field_name": "status", "removed": "ASSIGNED", "added": "RESOLVED"}, {"removed": "", "field_name": "resolution", "added": "DUPLICATE"}, {"added": "2020-05-05T13:32:28Z", "field_name": "cf_last_resolved", "removed": ""}]}], "alias": null}]}

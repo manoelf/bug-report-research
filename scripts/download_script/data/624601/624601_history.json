@@ -1,0 +1,1 @@
+{"bugs": [{"id": 624601, "history": [{"changes": [{"removed": "", "field_name": "cc", "added": "bzbarsky@mit.edu"}], "who": "sroussey@gmail.com", "when": "2011-01-11T01:23:35Z"}, {"when": "2011-07-08T07:24:45Z", "changes": [{"field_name": "component", "added": "JavaScript Engine", "removed": "JavaScript Debugging/Profiling APIs"}], "who": "nobody@mozilla.org"}], "alias": null}]}

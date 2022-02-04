@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"when": "2011-06-21T10:28:25Z", "who": "george.carstoiu@gmail.com", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "NEW"}, {"removed": "", "field_name": "cc", "added": "george.carstoiu@softvision.ro"}, {"field_name": "is_confirmed", "added": "1", "removed": "0"}]}], "id": 662990, "alias": null}]}

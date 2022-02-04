@@ -1,0 +1,1 @@
+{"bugs": [{"id": 697015, "alias": null, "history": [{"who": "stransky@redhat.com", "when": "2011-10-27T11:48:09Z", "changes": [{"removed": "", "field_name": "cc", "added": "stransky@redhat.com"}]}, {"changes": [{"added": "l12y", "field_name": "keywords", "removed": ""}], "when": "2011-10-28T02:08:17Z", "who": "karlt@mozbugz.karlt.net"}]}]}

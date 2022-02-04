@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"removed": "", "added": "vlad.maniac@softvision.ro", "field_name": "cc"}], "when": "2011-02-07T14:53:24Z", "who": "vlad.mozbugs@gmail.com"}, {"who": "fmdevelopertim@gmail.com", "when": "2011-02-13T05:44:34Z", "changes": [{"added": "Trunk", "field_name": "version", "removed": "unspecified"}]}], "id": 632001}]}

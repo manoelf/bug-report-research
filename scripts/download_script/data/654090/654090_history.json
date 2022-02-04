@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 654090, "history": [{"when": "2011-05-04T02:14:19Z", "changes": [{"removed": "", "field_name": "cc", "added": "guy.pyrzak@gmail.com, mkanat@bugzilla.org"}], "who": "mkanat@bugzilla.org"}, {"who": "mkanat@bugzilla.org", "changes": [{"added": "", "field_name": "cc", "removed": "mkanat@bugzilla.org"}], "when": "2013-08-01T17:29:12Z"}]}]}

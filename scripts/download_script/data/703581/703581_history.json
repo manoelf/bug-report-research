@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 703581, "history": [{"when": "2011-11-18T14:48:48Z", "who": "roger21@free.fr", "changes": [{"removed": "disable image dragging let the cursor empty", "added": "disabling image dragging let the cursor empty", "field_name": "summary"}]}]}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"id": 675313, "alias": null, "history": [{"changes": [{"field_name": "cc", "added": "ajuma@mozilla.com", "removed": ""}, {"removed": "color-management@gfx.bugs", "field_name": "qa_contact", "added": "bgirard@mozilla.com"}], "when": "2012-01-20T20:20:25Z", "who": "ajuma.bugzilla@alijuma.com"}]}]}

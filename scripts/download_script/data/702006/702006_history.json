@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"field_name": "cc", "added": "a9016009@gmx.de", "removed": ""}, {"removed": "After installing firefox 8, it no longer applies saved passwords on some sites", "added": "Firefox 8 no longer applies saved passwords on some sites", "field_name": "summary"}], "who": "a9016009@gmx.de", "when": "2011-11-12T22:49:19Z"}], "id": 702006, "alias": null}]}

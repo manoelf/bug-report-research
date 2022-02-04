@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 701978, "history": [{"when": "2011-11-13T06:37:21Z", "who": "moz@jeka.info", "changes": [{"attachment_id": 573992, "field_name": "attachments.mimetype", "removed": "text/plain", "added": "text/html"}]}, {"when": "2012-01-20T08:05:56Z", "who": "felash@gmail.com", "changes": [{"field_name": "cc", "removed": "", "added": "felash@gmail.com"}]}]}]}

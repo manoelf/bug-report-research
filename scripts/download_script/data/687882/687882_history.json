@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"who": "ajuma.bugzilla@alijuma.com", "changes": [{"added": "ajuma@mozilla.com", "field_name": "cc", "removed": ""}, {"field_name": "platform", "removed": "x86", "added": "ARM"}, {"added": "Android", "field_name": "op_sys", "removed": "Mac OS X"}], "when": "2011-09-20T18:15:29Z"}], "id": 687882}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 649809, "history": [{"who": "azakai@mozilla.com", "changes": [{"field_name": "whiteboard", "added": "[mobile-reftest]", "removed": ""}], "when": "2011-04-13T21:33:53Z"}, {"who": "dbaron@dbaron.org", "changes": [{"added": "jdaggett@mozilla.com, jfkthame@gmail.com", "removed": "", "field_name": "cc"}], "when": "2011-04-14T05:29:52Z"}]}]}

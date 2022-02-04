@@ -1,0 +1,1 @@
+{"bugs": [{"id": 678936, "alias": null, "history": [{"when": "2011-08-25T17:55:17Z", "who": "bzbarsky@mit.edu", "changes": [{"added": "bzbarsky@mit.edu", "field_name": "cc", "removed": ""}, {"field_name": "component", "added": "Document Navigation", "removed": "Networking"}, {"added": "docshell@embedding.bugs", "field_name": "qa_contact", "removed": "networking@core.bugs"}]}]}]}

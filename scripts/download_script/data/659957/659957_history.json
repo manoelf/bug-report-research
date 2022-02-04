@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"added": "Trunk", "removed": "unspecified", "field_name": "version"}], "when": "2011-05-26T15:55:51Z", "who": "jwatt@jwatt.org"}, {"changes": [{"field_name": "cc", "removed": "", "added": "twalker@mozilla.com"}], "when": "2012-06-22T16:04:30Z", "who": "twalker@mozilla.com"}], "id": 659957}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"who": "nobody@mozilla.org", "changes": [{"field_name": "component", "removed": "Event Handling", "added": "User events and focus handling"}], "when": "2019-03-13T13:46:04Z"}], "id": 636923}]}

@@ -14,6 +14,9 @@ import os
 FILENAME = 'bugs_ids.txt'
 FOLDER = 'data'
 URL = 'https://bugzilla.mozilla.org/rest/bug/'
+skip = False
+WAIT = 15
+timeSkip = WAIT
 
 with open(FILENAME, "r") as a_file:
   for line in a_file:
@@ -26,21 +29,32 @@ with open(FILENAME, "r") as a_file:
     links = { 'summary': summary, 'comment': comment, 'history': history }
     
 
-
-    os.mkdir(FOLDER + '/' + bug_id)
+    try:
+        os.mkdir(FOLDER + '/' + bug_id)
+    except Exception as e:
+        skip = True
+        timeSkip = 1
+    
+    if not skip:
 
     
-    for name in links.keys():
-        resp = requests.get(url=links[name])
-        data = resp.json()
+        for name in links.keys():
+            resp = requests.get(url=links[name])
+            data = resp.json()
+            
+            filename = "{}/{}/{}_{}.json".format(FOLDER, bug_id, bug_id, name)
         
-        filename = "{}/{}/{}_{}.json".format(FOLDER, bug_id, bug_id, name)
-    
-        with open(filename, 'w') as f:
-            json.dump(data, f)
+            with open(filename, 'w') as f:
+                json.dump(data, f)
 
-    print(summary)
-    print(history)
-    print(comment)
-    print()
-    time.sleep(20)
+
+        print(summary)
+        print(history)
+        print(comment)
+        print()
+        time.sleep(timeSkip)
+    else:
+        timeSkip = WAIT
+        skip = False
+
+   

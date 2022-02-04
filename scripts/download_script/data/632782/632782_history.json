@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "NEW"}, {"removed": "", "field_name": "cc", "added": "nelson@bolyard.me, wtc@google.com"}, {"field_name": "is_confirmed", "removed": "0", "added": "1"}], "who": "wtc@google.com", "when": "2011-02-11T06:59:14Z"}], "id": 632782, "alias": null}]}

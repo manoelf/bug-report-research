@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"removed": "igor@mir2.org", "field_name": "assigned_to", "added": "general@js.bugs"}], "who": "igor@mir2.org", "when": "2012-03-01T16:02:15Z"}, {"changes": [{"added": "nobody@mozilla.org", "field_name": "assigned_to", "removed": "general@js.bugs"}], "who": "nobody@mozilla.org", "when": "2014-07-24T18:07:35Z"}], "id": 683863, "alias": null}]}

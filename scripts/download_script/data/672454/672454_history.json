@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-07-19T11:28:49Z", "changes": [{"removed": "All", "field_name": "platform", "added": "x86"}, {"added": "Windows XP", "field_name": "op_sys", "removed": "Other"}, {"removed": "", "field_name": "cc", "added": "bugcuddler@gmail.com"}], "who": "mozilla@ahlblom.eu"}], "id": 672454}]}

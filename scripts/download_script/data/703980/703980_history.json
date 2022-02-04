@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"removed": "", "added": "702198", "field_name": "blocks"}], "who": "havardw+bugzilla@pvv.org", "when": "2011-11-20T14:22:24Z"}, {"when": "2011-11-20T18:59:11Z", "who": "mozilla@felixmoeller.de", "changes": [{"added": "mozilla@felixmoeller.de", "removed": "", "field_name": "cc"}]}], "id": 703980}]}

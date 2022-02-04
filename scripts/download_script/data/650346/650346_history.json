@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 650346, "history": [{"changes": [{"field_name": "version", "removed": "unspecified", "added": "Trunk"}], "when": "2011-04-15T18:43:47Z", "who": "b.katbeh@gmail.com"}, {"who": "mathieu.marquer@gmail.com", "when": "2011-10-19T08:15:29Z", "changes": [{"added": "mathieu.marquer@gmail.com", "removed": "", "field_name": "cc"}]}]}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"field_name": "cc", "removed": "", "added": "bwinton@mozilla.com"}, {"field_name": "depends_on", "removed": "", "added": "700536"}, {"field_name": "assigned_to", "added": "mconley@mozilla.com", "removed": "nobody@mozilla.org"}], "who": "mconley@mozilla.com", "when": "2011-12-12T16:53:14Z"}], "id": 709809, "alias": null}]}

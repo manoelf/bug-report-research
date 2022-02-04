@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"who": "bug-husbandry-bot@mozilla.bugs", "when": "2018-06-29T04:39:50Z", "changes": [{"field_name": "priority", "removed": "--", "added": "P5"}]}, {"when": "2019-03-13T13:42:05Z", "who": "nobody@mozilla.org", "changes": [{"added": "DOM: Core & HTML", "removed": "DOM", "field_name": "component"}]}], "id": 711379}]}

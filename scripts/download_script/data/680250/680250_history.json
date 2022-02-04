@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"added": "rrelyea@redhat.com", "field_name": "assigned_to", "removed": "nobody@nss.bugs"}], "who": "kaie@kuix.de", "when": "2011-08-18T21:15:54Z"}, {"changes": [{"removed": "3.13", "added": "3.12.11", "field_name": "version"}], "who": "kaie@kuix.de", "when": "2011-08-18T21:16:29Z"}], "alias": null, "id": 680250}]}

@@ -1,1 +1,0 @@
-{"bugs": [{"alias": null, "id": 301913, "history": [{"when": "2005-07-24T11:52:33Z", "who": "bugzilla@gtalbot.org", "changes": [{"removed": "NEW", "added": "RESOLVED", "field_name": "status"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"field_name": "cf_last_resolved", "added": "2005-07-24T11:52:33Z", "removed": ""}]}]}]}

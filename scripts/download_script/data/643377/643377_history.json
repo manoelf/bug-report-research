@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 643377, "history": [{"changes": [{"field_name": "cc", "removed": "", "added": "hskupin@gmail.com"}, {"field_name": "version", "removed": "unspecified", "added": "Trunk"}, {"removed": "major", "field_name": "severity", "added": "normal"}], "who": "hskupin@gmail.com", "when": "2011-03-21T08:50:40Z"}]}]}

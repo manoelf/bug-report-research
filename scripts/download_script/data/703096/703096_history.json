@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"who": "spamslepnoga@inbox.ru", "when": "2011-11-16T22:19:14Z", "changes": [{"added": "Build", "removed": "Libraries", "field_name": "component"}, {"added": "x86_64", "removed": "All", "field_name": "platform"}, {"field_name": "op_sys", "removed": "All", "added": "Linux"}]}], "id": 703096}]}

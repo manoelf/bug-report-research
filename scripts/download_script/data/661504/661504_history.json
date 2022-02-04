@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"when": "2011-06-02T11:57:49Z", "changes": [{"added": "Tabbed Browser", "field_name": "component", "removed": "Panorama"}, {"added": "tabbed.browser@firefox.bugs", "field_name": "qa_contact", "removed": "panorama@firefox.bugs"}], "who": "dao+bmo@mozilla.com"}], "alias": null, "id": 661504}]}

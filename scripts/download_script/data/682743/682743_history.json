@@ -1,0 +1,1 @@
+{"bugs": [{"id": 682743, "history": [{"when": "2011-08-31T13:10:58Z", "changes": [{"removed": "", "field_name": "cc", "added": "mak77@bonardo.net"}, {"removed": "Bookmarks & History", "field_name": "component", "added": "General"}, {"removed": "bookmarks@firefox.bugs", "field_name": "qa_contact", "added": "general@firefox.bugs"}], "who": "mak@mozilla.com"}], "alias": null}]}

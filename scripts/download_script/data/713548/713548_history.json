@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-12-26T19:49:07Z", "changes": [{"removed": "11 Branch", "added": "12 Branch", "field_name": "version"}], "who": "nhirata.bugzilla@gmail.com"}, {"changes": [{"field_name": "cc", "added": "honzab.moz@firemni.cz", "removed": ""}], "when": "2012-01-09T18:27:30Z", "who": "honzab.moz@firemni.cz"}], "id": 713548}]}

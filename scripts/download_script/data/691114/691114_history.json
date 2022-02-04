@@ -1,0 +1,1 @@
+{"bugs": [{"id": 691114, "alias": null, "history": [{"when": "2011-10-02T04:08:33Z", "changes": [{"removed": "Core", "added": "Firefox", "field_name": "product"}, {"field_name": "qa_contact", "added": "general@firefox.bugs", "removed": "general@core.bugs"}], "who": "bzbarsky@mit.edu"}]}]}

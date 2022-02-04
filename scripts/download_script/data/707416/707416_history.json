@@ -1,0 +1,1 @@
+{"bugs": [{"id": 707416, "alias": null, "history": [{"who": "mak@mozilla.com", "when": "2011-12-08T12:10:51Z", "changes": [{"added": "mak77@bonardo.net", "field_name": "cc", "removed": ""}, {"removed": "Location Bar", "field_name": "component", "added": "General"}, {"removed": "location.bar@firefox.bugs", "added": "general@firefox.bugs", "field_name": "qa_contact"}]}]}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 661757, "history": [{"changes": [{"removed": "Firefox", "field_name": "product", "added": "Toolkit"}, {"added": "general@toolkit.bugs", "removed": "general@firefox.bugs", "field_name": "qa_contact"}], "who": "jdinbox@gmail.com", "when": "2011-06-03T22:00:55Z"}]}]}

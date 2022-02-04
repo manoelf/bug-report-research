@@ -1,0 +1,1 @@
+{"bugs": [{"id": 667457, "history": [{"when": "2012-01-18T18:47:20Z", "changes": [{"added": "NEW", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "cc", "removed": "", "added": "lcrouch@mozilla.com"}, {"removed": "0", "field_name": "is_confirmed", "added": "1"}], "who": "lcrouch@mozilla.com"}], "alias": null}]}

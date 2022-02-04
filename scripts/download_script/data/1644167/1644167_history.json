@@ -1,1 +1,0 @@
-{"bugs": [{"alias": null, "id": 1644167, "history": [{"who": "bimsland@mozilla.com", "when": "2020-06-10T16:30:20Z", "changes": [{"added": "RESOLVED", "removed": "NEW", "field_name": "status"}, {"field_name": "resolution", "added": "FIXED", "removed": ""}, {"field_name": "cf_last_resolved", "added": "2020-06-10T16:30:20Z", "removed": ""}]}]}]}

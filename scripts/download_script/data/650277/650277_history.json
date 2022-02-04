@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 650277, "history": [{"who": "berestnev@gmail.com", "changes": [{"removed": "unspecified", "field_name": "version", "added": "4.0 Branch"}], "when": "2011-04-15T14:31:50Z"}, {"who": "mak@mozilla.com", "when": "2011-04-15T14:43:01Z", "changes": [{"removed": "", "added": "mak77@bonardo.net", "field_name": "cc"}]}]}]}

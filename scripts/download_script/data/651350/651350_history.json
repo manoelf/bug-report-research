@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"field_name": "platform", "added": "All", "removed": "x86"}, {"removed": "Mac OS X", "added": "All", "field_name": "op_sys"}], "when": "2011-06-14T16:42:06Z", "who": "davida@mozillafoundation.org"}], "id": 651350, "alias": null}]}

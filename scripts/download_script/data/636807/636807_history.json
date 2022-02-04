@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"added": "libssl and SECKEY_PublicKeyStrengthInBits do not report correct key sizes for RSA and DH keys", "field_name": "summary", "removed": "libssl and SECKEY_PublicKeyStrengthInBits does not report correct bitlengths for RSA or"}], "who": "brian@briansmith.org", "when": "2011-02-25T19:57:54Z"}], "id": 636807, "alias": null}]}

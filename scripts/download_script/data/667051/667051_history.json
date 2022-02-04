@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"added": "normal", "removed": "enhancement", "field_name": "severity"}], "when": "2011-06-24T22:36:01Z", "who": "info@daniel-marschall.de"}, {"who": "dveditz@mozilla.com", "when": "2013-03-26T14:37:10Z", "changes": [{"field_name": "product", "added": "MailNews Core", "removed": "Core"}]}], "id": 667051}]}

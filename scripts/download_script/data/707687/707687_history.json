@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-12-07T19:16:34Z", "changes": [{"field_name": "summary", "added": "On Windows, when tab's focus ring is shown, clicking another tab hides the focus ring on that tab.", "removed": "Firefox browser_bug462289.js: Investigate (test vs real life) focus behavior"}], "who": "enndeakin@gmail.com"}], "id": 707687}]}

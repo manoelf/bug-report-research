@@ -1,0 +1,1 @@
+{"bugs": [{"id": 711396, "alias": null, "history": [{"who": "LpSolit@gmail.com", "when": "2012-04-09T16:54:18Z", "changes": [{"added": "NEW", "field_name": "status", "removed": "UNCONFIRMED"}, {"added": "1", "field_name": "is_confirmed", "removed": "0"}, {"field_name": "severity", "added": "minor", "removed": "normal"}]}]}]}

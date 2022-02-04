@@ -1,0 +1,1 @@
+{"bugs": [{"id": 640991, "history": [{"who": "martin@swift.is", "changes": [{"removed": "", "field_name": "cc", "added": "martin@swift.is"}], "when": "2012-03-22T16:54:58Z"}, {"who": "sunfish@mozilla.com", "changes": [{"added": "sunfish@google.com", "field_name": "cc", "removed": ""}], "when": "2013-08-04T05:36:32Z"}], "alias": null}]}

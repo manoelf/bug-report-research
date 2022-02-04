@@ -1,0 +1,1 @@
+{"bugs": [{"id": 712039, "history": [{"when": "2021-08-12T21:37:13Z", "who": "mschroeder@mozilla.x-home.org", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "NEW"}, {"added": "1", "removed": "0", "field_name": "is_confirmed"}]}], "alias": null}]}

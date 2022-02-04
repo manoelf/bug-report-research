@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"added": "bmo@edmorley.co.uk", "removed": "", "field_name": "cc"}], "when": "2011-11-25T08:54:32Z", "who": "emorley@mozilla.com"}, {"when": "2018-03-02T20:12:20Z", "who": "automation@bmo.tld", "changes": [{"field_name": "product", "removed": "Core", "added": "Firefox Build System"}]}], "id": 705237}]}

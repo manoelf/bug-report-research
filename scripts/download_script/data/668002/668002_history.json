@@ -1,0 +1,1 @@
+{"bugs": [{"id": 668002, "alias": null, "history": [{"who": "brian@briansmith.org", "when": "2011-06-28T20:06:44Z", "changes": [{"removed": "", "field_name": "blocks", "added": "668003"}]}, {"who": "mt@lowentropy.net", "when": "2019-03-28T13:13:16Z", "changes": [{"added": "https://bugzilla.mozilla.org/show_bug.cgi?id=1539788", "field_name": "see_also", "removed": ""}]}]}]}

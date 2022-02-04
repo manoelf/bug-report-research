@@ -1,0 +1,1 @@
+{"bugs": [{"id": 667334, "history": [{"changes": [{"field_name": "status", "added": "UNCONFIRMED", "removed": "NEW"}, {"removed": "1", "added": "0", "field_name": "is_confirmed"}], "who": "neil@httl.net", "when": "2011-09-05T20:19:01Z"}], "alias": null}]}

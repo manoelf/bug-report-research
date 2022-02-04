@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"when": "2012-01-17T10:56:07Z", "who": "romain.failliot@gmail.com", "changes": [{"removed": "7 Branch", "added": "9 Branch", "field_name": "version"}]}, {"who": "romain.failliot@foolstep.com", "when": "2019-06-05T12:32:40Z", "changes": [{"field_name": "cc", "removed": "", "added": "romain.failliot@foolstep.com"}]}], "id": 690780, "alias": null}]}

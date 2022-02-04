@@ -1,0 +1,1 @@
+{"bugs": [{"id": 676168, "history": [{"who": "christian.p@maps-system.com", "when": "2011-11-25T14:31:27Z", "changes": [{"added": "christian@pingroom.net", "removed": "", "field_name": "cc"}]}, {"who": "bug-husbandry-bot@mozilla.bugs", "when": "2018-04-30T20:11:52Z", "changes": [{"field_name": "component", "added": "XUL", "removed": "XP Toolkit/Widgets: XUL"}]}], "alias": null}]}

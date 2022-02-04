@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"field_name": "cc", "added": "ben@stechz.com, paul@oshannessy.com", "removed": ""}], "when": "2011-09-13T17:05:06Z", "who": "ben@stechz.com"}, {"who": "ben@stechz.com", "when": "2011-09-13T17:06:05Z", "changes": [{"added": "ben@stechz.com", "field_name": "assigned_to", "removed": "nobody@mozilla.org"}]}], "alias": null, "id": 686483}]}

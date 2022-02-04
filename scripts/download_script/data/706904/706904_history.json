@@ -1,0 +1,1 @@
+{"bugs": [{"id": 706904, "history": [{"when": "2011-12-01T21:16:45Z", "changes": [{"added": "UNCONFIRMED", "field_name": "status", "removed": "NEW"}, {"removed": "", "field_name": "cc", "added": "moz@jeka.info"}, {"removed": "1", "field_name": "is_confirmed", "added": "0"}], "who": "moz@jeka.info"}], "alias": null}]}

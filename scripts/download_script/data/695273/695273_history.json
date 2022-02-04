@@ -1,0 +1,1 @@
+{"bugs": [{"id": 695273, "alias": null, "history": [{"changes": [{"removed": "totalPeriodBytes and totalPeriodBytesTCP should be either 32 bit or protected by lock in selfserv.c", "added": "totalPeriodBytes and totalPeriodBytesTCP should be protected by lock in selfserv.c", "field_name": "summary"}], "when": "2011-10-19T13:46:29Z", "who": "u238590@disabled.tld"}]}]}

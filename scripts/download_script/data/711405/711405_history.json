@@ -1,0 +1,1 @@
+{"bugs": [{"id": 711405, "history": [{"who": "automation@bmo.tld", "when": "2018-03-02T20:12:20Z", "changes": [{"added": "Firefox Build System", "field_name": "product", "removed": "Core"}]}], "alias": null}]}

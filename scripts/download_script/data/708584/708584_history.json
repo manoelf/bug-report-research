@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 708584, "history": [{"when": "2011-12-09T11:16:15Z", "who": "pastith@gmail.com", "changes": [{"field_name": "cc", "added": "past@mozilla.com", "removed": ""}, {"added": "Menus", "removed": "Developer Tools", "field_name": "component"}, {"added": "menus@firefox.bugs", "removed": "developer.tools@firefox.bugs", "field_name": "qa_contact"}]}]}]}

@@ -1,1 +1,0 @@
-{"bugs": [{"id": 267031, "alias": null, "history": [{"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"removed": "", "added": "INVALID", "field_name": "resolution"}, {"added": "2004-12-12T12:08:13Z", "removed": "", "field_name": "cf_last_resolved"}], "who": "allo@laxu.de", "when": "2004-12-12T12:08:13Z"}]}]}

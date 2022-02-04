@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"removed": "Thunderbird", "added": "Calendar", "field_name": "product"}, {"removed": "general@thunderbird.bugs", "added": "general@calendar.bugs", "field_name": "qa_contact"}], "when": "2011-02-07T22:21:50Z", "who": "vseerror@lehigh.edu"}], "id": 632168}]}

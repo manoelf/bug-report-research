@@ -1,0 +1,1 @@
+{"bugs": [{"id": 688003, "alias": null, "history": [{"when": "2011-09-20T21:20:24Z", "changes": [{"removed": "x86", "field_name": "platform", "added": "All"}, {"removed": "Mac OS X", "added": "All", "field_name": "op_sys"}, {"removed": "normal", "field_name": "severity", "added": "enhancement"}], "who": "LpSolit@gmail.com"}]}]}

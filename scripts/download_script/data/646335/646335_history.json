@@ -1,0 +1,1 @@
+{"bugs": [{"id": 646335, "history": [{"when": "2018-08-29T22:24:07Z", "changes": [{"field_name": "component", "added": "Layout: Web Painting", "removed": "Layout: View Rendering"}], "who": "nobody@mozilla.org"}], "alias": null}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"when": "2011-07-09T13:29:04Z", "who": "mozilla@ahlblom.eu", "changes": [{"field_name": "platform", "added": "x86", "removed": "All"}, {"added": "Mac OS X", "removed": "Other", "field_name": "op_sys"}, {"removed": "", "added": "bugcuddler@gmail.com", "field_name": "cc"}]}], "id": 670336, "alias": null}]}

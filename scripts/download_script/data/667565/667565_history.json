@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"removed": "XUL dialog: button labels do not change when the corresponding attribute is set", "field_name": "summary", "added": "XUL dialog: button labels and accesskeys do not change when the corresponding attribute is set, and vice versa"}], "when": "2011-06-27T19:52:06Z", "who": "rain@sunshowers.io"}], "alias": null, "id": 667565}]}

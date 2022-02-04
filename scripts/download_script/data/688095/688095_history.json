@@ -1,0 +1,1 @@
+{"bugs": [{"id": 688095, "alias": null, "history": [{"changes": [{"added": "minor", "field_name": "severity", "removed": "normal"}], "who": "jporterbugs@gmail.com", "when": "2011-09-21T05:12:24Z"}, {"who": "jporterbugs@gmail.com", "when": "2011-09-21T05:13:46Z", "changes": [{"removed": "", "added": "687836", "field_name": "blocks"}]}]}]}

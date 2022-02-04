@@ -1,1 +1,0 @@
-{"bugs": [{"id": 228152, "alias": null, "history": [{"changes": [{"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"field_name": "cf_last_resolved", "added": "2004-06-23T21:29:34Z", "removed": ""}], "when": "2004-06-23T21:29:34Z", "who": "mozillamonks@yahoo.ca"}]}]}

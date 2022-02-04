@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-04-19T15:46:33Z", "changes": [{"added": "gary@rumblingedge.com", "removed": "", "field_name": "cc"}], "who": "nth10sd@gmail.com"}, {"who": "nobody@mozilla.org", "changes": [{"removed": "general@js.bugs", "added": "nobody@mozilla.org", "field_name": "assigned_to"}], "when": "2014-07-24T18:07:35Z"}], "id": 651129}]}

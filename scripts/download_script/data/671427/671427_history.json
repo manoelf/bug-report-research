@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-07-13T22:28:21Z", "changes": [{"removed": "IPC", "field_name": "component", "added": "Layout"}, {"field_name": "qa_contact", "removed": "ipc@core.bugs", "added": "layout@core.bugs"}, {"field_name": "cc", "removed": "", "added": "ben@stechz.com"}], "who": "cjones.bugs@gmail.com"}], "id": 671427}]}

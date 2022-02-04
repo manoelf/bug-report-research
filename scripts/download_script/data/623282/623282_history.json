@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"when": "2011-01-05T19:31:48Z", "changes": [{"added": "All", "field_name": "platform", "removed": "x86"}, {"field_name": "op_sys", "added": "All", "removed": "Mac OS X"}], "who": "paul+moz@craciunoiu.net"}], "alias": null, "id": 623282}]}

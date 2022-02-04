@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"removed": "", "added": "yannbreliere@gmail.com", "field_name": "cc"}], "who": "yannbreliere@gmail.com", "when": "2011-06-09T08:53:24Z"}, {"who": "bug-husbandry-bot@mozilla.bugs", "when": "2018-04-30T20:12:41Z", "changes": [{"removed": "XP Toolkit/Widgets: XUL", "added": "XUL", "field_name": "component"}]}], "id": 662770, "alias": null}]}

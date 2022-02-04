@@ -1,0 +1,1 @@
+{"bugs": [{"id": 685542, "alias": null, "history": [{"who": "mozilla@sprosh.com", "when": "2011-09-12T19:14:22Z", "changes": [{"added": "temp2000@fastmail.fm", "field_name": "cc", "removed": ""}]}, {"who": "mschroeder@mozilla.x-home.org", "when": "2020-09-18T21:19:04Z", "changes": [{"removed": "Lightning Only", "added": "General", "field_name": "component"}]}]}]}

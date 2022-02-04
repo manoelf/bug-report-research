@@ -1,1 +1,0 @@
-{"bugs": [{"alias": null, "history": [{"changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "removed": "", "added": "INVALID"}, {"removed": "", "added": "2005-03-17T00:56:42Z", "field_name": "cf_last_resolved"}], "when": "2005-03-17T00:56:42Z", "who": "rn214@richardneill.org"}], "id": 286314}]}

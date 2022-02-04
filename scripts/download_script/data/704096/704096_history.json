@@ -1,0 +1,1 @@
+{"bugs": [{"id": 704096, "history": [{"when": "2011-11-21T13:16:01Z", "who": "rakssvg@gmail.com", "changes": [{"added": "[SVG]Events registered on <symbol> does not fire if addEventListener is used", "field_name": "summary", "removed": "Events registered on <symbol> does not fire if addEventListener is used"}]}], "alias": null}]}

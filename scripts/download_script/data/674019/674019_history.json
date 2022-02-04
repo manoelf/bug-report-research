@@ -1,0 +1,1 @@
+{"bugs": [{"id": 674019, "alias": null, "history": [{"who": "stefanh@inbox.com", "when": "2011-12-26T22:26:59Z", "changes": [{"field_name": "platform", "added": "All", "removed": "x86"}, {"removed": "Mac OS X", "added": "All", "field_name": "op_sys"}]}]}]}

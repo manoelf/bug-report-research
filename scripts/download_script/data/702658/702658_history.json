@@ -1,0 +1,1 @@
+{"bugs": [{"id": 702658, "history": [{"changes": [{"field_name": "depends_on", "removed": "", "added": "229080"}], "who": "dholbert@mozilla.com", "when": "2016-09-19T23:23:29Z"}, {"when": "2017-09-12T03:07:31Z", "changes": [{"added": "emilio@crisal.io", "removed": "", "field_name": "cc"}], "who": "emilio@crisal.io"}], "alias": null}]}

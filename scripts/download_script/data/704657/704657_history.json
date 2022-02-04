@@ -1,0 +1,1 @@
+{"bugs": [{"id": 704657, "alias": null, "history": [{"who": "benjamin@smedbergs.us", "when": "2016-06-22T18:14:21Z", "changes": [{"removed": "1.9.2 Branch", "field_name": "version", "added": "unspecified"}, {"added": "Firefox", "field_name": "product", "removed": "Core"}]}]}]}

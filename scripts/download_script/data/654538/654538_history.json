@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"who": "emorley@mozilla.com", "changes": [{"removed": "", "field_name": "blocks", "added": "777751"}], "when": "2012-07-26T16:13:52Z"}, {"when": "2020-05-01T14:42:46Z", "who": "dtownsend@mozilla.com", "changes": [{"field_name": "cc", "removed": "", "added": "dtownsend@mozilla.com"}]}], "id": 654538, "alias": null}]}

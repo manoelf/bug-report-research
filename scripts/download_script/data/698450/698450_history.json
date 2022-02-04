@@ -1,0 +1,1 @@
+{"bugs": [{"id": 698450, "history": [{"when": "2020-12-15T07:15:27Z", "who": "jstutte@mozilla.com", "changes": [{"field_name": "priority", "removed": "--", "added": "P5"}, {"field_name": "severity", "added": "S4", "removed": "normal"}]}], "alias": null}]}

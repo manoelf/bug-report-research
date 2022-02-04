@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"who": "dienste.01@nasshan.info", "when": "2011-10-11T22:18:32Z", "changes": [{"field_name": "platform", "added": "x86_64", "removed": "x86"}, {"removed": "Windows 7", "added": "Windows Vista", "field_name": "op_sys"}]}], "id": 693832}]}

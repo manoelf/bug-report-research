@@ -1,0 +1,1 @@
+{"bugs": [{"id": 665994, "alias": null, "history": [{"changes": [{"removed": "", "field_name": "cc", "added": "dmandelin@mozilla.com"}], "when": "2011-06-21T20:20:13Z", "who": "dmandelin@mozilla.com"}, {"when": "2014-07-24T18:07:35Z", "changes": [{"added": "nobody@mozilla.org", "field_name": "assigned_to", "removed": "general@js.bugs"}], "who": "nobody@mozilla.org"}]}]}

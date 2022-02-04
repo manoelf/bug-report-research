@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"when": "2011-08-31T04:36:56Z", "who": "philip.chee@gmail.com", "changes": [{"added": "General", "field_name": "component", "removed": "Page Info"}, {"added": "6 Branch", "field_name": "version", "removed": "Trunk"}, {"removed": "page.info@firefox.bugs", "added": "general@firefox.bugs", "field_name": "qa_contact"}]}], "alias": null, "id": 683384}]}

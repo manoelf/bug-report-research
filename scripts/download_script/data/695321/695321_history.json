@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"when": "2011-10-19T07:03:42Z", "changes": [{"removed": "normal", "field_name": "severity", "added": "critical"}], "who": "ddwa09@gmail.com"}, {"who": "LpSolit@gmail.com", "changes": [{"field_name": "severity", "removed": "critical", "added": "enhancement"}], "when": "2012-11-10T12:53:39Z"}], "id": 695321, "alias": null}]}

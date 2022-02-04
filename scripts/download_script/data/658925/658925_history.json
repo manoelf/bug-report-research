@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-05-23T01:30:05Z", "changes": [{"field_name": "platform", "removed": "x86_64", "added": "All"}, {"added": "All", "removed": "Linux", "field_name": "op_sys"}], "who": "dholbert@mozilla.com"}], "id": 658925}]}

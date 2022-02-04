@@ -1,0 +1,1 @@
+{"bugs": [{"id": 655783, "history": [{"when": "2017-03-24T16:21:32Z", "changes": [{"removed": "Places", "field_name": "component", "added": "Document Navigation"}, {"added": "Core", "removed": "Toolkit", "field_name": "product"}], "who": "mak@mozilla.com"}], "alias": null}]}

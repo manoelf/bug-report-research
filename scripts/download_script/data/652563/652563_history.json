@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"changes": [{"removed": "", "added": "pcerny@suse.cz", "field_name": "cc"}], "when": "2011-07-28T10:28:30Z", "who": "pcerny@suse.cz"}, {"when": "2012-03-07T17:11:53Z", "changes": [{"field_name": "cc", "removed": "", "added": "mjambor@suse.cz"}], "who": "mjambor@suse.cz"}], "id": 652563}]}

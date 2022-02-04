@@ -1,0 +1,1 @@
+{"bugs": [{"id": 671845, "history": [{"who": "mozilla_account@digitalxero.com", "changes": [{"added": "x86", "removed": "All", "field_name": "platform"}, {"added": "Windows 7", "removed": "Other", "field_name": "op_sys"}, {"removed": "General", "field_name": "component", "added": "Toolbars"}], "when": "2011-07-15T14:25:41Z"}], "alias": null}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 664666, "history": [{"changes": [{"removed": "", "added": "560091", "field_name": "blocks"}], "who": "brian@briansmith.org", "when": "2011-06-16T06:17:48Z"}, {"when": "2011-06-23T08:48:50Z", "who": "pka@datatech.ru", "changes": [{"removed": "", "field_name": "cc", "added": "andreev@swemel.ru"}]}]}]}

@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 642712, "history": [{"changes": [{"field_name": "component", "added": "Notifications and Alerts", "removed": "General"}, {"removed": "Firefox", "added": "Toolkit", "field_name": "product"}], "when": "2014-05-21T06:37:30Z", "who": "mozilla+bmo@noorenberghe.ca"}]}]}

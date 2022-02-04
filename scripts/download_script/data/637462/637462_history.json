@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"added": "Graphics", "removed": "General", "field_name": "component"}, {"added": "thebes@gfx.bugs", "field_name": "qa_contact", "removed": "general@core.bugs"}], "who": "bzbarsky@mit.edu", "when": "2011-02-28T22:40:58Z"}], "id": 637462, "alias": null}]}

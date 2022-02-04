@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 628407, "history": [{"who": "dholbert@mozilla.com", "changes": [{"removed": "", "field_name": "cc", "added": "birtles@gmail.com, dholbert@mozilla.com"}], "when": "2011-01-24T22:31:47Z"}, {"who": "bzbarsky@mit.edu", "changes": [{"field_name": "cc", "added": "bzbarsky@mit.edu", "removed": ""}], "when": "2011-01-24T22:41:44Z"}]}]}

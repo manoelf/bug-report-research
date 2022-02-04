@@ -1,0 +1,1 @@
+{"bugs": [{"id": 682768, "history": [{"changes": [{"added": "Windows symlink breaks firefox cache", "field_name": "summary", "removed": "symlink breaks firefox cache"}], "when": "2011-11-29T19:19:26Z", "who": "ben.bucksch@beonex.com"}], "alias": null}]}

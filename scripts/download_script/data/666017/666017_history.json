@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "history": [{"when": "2011-06-21T22:14:09Z", "who": "dbaron@dbaron.org", "changes": [{"removed": "", "added": "dbaron@dbaron.org, Ms2ger@gmail.com", "field_name": "cc"}]}, {"who": "bug-husbandry-bot@mozilla.bugs", "when": "2018-06-29T04:49:03Z", "changes": [{"added": "P5", "removed": "--", "field_name": "priority"}]}], "id": 666017}]}

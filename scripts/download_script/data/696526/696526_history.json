@@ -1,0 +1,1 @@
+{"bugs": [{"alias": null, "id": 696526, "history": [{"when": "2011-10-22T09:39:57Z", "who": "dao+bmo@mozilla.com", "changes": [{"added": "584031", "field_name": "depends_on", "removed": ""}]}, {"when": "2013-08-28T12:08:05Z", "changes": [{"removed": "", "field_name": "blocks", "added": "455888"}], "who": "nicolas.barbulesco@supinfo.com"}]}]}

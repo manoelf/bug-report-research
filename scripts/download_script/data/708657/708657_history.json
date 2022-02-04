@@ -1,0 +1,1 @@
+{"bugs": [{"history": [{"changes": [{"added": "clipping-4-overflow-hidden.html fails with nvidia 280.13 drivers", "field_name": "summary", "removed": "cliping-4-overflow-hidden.html fails with nvidia 280.13 drivers"}], "when": "2011-12-08T16:59:20Z", "who": "bhearsum@mozilla.com"}], "alias": null, "id": 708657}]}
