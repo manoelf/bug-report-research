@@ -41,7 +41,9 @@ def collectSummary(summaryPath):
         summaryData = data['bugs'][0]
         if not summaryData['type'] == 'defect':
             notDefect += 1
-            os.rename(source,destination)
+            basic = FOLDER + bug_id
+            new = FOLDER + '_' + bug_id
+            os.rename(basic,new)
         print(summaryData['type'] == 'defect')
         summary = '{} § {} § {} § {} § {} § {} § {} § {}'.format(str(bug_id), 
             summaryData['resolution'], summaryData['severity'], 
