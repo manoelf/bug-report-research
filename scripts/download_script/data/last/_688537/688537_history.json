@@ -1,1 +1,0 @@
-{"bugs": [{"alias": null, "id": 688537, "history": [{"changes": [{"added": "enhancement", "removed": "normal", "field_name": "severity"}], "when": "2011-09-23T15:49:38Z", "who": "dkl@mozilla.com"}, {"changes": [{"added": "Extensions", "removed": "Extensions: Other", "field_name": "component"}], "who": "bug-husbandry-bot@mozilla.bugs", "when": "2019-10-15T23:21:41Z"}]}]}

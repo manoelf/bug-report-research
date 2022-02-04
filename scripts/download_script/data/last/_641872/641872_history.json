@@ -1,1 +1,0 @@
-{"bugs": [{"id": 641872, "history": [{"who": "fdonalisio@gmail.com", "when": "2011-03-15T17:09:40Z", "changes": [{"field_name": "cc", "removed": "", "added": "francsd@linux.vnet.ibm.com, timello@linux.vnet.ibm.com"}, {"field_name": "blocks", "added": "252715", "removed": ""}, {"field_name": "depends_on", "added": "641869", "removed": ""}]}], "alias": null}]}
