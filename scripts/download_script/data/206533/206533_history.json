@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 206533, "history": [{"when": "2003-05-31T12:08:36Z", "who": "insider@t-k.ru", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"added": "2003-05-31T12:08:36Z", "field_name": "cf_last_resolved", "removed": ""}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:73049e58cfbabac8e48f94866b637a551d75ea173719d580c72a4c7f742bb7d7
+size 348

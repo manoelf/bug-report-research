@@ -1,1 +1,3 @@
-{"bugs": [{"id": 268864, "history": [{"when": "2004-11-12T02:09:00Z", "who": "bugzilla@mversen.de", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "removed": "", "added": "INVALID"}, {"added": "2004-11-12T02:09:00Z", "removed": "", "field_name": "cf_last_resolved"}]}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e2977f4596ebbb083b040cdffd600ee717968b7c5a3125ba156615e334f14a2
+size 353

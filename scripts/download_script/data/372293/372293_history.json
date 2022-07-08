@@ -1,1 +1,3 @@
-{"bugs": [{"id": 372293, "alias": null, "history": [{"changes": [{"removed": "", "added": "efficks@gmail.com", "field_name": "cc"}], "who": "efficks@gmail.com", "when": "2007-03-01T20:30:11Z"}, {"changes": [{"field_name": "cc", "added": "steve.england@gmail.com", "removed": ""}], "when": "2007-03-01T23:03:36Z", "who": "steve.england@gmail.com"}, {"changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"added": "2007-03-02T17:02:52Z", "field_name": "cf_last_resolved", "removed": ""}], "who": "efficks@gmail.com", "when": "2007-03-02T17:02:52Z"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e77b62ba1bdb697ff6e1c5a18436f7ed069945e4c2d341d0876425ae90354a75
+size 647

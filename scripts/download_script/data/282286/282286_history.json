@@ -1,1 +1,3 @@
-{"bugs": [{"id": 282286, "history": [{"who": "dveditz@mozilla.com", "when": "2005-02-17T19:16:39Z", "changes": [{"field_name": "whiteboard", "removed": "", "added": "[sg:nse]"}, {"field_name": "groups", "added": "", "removed": "security"}]}, {"when": "2005-02-17T19:19:47Z", "who": "dveditz@mozilla.com", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "removed": "", "added": "INVALID"}, {"field_name": "cf_last_resolved", "removed": "", "added": "2005-02-17T19:19:47Z"}]}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:99af40e8134c52f13357350cf589ff0becac184d2bdd91fba0e154b4ab9be719
+size 558

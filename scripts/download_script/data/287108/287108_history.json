@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"who": "gk4@austin.ibm.com", "when": "2005-03-21T21:41:02Z", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"added": "2005-03-21T21:41:02Z", "field_name": "cf_last_resolved", "removed": ""}]}], "id": 287108, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a41d2ca28a575ee0ab4d279e7e2e1ce610f64d609013594e4cda2365e3953ce3
+size 352

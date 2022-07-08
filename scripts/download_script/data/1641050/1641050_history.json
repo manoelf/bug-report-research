@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "history": [{"changes": [{"added": "jan@ikenmeyer.eu", "removed": "", "field_name": "cc"}], "who": "jan@ikenmeyer.eu", "when": "2020-05-26T20:42:53Z"}, {"changes": [{"field_name": "blocks", "removed": "", "added": "1641061"}], "who": "davidp99@gmail.com", "when": "2020-05-26T21:03:49Z"}, {"who": "jan@ikenmeyer.eu", "when": "2021-08-26T01:27:31Z", "changes": [{"removed": "NEW", "field_name": "status", "added": "RESOLVED"}, {"removed": "", "field_name": "resolution", "added": "WONTFIX"}, {"added": "2021-08-26T01:27:31Z", "removed": "", "field_name": "cf_last_resolved"}]}], "id": 1641050}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b86c1094b256bf2eba8718779b8a5ac2fd8641f5008d57a2a0aefa72b013c060
+size 620

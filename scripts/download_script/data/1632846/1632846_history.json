@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"changes": [{"added": "mayankleoboy1@gmail.com", "field_name": "cc", "removed": ""}], "when": "2020-04-24T14:54:41Z", "who": "mayankleoboy1@gmail.com"}, {"changes": [{"field_name": "resolution", "removed": "", "added": "FIXED"}, {"added": "RESOLVED", "removed": "NEW", "field_name": "status"}, {"added": "mozilla77", "removed": "---", "field_name": "target_milestone"}, {"added": "2020-04-28T16:34:41Z", "field_name": "cf_last_resolved", "removed": ""}, {"added": "fixed", "field_name": "cf_status_firefox77", "removed": "---"}, {"removed": "", "comment_count": 4, "field_name": "comment_tag", "comment_id": 14784289, "added": "bugherder"}], "who": "aiakab@mozilla.com", "when": "2020-04-28T16:34:41Z"}], "id": 1632846, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd51b39a627a38287175d7a940c22eb1db10d6184acf39e3156d8634add0227b
+size 760

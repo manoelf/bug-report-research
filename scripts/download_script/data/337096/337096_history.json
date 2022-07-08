@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"changes": [{"added": "CLOSEME 06/27", "field_name": "whiteboard", "removed": ""}, {"added": "1.5.0.x Branch", "field_name": "version", "removed": "unspecified"}, {"added": "steve.england@gmail.com", "field_name": "cc", "removed": ""}], "when": "2007-06-07T17:32:19Z", "who": "steve.england@gmail.com"}, {"changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"added": "INCOMPLETE", "field_name": "resolution", "removed": ""}, {"added": "2007-07-03T17:19:30Z", "field_name": "cf_last_resolved", "removed": ""}], "when": "2007-07-03T17:19:30Z", "who": "steve.england@gmail.com"}], "id": 337096, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7045c516554407d56e4305256e4dc9751af1419606c80fafee070e9c4c5c212
+size 665

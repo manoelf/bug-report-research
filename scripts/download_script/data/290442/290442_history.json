@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 290442, "history": [{"when": "2005-04-15T11:11:33Z", "who": "m-wada@usa.com", "changes": [{"removed": "", "field_name": "cc", "added": "m-wada@japan.com"}]}, {"when": "2005-04-18T09:35:59Z", "who": "m-wada@usa.com", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"field_name": "cf_last_resolved", "added": "2005-04-18T09:35:59Z", "removed": ""}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:640e1a2135f2bf3213d0b512dcd25e4a72d69b3d156d55895081b39041e2de7a
+size 486

@@ -1,1 +1,3 @@
-{"bugs": [{"id": 330335, "history": [{"changes": [{"field_name": "summary", "added": "Samsonite Website Issue", "removed": "Samsonite Website (Problem Issue Trouble report)"}, {"field_name": "version", "added": "1.5.0.x Branch", "removed": "unspecified"}, {"field_name": "alias", "added": "samsonite.com", "removed": ""}], "who": "kennedigital@hotmail.com", "when": "2006-03-13T15:01:58Z"}, {"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "resolution", "removed": "", "added": "INVALID"}, {"added": "2006-03-13T18:45:29Z", "removed": "", "field_name": "cf_last_resolved"}], "when": "2006-03-13T18:45:29Z", "who": "bugzilla@mversen.de"}], "alias": "samsonite.com"}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:db96ca4a409611e0a6f680af7b1283f34e5a39dce5a130d74b54e5d559e47393
+size 718

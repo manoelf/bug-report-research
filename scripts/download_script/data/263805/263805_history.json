@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "history": [{"when": "2004-10-11T04:06:14Z", "who": "jmd@pobox.com", "changes": [{"added": "When visiting georgebush.com, Firefox CRASHES after the first frame is rendered", "removed": "When visiting the hwebsite, Firefox CRASHES after the first frame is rendered", "field_name": "summary"}]}, {"changes": [{"field_name": "cc", "added": "bugzilla@spray.se", "removed": ""}], "when": "2004-10-11T06:25:31Z", "who": "bugzilla@spray.se"}, {"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"field_name": "cf_last_resolved", "removed": "", "added": "2004-11-10T22:06:33Z"}], "when": "2004-11-10T22:06:33Z", "who": "egberts@yahoo.com"}], "id": 263805}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:510714fee86b1d742b9f0aa7995bcc30104bb506680d3d367f22dc11e34722cd
+size 775

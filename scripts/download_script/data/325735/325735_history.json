@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"who": "azmi@marbleheart.com", "when": "2006-02-03T13:53:35Z", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"added": "FIXED", "field_name": "resolution", "removed": ""}, {"removed": "", "added": "2006-02-03T13:53:35Z", "field_name": "cf_last_resolved"}]}], "alias": null, "id": 325735}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4254f2e57d2df2394acd1daad22c9d179ec8a243733c06d04ad0504764bafa29
+size 352

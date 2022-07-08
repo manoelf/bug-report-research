@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2020-04-24T19:22:41Z", "who": "fbertsch@mozilla.com", "changes": [{"added": "1632629, 1632627", "removed": "", "field_name": "depends_on"}]}, {"changes": [{"added": "FIXED", "removed": "", "field_name": "resolution"}, {"added": "RESOLVED", "removed": "NEW", "field_name": "status"}, {"added": "2020-04-24T19:40:49Z", "field_name": "cf_last_resolved", "removed": ""}], "when": "2020-04-24T19:40:49Z", "who": "fbertsch@mozilla.com"}], "id": 1632970, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d699bf42682811d391b168a5822f491d7914324ef2fa84b0f82137a319e64c2f
+size 497

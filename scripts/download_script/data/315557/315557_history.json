@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 315557, "history": [{"changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"removed": "", "field_name": "cc", "added": "shutdown@flashmail.com"}, {"removed": "", "field_name": "cf_last_resolved", "added": "2005-11-08T15:43:18Z"}], "when": "2005-11-08T15:43:18Z", "who": "sync2d@gmail.com"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:099ba7fc303c4bfeaf75a4de3bd8c00d51d9fe14107822be787304baeb8681c0
+size 422

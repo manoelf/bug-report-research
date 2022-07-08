@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2020-05-15T09:39:02Z", "who": "aryx.bugmail@gmx-topmail.de", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "ASSIGNED"}, {"removed": "", "added": "FIXED", "field_name": "resolution"}, {"added": "mozilla78", "removed": "---", "field_name": "target_milestone"}, {"added": "2020-05-15T09:39:02Z", "removed": "", "field_name": "cf_last_resolved"}, {"field_name": "cf_status_firefox78", "removed": "---", "added": "fixed"}, {"removed": "", "comment_id": 14822275, "added": "bugherder", "comment_count": 3, "field_name": "comment_tag"}]}], "alias": null, "id": 1638105}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:113d990a36a15f2d44f4326702401329f2d86a7a1047a61cf55a20193c0d34e4
+size 620

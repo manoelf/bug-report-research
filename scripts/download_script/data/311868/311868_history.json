@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"added": "INVALID", "removed": "", "field_name": "resolution"}, {"removed": "", "added": "2005-10-10T15:43:43Z", "field_name": "cf_last_resolved"}], "when": "2005-10-10T15:43:43Z", "who": "timeless@bemail.org"}], "alias": null, "id": 311868}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1346a4377e786544fbc6dbb951af6b472923d1eff3d6bc7ca6db2fe44cbc943a
+size 353

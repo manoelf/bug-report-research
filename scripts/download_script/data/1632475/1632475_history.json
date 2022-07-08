@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "history": [{"who": "phab-bot@bmo.tld", "changes": [{"attachment_id": 9142697, "field_name": "attachments.isobsolete", "added": "1", "removed": "0"}], "when": "2020-05-04T15:56:05Z"}, {"who": "tarek@mozilla.com", "changes": [{"removed": "", "added": "INVALID", "field_name": "resolution"}, {"field_name": "status", "added": "RESOLVED", "removed": "NEW"}, {"field_name": "cf_last_resolved", "added": "2020-05-04T15:56:21Z", "removed": ""}], "when": "2020-05-04T15:56:21Z"}], "id": 1632475}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:88f07cb5120db723cc18392c8cb71ee6700331c9af01efa2251ab99bc382e5ce
+size 516

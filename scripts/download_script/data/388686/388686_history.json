@@ -1,1 +1,3 @@
-{"bugs": [{"id": 388686, "history": [{"changes": [{"field_name": "component", "removed": "Places", "added": "General"}, {"field_name": "qa_contact", "added": "general@firefox.bugs", "removed": "places@firefox.bugs"}], "who": "philringnalda@gmail.com", "when": "2007-07-18T22:23:28Z"}, {"who": "philringnalda@gmail.com", "when": "2007-07-18T22:27:40Z", "changes": [{"field_name": "status", "removed": "UNCONFIRMED", "added": "RESOLVED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"removed": "", "added": "philringnalda@gmail.com", "field_name": "cc"}, {"field_name": "cf_last_resolved", "removed": "", "added": "2007-07-18T22:27:40Z"}]}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f392664a7cd4f207b0eeb261c0bd7b25ac873e9570607b12fe36585094d38fc1
+size 678

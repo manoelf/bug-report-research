@@ -1,1 +1,3 @@
-{"bugs": {"1637340": {"comments": [{"tags": [], "is_private": false, "bug_id": 1637340, "time": "2020-05-12T17:12:19Z", "creator": "fbertsch@mozilla.com", "attachment_id": null, "raw_text": "", "author": "fbertsch@mozilla.com", "id": 14814933, "creation_time": "2020-05-12T17:12:19Z", "text": "", "count": 0}, {"attachment_id": 9160053, "author": "pulgasaur@mozilla.bugs", "id": 14908186, "text": "Created attachment 9160053\nLink to GitHub pull-request: https://github.com/mozilla-services/mozilla-pipeline-schemas/pull/568", "bug_id": 1637340, "is_private": false, "raw_text": "", "creation_time": "2020-06-29T13:33:43Z", "count": 1, "tags": [], "creator": "pulgasaur@mozilla.bugs", "time": "2020-06-29T13:33:43Z"}]}}, "comments": {}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9263137e65231e174a3b1167a0fc5a94263020689a76c3163494668a931c8d79
+size 736

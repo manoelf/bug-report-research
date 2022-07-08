@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2005-02-25T21:32:28Z", "who": "francis.uy@gmail.com", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"removed": "", "added": "2005-02-25T21:32:28Z", "field_name": "cf_last_resolved"}]}], "alias": null, "id": 283656}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a92692a1a754fa02fa59c508a29d9bd544786e3bbd45b983c0aeab3e75e08d62
+size 354

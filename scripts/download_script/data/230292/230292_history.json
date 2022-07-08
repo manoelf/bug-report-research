@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2004-01-07T15:53:58Z", "who": "wgianopoulos@gmail.com", "changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"field_name": "cf_last_resolved", "added": "2004-01-07T15:53:58Z", "removed": ""}]}], "alias": null, "id": 230292}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a8ff938cddcd18c500fcb8a2e6f25e52e1fe991cd1dddc22afde420f3a0f56f
+size 356

@@ -1,1 +1,3 @@
-{"bugs": [{"id": 258998, "history": [{"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"added": "INVALID", "removed": "", "field_name": "resolution"}, {"added": "2004-09-12T19:32:48Z", "removed": "", "field_name": "cf_last_resolved"}], "when": "2004-09-12T19:32:48Z", "who": "mconnor@mozilla.com"}, {"changes": [{"field_name": "qa_contact", "added": "preferences@firefox.bugs", "removed": "mconnor@mozilla.com"}], "who": "mconnor@mozilla.com", "when": "2006-08-27T12:18:48Z"}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:093bf295c8ee36cc5696d8c10a360f6c1ddf5bb72f730868d3b365cc9927cb8f
+size 531

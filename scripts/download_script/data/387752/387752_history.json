@@ -1,1 +1,3 @@
-{"bugs": [{"id": 387752, "alias": null, "history": [{"changes": [{"added": "RESOLVED", "field_name": "status", "removed": "UNCONFIRMED"}, {"added": "INCOMPLETE", "field_name": "resolution", "removed": ""}, {"removed": "", "added": "jruderman@gmail.com", "field_name": "cc"}, {"removed": "", "field_name": "cf_last_resolved", "added": "2009-11-15T07:17:23Z"}], "when": "2009-11-15T07:17:23Z", "who": "jruderman@gmail.com"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d546cf1f0070381bd45b24cc5fc9021218ae39329785c38e8e81c33218fefc20
+size 425

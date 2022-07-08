@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2005-11-19T01:05:56Z", "who": "sync2d@gmail.com", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"removed": "", "field_name": "cc", "added": "shutdown@flashmail.com"}, {"added": "2005-11-19T01:05:56Z", "field_name": "cf_last_resolved", "removed": ""}]}, {"when": "2007-06-21T04:56:45Z", "who": "d_king@xtra.co.nz", "changes": [{"field_name": "cc", "added": "dgk@dking.gen.nz", "removed": ""}]}], "alias": null, "id": 316985}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:db9fbdafd5d506f3a588e7aa520df879d59922f4197245eaafd5fc954c236dec
+size 563

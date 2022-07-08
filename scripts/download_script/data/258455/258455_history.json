@@ -1,1 +1,3 @@
-{"bugs": [{"id": 258455, "history": [{"changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "added": "FIXED", "removed": ""}, {"added": "2005-05-11T07:33:31Z", "removed": "", "field_name": "cf_last_resolved"}], "who": "Egon.Nijns@bib.kuleuven.ac.be", "when": "2005-05-11T07:33:31Z"}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:81cb03ac1adde66fb65a7ba839b439e192cf457cb83ffd52208286c28253b671
+size 361

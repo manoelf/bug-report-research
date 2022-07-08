@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "history": [{"who": "abdulbijur@gmail.com", "when": "2005-02-21T15:53:21Z", "changes": [{"field_name": "status", "removed": "UNCONFIRMED", "added": "RESOLVED"}, {"field_name": "resolution", "removed": "", "added": "FIXED"}, {"field_name": "cf_last_resolved", "removed": "", "added": "2005-02-21T15:53:21Z"}]}], "id": 282795}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:83f024416a821f7184069f6d468800f375e5951747076566aa756d6fc2e53fb0
+size 352

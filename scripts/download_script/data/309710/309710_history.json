@@ -1,1 +1,3 @@
-{"bugs": [{"id": 309710, "history": [{"when": "2008-12-26T17:58:36Z", "who": "vseerror@lehigh.edu", "changes": [{"removed": "", "added": "closeme 2009-01-20", "field_name": "whiteboard"}, {"field_name": "cc", "added": "vseerror@lehigh.edu", "removed": ""}]}, {"who": "tdowner@mozilla.com", "when": "2009-05-25T18:32:13Z", "changes": [{"field_name": "status", "removed": "UNCONFIRMED", "added": "RESOLVED"}, {"field_name": "resolution", "removed": "", "added": "INCOMPLETE"}, {"removed": "", "added": "tyler@christianlink.us", "field_name": "cc"}, {"removed": "", "added": "2009-05-25T18:32:13Z", "field_name": "cf_last_resolved"}]}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:348b7fe0b76586369f83780fd001e5a8230019fd8e3723184db6d6ea57d6860e
+size 650

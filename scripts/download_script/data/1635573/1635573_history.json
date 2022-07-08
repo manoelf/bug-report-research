@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 1635573, "history": [{"when": "2020-05-13T12:18:19Z", "changes": [{"removed": "", "field_name": "blocks", "added": "1637579"}], "who": "tarek@mozilla.com"}, {"when": "2020-05-20T03:42:48Z", "who": "dluca@mozilla.com", "changes": [{"removed": "---", "added": "mozilla78", "field_name": "target_milestone"}, {"field_name": "status", "added": "RESOLVED", "removed": "NEW"}, {"removed": "", "field_name": "resolution", "added": "FIXED"}, {"removed": "", "added": "2020-05-20T03:42:48Z", "field_name": "cf_last_resolved"}, {"removed": "---", "field_name": "cf_status_firefox78", "added": "fixed"}, {"removed": "", "added": "bugherder", "field_name": "comment_tag", "comment_id": 14832431, "comment_count": 5}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf334fb884a2226812bbeab8919cfd62564236c0f6a812b4cf388e7e00bb7e8c
+size 741

@@ -1,1 +1,3 @@
-{"comments": {}, "bugs": {"1644429": {"comments": [{"creation_time": "2020-06-09T13:28:07Z", "creator": "gold.ionut@gmail.com", "tags": [], "count": 0, "time": "2020-06-09T13:28:07Z", "is_private": false, "text": "Support for displaying tags for alerts, and adding tags to alerts as #infrastructure, #harness, etc.", "raw_text": "Support for displaying tags for alerts, and adding tags to alerts as #infrastructure, #harness, etc.", "id": 14871592, "author": "gold.ionut@gmail.com", "bug_id": 1644429, "attachment_id": null}]}}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdd300fa6c4907a016c2f40eb0397e3be40397566e779379eec1888faebab9f0
+size 528

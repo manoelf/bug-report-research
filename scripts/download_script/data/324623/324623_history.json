@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"changes": [{"field_name": "cc", "removed": "", "added": "bugzilla@tecnocode.co.uk"}], "who": "bugzilla@tecnocode.co.uk", "when": "2006-02-17T14:04:00Z"}, {"changes": [{"field_name": "version", "added": "1.5.0.x Branch", "removed": "unspecified"}, {"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"field_name": "resolution", "added": "INCOMPLETE", "removed": ""}, {"field_name": "component", "added": "General", "removed": "OS Integration"}, {"removed": "", "added": "steve.england@gmail.com", "field_name": "cc"}, {"removed": "", "added": "2007-06-06T15:53:15Z", "field_name": "cf_last_resolved"}], "who": "steve.england@gmail.com", "when": "2007-06-06T15:53:15Z"}], "id": 324623, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff47695794cfd2f89dd23da7006ad51ecb6b00fe997bf9f16aa4fb930e661789
+size 747

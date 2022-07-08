@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 1114311, "history": [{"changes": [{"added": "ahangama@gmail.com", "field_name": "cc", "removed": ""}], "who": "ahangama@gmail.com", "when": "2014-12-21T06:04:40Z"}, {"when": "2014-12-21T21:14:36Z", "who": "ahangama@gmail.com", "changes": [{"removed": "--", "added": "P1", "field_name": "priority"}, {"added": "http://harimaga.blogspot.com/", "field_name": "url", "removed": ""}, {"field_name": "cc", "added": "ospp@sbcglobal.net", "removed": ""}]}, {"who": "ahangama@gmail.com", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"added": "2014-12-24T03:14:32Z", "field_name": "cf_last_resolved", "removed": ""}], "when": "2014-12-24T03:14:32Z"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d01d1f57290f4adf5faeb1e0b7a7ad268d4d15251420e4202544dea5b9ee5b5
+size 781

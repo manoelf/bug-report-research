@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 394030, "history": [{"when": "2010-01-26T22:16:21Z", "who": "lex.lists@gmail.com", "changes": [{"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"removed": "", "field_name": "resolution", "added": "INVALID"}, {"removed": "", "field_name": "cc", "added": "lex.lists@gmail.com"}, {"added": "2010-01-26T22:16:21Z", "field_name": "cf_last_resolved", "removed": ""}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c69107cfbaef71b827ab53cb03546887a4ae28e8e78d861ddd058d059c87d303
+size 422

@@ -1,11 +1,3 @@
---2021-10-30 16:40:17--  https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced
-Resolvendo bugzilla.mozilla.org (bugzilla.mozilla.org)... 52.39.114.33, 44.235.92.59, 34.214.50.255
-Conectando-se a bugzilla.mozilla.org (bugzilla.mozilla.org)|52.39.114.33|:443... conectado.
-A requisição HTTP foi enviada, aguardando resposta... 200 OK
-Tamanho: não especificada [text/html]
-Salvando em: “buglist.cgi?query_format=advanced”
-
-buglist.cgi?query_format=advanced                  [<=>                                                                                                  ]       0  --.-KB/s               buglist.cgi?query_format=advanced                  [ <=>                                                                                                 ]   8,00K  37,8KB/s               buglist.cgi?query_format=advanced                  [  <=>                                                                                                ]  24,33K   113KB/s    em 0,2s    
-
-2021-10-30 16:40:18 (113 KB/s) - “buglist.cgi?query_format=advanced” salvo [24918]
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a242b1cc364d8ec1b8a1be722153afa32b548c5fb2d2d143f5e2ca9184203ce2
+size 1090

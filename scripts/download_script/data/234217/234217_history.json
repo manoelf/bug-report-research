@@ -1,1 +1,3 @@
-{"bugs": [{"id": 234217, "history": [{"changes": [{"field_name": "cc", "added": "roland.mainz@nrubsig.org, wchang0222@aol.com, bryner@brianryner.com", "removed": ""}], "who": "roland.mainz@nrubsig.org", "when": "2004-02-15T23:11:32Z"}, {"when": "2005-01-27T07:28:50Z", "who": "sugar.waffle@gmail.com", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"added": "WONTFIX", "removed": "", "field_name": "resolution"}, {"removed": "", "added": "2005-01-27T07:28:50Z", "field_name": "cf_last_resolved"}]}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cbb66eb0bb83a19a47d14be6f6985304f6dd80c3a8ab6440870836f09e9173e
+size 555

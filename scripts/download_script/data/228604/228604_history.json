@@ -1,1 +1,3 @@
-{"bugs": [{"id": 228604, "alias": null, "history": [{"who": "peter.vanderwoude@gmail.com", "when": "2003-12-16T19:58:41Z", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"field_name": "resolution", "added": "FIXED", "removed": ""}, {"removed": "", "field_name": "cf_last_resolved", "added": "2003-12-16T19:58:41Z"}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:83fc31b53877b19b1745e8a2bcfeab3f37da758960e109d72f8cb0a2fde3e552
+size 359

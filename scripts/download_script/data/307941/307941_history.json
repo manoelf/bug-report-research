@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2010-04-18T04:12:15Z", "who": "tdowner@mozilla.com", "changes": [{"field_name": "version", "added": "1.0 Branch", "removed": "unspecified"}, {"removed": "", "field_name": "cc", "added": "tyler.downer@gmail.com"}]}, {"when": "2010-05-15T16:42:58Z", "who": "tdowner@mozilla.com", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"added": "INCOMPLETE", "field_name": "resolution", "removed": ""}, {"removed": "", "added": "2010-05-15T16:42:58Z", "field_name": "cf_last_resolved"}]}], "alias": null, "id": 307941}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d050914bd42b8f84508254c8f51b8993f0287f41ad5a54c91399b7a75823dfea
+size 581

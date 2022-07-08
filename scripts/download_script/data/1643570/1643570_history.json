@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2020-06-09T15:02:13Z", "who": "alessio.placitelli@gmail.com", "changes": [{"added": "P1", "field_name": "priority", "removed": "P3"}, {"field_name": "assigned_to", "added": "alessio.placitelli@gmail.com", "removed": "nobody@mozilla.org"}]}, {"who": "alessio.placitelli@gmail.com", "changes": [{"field_name": "resolution", "added": "FIXED", "removed": ""}, {"removed": "NEW", "added": "RESOLVED", "field_name": "status"}, {"removed": "", "added": "2020-06-10T07:58:44Z", "field_name": "cf_last_resolved"}], "when": "2020-06-10T07:58:44Z"}], "id": 1643570, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d365d16c093373545f197f1d53f037a443a9112bacb82de54318968151792d31
+size 604

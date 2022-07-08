@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 317279, "history": [{"changes": [{"removed": "", "added": "bugzilla@spray.se", "field_name": "cc"}], "who": "bugzilla@spray.se", "when": "2005-11-21T15:30:43Z"}, {"changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"removed": "", "added": "INVALID", "field_name": "resolution"}, {"field_name": "cf_last_resolved", "added": "2005-11-21T16:42:24Z", "removed": ""}], "when": "2005-11-21T16:42:24Z", "who": "bugzilla@spray.se"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f445cb05568dfc148ae3ee7569b82ab5754fe754f508995643c82a418d4db998
+size 493

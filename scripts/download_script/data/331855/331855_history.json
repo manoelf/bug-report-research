@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"changes": [{"added": "sendmail.to@gmx.de", "field_name": "cc", "removed": ""}], "who": "sendmail.to@gmx.de", "when": "2006-03-27T15:44:50Z"}, {"who": "jo.hermans@gmail.com", "when": "2006-03-27T16:03:48Z", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"removed": "", "added": "INVALID", "field_name": "resolution"}, {"added": "2006-03-27T16:03:48Z", "field_name": "cf_last_resolved", "removed": ""}]}], "id": 331855, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a412f4b34d3ab918b5451cf0d35c2c86f087699a6f07f835c05c0428849c6a6c
+size 498

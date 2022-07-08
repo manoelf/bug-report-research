@@ -1,1 +1,3 @@
-{"bugs": [{"id": 267031, "alias": null, "history": [{"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"removed": "", "added": "INVALID", "field_name": "resolution"}, {"added": "2004-12-12T12:08:13Z", "removed": "", "field_name": "cf_last_resolved"}], "who": "allo@laxu.de", "when": "2004-12-12T12:08:13Z"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa496eab4780eeeb8097b7a46baff06c218dbc1dff2a6aeebee5a11b951e6081
+size 346

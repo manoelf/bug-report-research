@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "history": [{"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"added": "2004-06-24T01:44:31Z", "removed": "", "field_name": "cf_last_resolved"}], "when": "2004-06-24T01:44:31Z", "who": "ali@ebrahim.org"}], "id": 248294}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecc0902b6e514b0f71d843c151265a18bd49d9d4775c82b4d19ce3b91060ecff
+size 349

@@ -1,1 +1,3 @@
-{"comments": {}, "bugs": {"1643579": {"comments": [{"tags": [], "time": "2020-06-05T06:02:29Z", "creator": "alessio.placitelli@gmail.com", "raw_text": "", "creation_time": "2020-06-05T06:02:29Z", "count": 0, "is_private": false, "bug_id": 1643579, "attachment_id": null, "author": "alessio.placitelli@gmail.com", "id": 14864636, "text": ""}, {"creation_time": "2020-06-23T07:22:53Z", "count": 1, "raw_text": "", "creator": "alessio.placitelli@gmail.com", "time": "2020-06-23T07:22:53Z", "tags": [], "text": "Created attachment 9158428\nGitHub Pull Request", "attachment_id": 9158428, "id": 14895780, "author": "alessio.placitelli@gmail.com", "bug_id": 1643579, "is_private": false}]}}}
+version https://git-lfs.github.com/spec/v1
+oid sha256:faa6d6c0296c105fbe0ab64149eba7c9ba8143ee2dba367f903ddcf36508ab78
+size 685

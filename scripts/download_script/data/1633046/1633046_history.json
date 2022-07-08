@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 1633046, "history": [{"when": "2020-04-24T23:06:35Z", "changes": [{"removed": "", "added": "1633047", "field_name": "depends_on"}], "who": "khudson@mozilla.com"}, {"changes": [{"removed": "X-Man Deployments", "field_name": "summary", "added": "[meta] X-Man Deployments"}], "who": "release-mgmt-account-bot@mozilla.tld", "when": "2020-04-24T23:15:25Z"}, {"when": "2020-05-29T01:09:00Z", "changes": [{"field_name": "resolution", "added": "FIXED", "removed": ""}, {"removed": "NEW", "field_name": "status", "added": "RESOLVED"}, {"removed": "", "added": "2020-05-29T01:09:00Z", "field_name": "cf_last_resolved"}], "who": "khudson@mozilla.com"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:50d8f380187685dbb4f859dc22f51c4a63d2b5a19a37322b656b58a98a3a9366
+size 676

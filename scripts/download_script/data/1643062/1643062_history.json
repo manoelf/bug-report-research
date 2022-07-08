@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2020-06-03T16:44:11Z", "who": "cameron@dawsoncode.com", "changes": [{"field_name": "priority", "removed": "--", "added": "P1"}, {"field_name": "assigned_to", "added": "cdawson@mozilla.com", "removed": "nobody@mozilla.org"}]}, {"when": "2020-06-04T00:18:38Z", "who": "cameron@dawsoncode.com", "changes": [{"added": "Push Health Summary not honoring Health menu option", "removed": "Push Health", "field_name": "summary"}]}, {"changes": [{"added": "FIXED", "removed": "", "field_name": "resolution"}, {"field_name": "status", "added": "RESOLVED", "removed": "NEW"}, {"field_name": "cf_last_resolved", "added": "2020-06-04T16:09:06Z", "removed": ""}], "when": "2020-06-04T16:09:06Z", "who": "cameron@dawsoncode.com"}], "alias": null, "id": 1643062}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:904c70ac3c328e0ce67535ef32a74dc16041206fc3a47657c6dc59df7a062219
+size 780

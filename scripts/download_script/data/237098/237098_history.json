@@ -1,1 +1,3 @@
-{"bugs": [{"id": 237098, "alias": null, "history": [{"who": "ali@ebrahim.org", "when": "2004-03-11T07:19:19Z", "changes": [{"removed": "", "added": "aebrahim@uchicago.edu", "field_name": "cc"}]}, {"who": "smrank@zepler.org", "when": "2004-03-11T15:07:47Z", "changes": [{"added": "pike@pikey.me.uk", "removed": "", "field_name": "cc"}]}, {"who": "asa@mozilla.com", "when": "2004-04-27T23:19:51Z", "changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"removed": "", "added": "2004-04-27T23:19:51Z", "field_name": "cf_last_resolved"}]}, {"who": "ali@ebrahim.org", "when": "2004-11-07T12:52:52Z", "changes": [{"removed": "bmo@aebrahim.fastmail.fm", "added": "", "field_name": "cc"}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:641f81add85a8b0d266f2b5c7f43202876be9b85f17b2acf18291ca25ddc1879
+size 781

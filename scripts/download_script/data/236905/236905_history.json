@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2004-03-10T12:41:32Z", "who": "waynegwoods@icloud.com", "changes": [{"field_name": "summary", "removed": "Utopia homepage gives white page background about 1/10 of the time ", "added": "Utopia homepage gives white page background about 1/10 of the time"}]}, {"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "resolution", "removed": "", "added": "FIXED"}, {"field_name": "cf_last_resolved", "added": "2004-03-11T15:22:18Z", "removed": ""}], "who": "gibby_87@hotmail.com", "when": "2004-03-11T15:22:18Z"}], "id": 236905, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8f82d59d8fa2feed68ba98b184a3e05546412223f57f279532f8bc3ac95d712
+size 620

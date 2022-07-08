@@ -1,1 +1,3 @@
-{"bugs": [{"id": 264073, "alias": null, "history": [{"changes": [{"added": "gavin_sharp+bugzilla@nospin.org", "removed": "", "field_name": "cc"}], "when": "2004-11-01T07:07:03Z", "who": "gavin.sharp@gmail.com"}, {"when": "2007-03-17T04:01:53Z", "who": "reed@reedloden.com", "changes": [{"added": "nobody@mozilla.org", "removed": "bross2@stanford.edu", "field_name": "assigned_to"}]}, {"who": "samuel.sidler+old@gmail.com", "when": "2007-04-03T04:09:35Z", "changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"field_name": "resolution", "removed": "", "added": "INVALID"}, {"field_name": "cc", "removed": "", "added": "samuel.sidler@gmail.com"}, {"field_name": "cf_last_resolved", "removed": "", "added": "2007-04-03T04:09:35Z"}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdce9f57f46f0f5f199d301584d8ed1c0e52e7de0d277e36c329c1ff6d3a8d74
+size 766

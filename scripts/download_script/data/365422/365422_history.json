@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "id": 365422, "history": [{"changes": [{"removed": "0", "added": "1", "field_name": "attachments.isobsolete", "attachment_id": 250007}], "who": "info@arkadia.it", "when": "2007-01-05T10:16:37Z"}, {"changes": [{"removed": "", "added": "[CLOSEME 5-15-2010]", "field_name": "whiteboard"}, {"removed": "unspecified", "added": "2.0 Branch", "field_name": "version"}, {"removed": "", "added": "tyler.downer@gmail.com", "field_name": "cc"}], "when": "2010-04-23T22:15:57Z", "who": "tdowner@mozilla.com"}, {"when": "2010-05-23T00:17:57Z", "who": "tdowner@mozilla.com", "changes": [{"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"field_name": "resolution", "added": "INCOMPLETE", "removed": ""}, {"removed": "", "added": "2010-05-23T00:17:57Z", "field_name": "cf_last_resolved"}]}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:63193137cc8efbf25afe88f10fdefac7736f235e3bb5bf122d550e46b357dc58
+size 828

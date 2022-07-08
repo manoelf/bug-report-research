@@ -1,1 +1,3 @@
-{"bugs": [{"id": 357882, "history": [{"who": "bogofilter+mozilla@gmail.com", "when": "2006-10-24T21:33:19Z", "changes": [{"removed": "", "added": "bogofilter+mozilla.org@gmail.com", "field_name": "cc"}]}, {"who": "ria.klaassen@gmail.com", "when": "2006-10-24T21:43:07Z", "changes": [{"field_name": "cc", "removed": "", "added": "ria.klaassen@gmail.com"}]}, {"when": "2006-10-24T22:13:36Z", "who": "mozilla+bmo@cso.me.uk", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "NEW"}, {"added": "INVALID", "removed": "", "field_name": "resolution"}, {"removed": "", "added": "2006-10-24T22:13:36Z", "field_name": "cf_last_resolved"}]}], "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c49b80497aaea5f28e9f8f98de22fc71d54dad510e614f09f0d02f93c3ca672
+size 667

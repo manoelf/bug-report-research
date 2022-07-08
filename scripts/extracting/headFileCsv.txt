@@ -1,1 +1,3 @@
-bugId§resolution§severity§type§status§classification§comment_count§Priority§Platform_text§Platform_size§Platform_numberLines§Preconditions_text§Preconditions_size§Preconditions_numberLines§Steps to reproduce_text§Steps to reproduce_size§Steps to reproduce_numberLines§Expected result_text§Expected result_size§Expected result_numberLines§Actual result_text§Actual result_size§Actual result_numberLines§Reproducible_text§Reproducible_size§Reproducible_numberLines§User Agent_text§User Agent_size§User Agent_numberLines§_text§_size§_numberLines§complete§initialTime§endTime
+version https://git-lfs.github.com/spec/v1
+oid sha256:e608cc9cfd175bd281da35c0bbb6fd18738dd7c853d330c30ebc12b2702ad46d
+size 606

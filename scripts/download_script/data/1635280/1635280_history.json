@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"who": "jdavis@getpocket.com", "when": "2020-05-18T17:29:30Z", "changes": [{"added": "78.2 - May 18 - May 31", "removed": "78.1 - May 4 - May 17", "field_name": "cf_fx_iteration"}]}, {"changes": [{"added": "FIXED", "removed": "", "field_name": "resolution"}, {"field_name": "status", "removed": "NEW", "added": "RESOLVED"}, {"added": "2020-06-02T16:24:06Z", "field_name": "cf_last_resolved", "removed": ""}], "who": "mathijs@getpocket.com", "when": "2020-06-02T16:24:06Z"}], "id": 1635280, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e2837877a21094cf4a449509730f80dacd268c8423a5ba98600ede1b5dff3de
+size 530

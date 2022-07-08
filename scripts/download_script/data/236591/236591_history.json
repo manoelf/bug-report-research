@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2004-03-06T00:10:14Z", "who": "bugzilla@accessibleinter.net", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"removed": "", "added": "INVALID", "field_name": "resolution"}, {"field_name": "cf_last_resolved", "removed": "", "added": "2004-03-06T00:10:14Z"}]}, {"who": "polidobj@yahoo.com", "when": "2007-08-23T18:54:17Z", "changes": [{"field_name": "cc", "removed": "", "added": "polidobj@yahoo.com"}]}], "id": 236591, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:86e8ef49f8ab7d8a58f120c4287cecd677c8797b6f988b2f76998d3bc3c6fd53
+size 506

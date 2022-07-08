@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"field_name": "cf_last_resolved", "added": "2003-12-17T22:13:15Z", "removed": ""}], "who": "tadeumaia@gmail.com", "when": "2003-12-17T22:13:15Z"}], "alias": null, "id": 223961}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b994af7c81757b0345138b5276d97fc768d09a058b7097c3f311ff4158c9b32
+size 353

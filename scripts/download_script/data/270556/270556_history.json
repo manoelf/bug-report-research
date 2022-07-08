@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"when": "2005-09-09T16:29:35Z", "who": "gabrielsjoberg@gmail.com", "changes": [{"field_name": "keywords", "added": "qawanted, verifyme", "removed": ""}, {"added": "gabrielsjoberg@gmail.com", "field_name": "cc", "removed": ""}]}, {"changes": [{"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"field_name": "cf_last_resolved", "added": "2006-10-07T10:02:54Z", "removed": ""}], "when": "2006-10-07T10:02:54Z", "who": "eyalroz1@gmx.com"}, {"when": "2008-10-06T13:26:57Z", "who": "dao+bmo@mozilla.com", "changes": [{"removed": "qawanted", "added": "", "field_name": "keywords"}]}], "alias": null, "id": 270556}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e446063017b70b71648e72bf9db7cfc35a753a4ed62241f00327bdf39225dbd9
+size 721

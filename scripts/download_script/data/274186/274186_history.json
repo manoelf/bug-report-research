@@ -1,1 +1,3 @@
-{"bugs": [{"history": [{"changes": [{"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"added": "silver@warwickcompsoc.co.uk", "field_name": "cc", "removed": ""}, {"added": "2004-12-11T20:00:17Z", "field_name": "cf_last_resolved", "removed": ""}], "when": "2004-12-11T20:00:17Z", "who": "bugzilla-mozilla-20000923@james-ross.co.uk"}], "id": 274186, "alias": null}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:83cee6ab49a660a5b7195cc84b6fc2aed48b99236fbecfc09a7f1a2a18416c7a
+size 453

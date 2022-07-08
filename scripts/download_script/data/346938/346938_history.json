@@ -1,1 +1,3 @@
-{"bugs": [{"alias": null, "history": [{"when": "2006-08-02T15:53:27Z", "who": "mark@moxienet.com", "changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"added": "INVALID", "removed": "", "field_name": "resolution"}, {"field_name": "cc", "removed": "", "added": "mark@moxienet.com"}, {"added": "2006-08-02T15:53:27Z", "removed": "", "field_name": "cf_last_resolved"}]}], "id": 346938}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecf28eea0a82f60481d35ecf6c77ab671d50859772688651cca0ab9902c0f276
+size 418

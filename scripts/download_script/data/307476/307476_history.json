@@ -1,1 +1,3 @@
-{"bugs": [{"id": 307476, "alias": null, "history": [{"when": "2010-01-26T01:48:26Z", "who": "lex.lists@gmail.com", "changes": [{"field_name": "cc", "removed": "", "added": "lex.lists@gmail.com"}]}, {"changes": [{"added": "RESOLVED", "removed": "UNCONFIRMED", "field_name": "status"}, {"removed": "", "added": "WONTFIX", "field_name": "resolution"}, {"removed": "", "added": "2011-01-01T00:54:11Z", "field_name": "cf_last_resolved"}], "when": "2011-01-01T00:54:11Z", "who": "ramune@net-ronin.org"}]}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78f621c6a2334605d9c0a8d19c00cc481b7851d08631e7ba9cc3c4f161000a6
+size 500
