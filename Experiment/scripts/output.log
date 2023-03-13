@@ -1,0 +1,271 @@
+Loading dataset..
+Dataset loaded...
+removing unwanted features
+Defining functions..
+Printing distribution...
+Splitting dataset into train, test
+Defining models
+Running models ...
+Naive Bayes Metrics:
+
+Accuracy score is:	12.35%
+Precision score is:	66.04%
+Recall score is:	12.35%
+F1 score is:	14.11%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+[[ 279   12    8   30    1  341  636    3]
+ [1038  813  225   77    4 3198 3108   25]
+ [   9    0    0    1    0    8   22    2]
+ [ 269    5    1   22    0   56  350    9]
+ [  88    3    1    6    0   79  273    2]
+ [   0    0    0    0    0    7    0    0]
+ [ 133    8    3    6    0   80  495    3]
+ [ 367   18   11   50    3  243  756   15]]
+              precision    recall  f1-score   support
+
+   DUPLICATE       0.13      0.21      0.16      1310
+       FIXED       0.95      0.10      0.17      8488
+    INACTIVE       0.00      0.00      0.00        42
+  INCOMPLETE       0.11      0.03      0.05       712
+     INVALID       0.00      0.00      0.00       452
+       MOVED       0.00      1.00      0.00         7
+     WONTFIX       0.09      0.68      0.16       728
+  WORKSFORME       0.25      0.01      0.02      1463
+
+    accuracy                           0.12     13202
+   macro avg       0.19      0.25      0.07     13202
+weighted avg       0.66      0.12      0.14     13202
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Logistic Regression Metrics:
+
+Accuracy score is:	0.05%
+Precision score is:	0.0%
+Recall score is:	0.05%
+F1 score is:	0.0%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+[[   0    0    0    0    0 1310    0    0]
+ [   0    0    0    0    0 8488    0    0]
+ [   0    0    0    0    0   42    0    0]
+ [   0    0    0    0    0  712    0    0]
+ [   0    0    0    0    0  452    0    0]
+ [   0    0    0    0    0    7    0    0]
+ [   0    0    0    0    0  728    0    0]
+ [   0    0    0    0    0 1463    0    0]]
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+   DUPLICATE       0.00      0.00      0.00      1310
+       FIXED       0.00      0.00      0.00      8488
+    INACTIVE       0.00      0.00      0.00        42
+  INCOMPLETE       0.00      0.00      0.00       712
+     INVALID       0.00      0.00      0.00       452
+       MOVED       0.00      1.00      0.00         7
+     WONTFIX       0.00      0.00      0.00       728
+  WORKSFORME       0.00      0.00      0.00      1463
+
+    accuracy                           0.00     13202
+   macro avg       0.00      0.12      0.00     13202
+weighted avg       0.00      0.00      0.00     13202
+
+Decision Tree Metrics:
+
+Accuracy score is:	65.71%
+Precision score is:	66.17%
+Recall score is:	65.71%
+F1 score is:	65.93%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+[[ 360  382    7   89   92    6  114  260]
+ [ 384 7279   13  101  140    7  207  357]
+ [   5   12    1    5    3    0    4   12]
+ [ 101  102    4  293   34    1   49  128]
+ [ 100   82    8   37   83    0   47   95]
+ [   3    2    0    0    1    0    0    1]
+ [ 104  206   12   33   56    2  208  107]
+ [ 288  352   11  133   95    3  130  451]]
+              precision    recall  f1-score   support
+
+   DUPLICATE       0.27      0.27      0.27      1310
+       FIXED       0.86      0.86      0.86      8488
+    INACTIVE       0.02      0.02      0.02        42
+  INCOMPLETE       0.42      0.41      0.42       712
+     INVALID       0.16      0.18      0.17       452
+       MOVED       0.00      0.00      0.00         7
+     WONTFIX       0.27      0.29      0.28       728
+  WORKSFORME       0.32      0.31      0.31      1463
+
+    accuracy                           0.66     13202
+   macro avg       0.29      0.29      0.29     13202
+weighted avg       0.66      0.66      0.66     13202
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Random Forest Metrics:
+
+Accuracy score is:	74.46%
+Precision score is:	71.81%
+Recall score is:	74.46%
+F1 score is:	72.32%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+[[ 456  485    0   44   25    0   54  246]
+ [ 161 8101    0   19   13    0   44  150]
+ [   5   15    1    2    1    0    2   16]
+ [  82  107    0  334    8    0   25  156]
+ [ 106  132    0   13   75    0   24  102]
+ [   3    2    0    0    0    0    0    2]
+ [  96  261    0   18    9    0  218  126]
+ [ 233  432    1   70   18    0   64  645]]
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+   DUPLICATE       0.40      0.35      0.37      1310
+       FIXED       0.85      0.95      0.90      8488
+    INACTIVE       0.50      0.02      0.05        42
+  INCOMPLETE       0.67      0.47      0.55       712
+     INVALID       0.50      0.17      0.25       452
+       MOVED       0.00      0.00      0.00         7
+     WONTFIX       0.51      0.30      0.38       728
+  WORKSFORME       0.45      0.44      0.44      1463
+
+    accuracy                           0.74     13202
+   macro avg       0.48      0.34      0.37     13202
+weighted avg       0.72      0.74      0.72     13202
+
+Gradient Boosting Metrics:
+
+Accuracy score is:	65.79%
+Precision score is:	73.28%
+Recall score is:	65.79%
+F1 score is:	68.85%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+[[ 448  127   46  122  167   50  158  192]
+ [ 479 6872   73   98  217   97  398  254]
+ [   3    2   19    3    3    1    3    8]
+ [  63   17   18  387   42    6   74  105]
+ [  85   23   13   58  147   11   61   54]
+ [   2    1    0    0    0    4    0    0]
+ [  89   57   46   52   60    8  314  102]
+ [ 274  116   67  214  130   35  133  494]]
+              precision    recall  f1-score   support
+
+   DUPLICATE       0.31      0.34      0.33      1310
+       FIXED       0.95      0.81      0.88      8488
+    INACTIVE       0.07      0.45      0.12        42
+  INCOMPLETE       0.41      0.54      0.47       712
+     INVALID       0.19      0.33      0.24       452
+       MOVED       0.02      0.57      0.04         7
+     WONTFIX       0.28      0.43      0.34       728
+  WORKSFORME       0.41      0.34      0.37      1463
+
+    accuracy                           0.66     13202
+   macro avg       0.33      0.48      0.35     13202
+weighted avg       0.73      0.66      0.69     13202
+
+Tunning Random Forest...
+Hyperparams of RandomForest:
+
+Got accuracy score of 0.9938684511150953 in 10-fold
+Best depth: None. Best number of leafs: None
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/metrics/_classification.py:1327: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+RandomForest Metrics:
+
+Accuracy score is:	74.46%
+Precision score is:	71.81%
+Recall score is:	74.46%
+F1 score is:	72.32%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+Tunning Decision Tree...
+Hyperparams of Decision Tree:
+
+Got accuracy score of 0.9804025151639435 in 10-fold
+Best depth: None. Best number of leafs: None
+Decision Tree Metrics:
+
+Accuracy score is:	65.51%
+Precision score is:	65.88%
+Recall score is:	65.51%
+F1 score is:	65.68%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+Tunning Gradient Boosting...
+Hyperparams of Gradient Boosting:
+
+Got accuracy score of 0.8170033218558744 in 10-fold
+Best max depth: 8. Best number of estimators: 100
+Best min sample split: 5. Best min sample leaf: 1
+Best max features: None. Best subsample: 0.5
+Gradient Boosting Metrics:
+
+Accuracy score is:	70.3%
+Precision score is:	74.3%
+Recall score is:	70.3%
+F1 score is:	72.02%
+
+
+/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/deprecation.py:87: FutureWarning: Function plot_confusion_matrix is deprecated; Function `plot_confusion_matrix` is deprecated in 1.0 and will be removed in 1.2. Use one of the class methods: ConfusionMatrixDisplay.from_predictions or ConfusionMatrixDisplay.from_estimator.
+  warnings.warn(msg, category=FutureWarning)
+Tunning Naive Bayes...
+Traceback (most recent call last):
+  File "/local_home/manel_local/Documentos/Experiment/scripts/experiment_hyperparameters_tunning.py", line 288, in <module>
+    NB_tuned_metrics, nb_pred = get_tuned_metrics(NB, "Naive Bayes", 10, x_train, y_train, x_test, y_test, classes)
+  File "/local_home/manel_local/Documentos/Experiment/scripts/experiment_hyperparameters_tunning.py", line 172, in get_tuned_metrics
+    grid.fit(x_train, y_train)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/model_selection/_search.py", line 875, in fit
+    self._run_search(evaluate_candidates)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/model_selection/_search.py", line 1375, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/model_selection/_search.py", line 822, in evaluate_candidates
+    out = parallel(
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/joblib/parallel.py", line 1043, in __call__
+    if self.dispatch_one_batch(iterator):
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/joblib/parallel.py", line 861, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/joblib/parallel.py", line 779, in _dispatch
+    job = self._backend.apply_async(batch, callback=cb)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/joblib/_parallel_backends.py", line 208, in apply_async
+    result = ImmediateResult(func)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/joblib/_parallel_backends.py", line 572, in __init__
+    self.results = batch()
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/joblib/parallel.py", line 262, in __call__
+    return [func(*args, **kwargs)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/joblib/parallel.py", line 262, in <listcomp>
+    return [func(*args, **kwargs)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/utils/fixes.py", line 117, in __call__
+    return self.function(*args, **kwargs)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/model_selection/_validation.py", line 674, in _fit_and_score
+    estimator = estimator.set_params(**cloned_parameters)
+  File "/local_home/manel_local/.local/lib/python3.9/site-packages/sklearn/base.py", line 246, in set_params
+    raise ValueError(
+ValueError: Invalid parameter 'max_depth' for estimator GaussianNB(). Valid parameters are: ['priors', 'var_smoothing'].
