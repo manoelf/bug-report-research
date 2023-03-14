@@ -1,1 +1,0 @@
-{"bugs": [{"id": 228604, "alias": null, "history": [{"who": "peter.vanderwoude@gmail.com", "when": "2003-12-16T19:58:41Z", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"field_name": "resolution", "added": "FIXED", "removed": ""}, {"removed": "", "field_name": "cf_last_resolved", "added": "2003-12-16T19:58:41Z"}]}]}]}

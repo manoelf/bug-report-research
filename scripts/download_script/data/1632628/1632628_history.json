@@ -1,1 +1,0 @@
-{"bugs": [{"id": 1632628, "history": [{"who": "wcosta@mozilla.com", "when": "2020-04-24T11:18:26Z", "changes": [{"added": "RESOLVED", "removed": "NEW", "field_name": "status"}, {"removed": "", "field_name": "resolution", "added": "INVALID"}, {"added": "2020-04-24T11:18:26Z", "removed": "", "field_name": "cf_last_resolved"}]}], "alias": null}]}

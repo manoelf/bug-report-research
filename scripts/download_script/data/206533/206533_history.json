@@ -1,1 +1,0 @@
-{"bugs": [{"alias": null, "id": 206533, "history": [{"when": "2003-05-31T12:08:36Z", "who": "insider@t-k.ru", "changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"field_name": "resolution", "added": "INVALID", "removed": ""}, {"added": "2003-05-31T12:08:36Z", "field_name": "cf_last_resolved", "removed": ""}]}]}]}

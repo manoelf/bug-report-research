@@ -1,1 +1,0 @@
-{"bugs": [{"history": [{"changes": [{"removed": "UNCONFIRMED", "added": "RESOLVED", "field_name": "status"}, {"field_name": "resolution", "removed": "", "added": "INVALID"}, {"field_name": "cf_last_resolved", "removed": "", "added": "2003-06-02T21:48:18Z"}], "who": "bugzilla_kl@3dots.de", "when": "2003-06-02T21:48:18Z"}], "id": 207854, "alias": null}]}

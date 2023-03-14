@@ -1,1 +1,0 @@
-{"bugs": [{"history": [{"changes": [{"field_name": "status", "added": "RESOLVED", "removed": "UNCONFIRMED"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"removed": "", "field_name": "cf_last_resolved", "added": "2004-09-28T08:22:40Z"}], "who": "shengh@gmail.com", "when": "2004-09-28T08:22:40Z"}], "alias": null, "id": 261383}]}

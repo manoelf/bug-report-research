@@ -1,1 +1,0 @@
-{"bugs": [{"history": [{"who": "gk4@austin.ibm.com", "when": "2005-03-21T21:41:02Z", "changes": [{"removed": "UNCONFIRMED", "field_name": "status", "added": "RESOLVED"}, {"added": "INVALID", "field_name": "resolution", "removed": ""}, {"added": "2005-03-21T21:41:02Z", "field_name": "cf_last_resolved", "removed": ""}]}], "id": 287108, "alias": null}]}
